@@ -1,0 +1,366 @@
+{
+    "body": {
+        "messages": [
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1p4js0h9rxyjh0yvw5meqx97r8yvcnpch5c8qwu",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "500000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1c7l3lvqp53fdg4ux8yvemsf540s044nekzvrtk",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "500000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1a0wncd3r039lj3zcuhvkhwwrdch34kfk7wwl6z",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1a9h4f8yu97shmgxrrm0r52ze8mwl0ljs99uql3",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "250000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1z28n9utzj7qtj3p8aqafl6uqjxakx2fjep6lnv",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "740000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1eq94yckc0nucpl7utrjw6vcjuud0a3e9jknsv4",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "980000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1mlxynkqd9js8tkdnkk0e27lgz7x9lt86x5swgk",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "10000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo15udt0d89zumum25xcprnnptg6tx3555cyk8mlr",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1mx4h4zfta4rmx24ddu0js5r5a8ymyk0q364k74",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1mx4h4zfta4rmx24ddu0js5r5a8ymyk0q364k74",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1mx4h4zfta4rmx24ddu0js5r5a8ymyk0q364k74",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1swju37pm33rp8tpwj3zknh6zmd9gahemn033es",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "750000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1mlxynkqd9js8tkdnkk0e27lgz7x9lt86x5swgk",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "250000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1mlxynkqd9js8tkdnkk0e27lgz7x9lt86x5swgk",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "220000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1c7l3lvqp53fdg4ux8yvemsf540s044nekzvrtk",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "220000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1hyhmssn4j6fxlvq58ctlpxwg5az7shg77l6n7z",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "220000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1wtcp7m7589vdmsse30rsrlt357dwy0qy5l6gp2",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "220000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo12jrc38pc09frc4v7fqdsrmwp6rlfmxxaswnqpsf24m6p7q3u6n6ql8gm2z",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "110000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1hyhmssn4j6fxlvq58ctlpxwg5az7shg77l6n7z",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "190000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1wtcp7m7589vdmsse30rsrlt357dwy0qy5l6gp2",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "780000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1mqypstgwxah7mnw2dqh25g9f3qq55zg95z7ejp",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "10000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1arx7mzasddvte09r6uxw8cf9z3zu3pqykl70jj",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "660000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1hyhmssn4j6fxlvq58ctlpxwg5az7shg77l6n7z",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "330000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1hyhmssn4j6fxlvq58ctlpxwg5az7shg77l6n7z",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1mqypstgwxah7mnw2dqh25g9f3qq55zg95z7ejp",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1mqypstgwxah7mnw2dqh25g9f3qq55zg95z7ejp",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1mqypstgwxah7mnw2dqh25g9f3qq55zg95z7ejp",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1v49tsr2e9fkpuhs9zrnwaesq5m2nw7zur9mr6k",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "500000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo14j8v58gv5ardgmrsj33x9hex4pdsmafqtfnxvr",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "500000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1hyhmssn4j6fxlvq58ctlpxwg5az7shg77l6n7z",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1yoursezwalletaddress",
+                "to_address": "osmo1npc3k4kkhzsvkc45kfwh73exkd2wmgc68eecgy",
+                "amount": [
+                    {
+                        "denom": "uosmo",
+                        "amount": "1000000"
+                    }
+                ]
+            }
+        ],
+        "memo": "",
+        "timeout_height": "0",
+        "extension_options": [],
+        "non_critical_extension_options": []
+    },
+    "auth_info": {
+        "signer_infos": [],
+        "fee": {
+            "amount": [
+                {
+                    "denom": "uosmo",
+                    "amount": "600000"
+                }
+            ],
+            "gas_limit": "600000",
+            "payer": "",
+            "granter": ""
+        }
+    },
+    "signatures": []
+}

@@ -1,0 +1,159 @@
+{
+    "recipients": [
+        {
+            "name": "michoady",
+            "stargaze_address": "stars1p4js0h9rxyjh0yvw5meqx97r8yvcnpchglrdnl",
+            "osmosis_address": "osmo1p4js0h9rxyjh0yvw5meqx97r8yvcnpch5c8qwu"
+        },
+        {
+            "name": "frogstar",
+            "stargaze_address": "stars1c7l3lvqp53fdg4ux8yvemsf540s044ne29gwk4",
+            "osmosis_address": "osmo1c7l3lvqp53fdg4ux8yvemsf540s044nekzvrtk"
+        },
+        {
+            "name": "the rejects",
+            "stargaze_address": "stars1a0wncd3r039lj3zcuhvkhwwrdch34kfkzf2j8p",
+            "osmosis_address": "osmo1a0wncd3r039lj3zcuhvkhwwrdch34kfk7wwl6z"
+        },
+        {
+            "name": "designer",
+            "stargaze_address": "stars1a9h4f8yu97shmgxrrm0r52ze8mwl0ljsezcdzj",
+            "osmosis_address": "osmo1a9h4f8yu97shmgxrrm0r52ze8mwl0ljs99uql3"
+        },
+        {
+            "name": "IBCBERDS",
+            "stargaze_address": "stars1z28n9utzj7qtj3p8aqafl6uqjxakx2fj9x7jw0",
+            "osmosis_address": "osmo1z28n9utzj7qtj3p8aqafl6uqjxakx2fjep6lnv"
+        },
+        {
+            "name": "conspiracy",
+            "stargaze_address": "stars1eq94yckc0nucpl7utrjw6vcjuud0a3e9w3ha3k",
+            "osmosis_address": "osmo1eq94yckc0nucpl7utrjw6vcjuud0a3e9jknsv4"
+        },
+        {
+            "name": "smokers",
+            "stargaze_address": "stars1mlxynkqd9js8tkdnkk0e27lgz7x9lt866n5r44",
+            "osmosis_address": "osmo1mlxynkqd9js8tkdnkk0e27lgz7x9lt86x5swgk"
+        },
+        {
+            "name": "king shid",
+            "stargaze_address": "stars15udt0d89zumum25xcprnnptg6tx3555cc3rkzq",
+            "osmosis_address": "osmo15udt0d89zumum25xcprnnptg6tx3555cyk8mlr"
+        },
+        {
+            "name": "SP",
+            "stargaze_address": "stars1mx4h4zfta4rmx24ddu0js5r5a8ymyk0qda3mrk",
+            "osmosis_address": "osmo1mx4h4zfta4rmx24ddu0js5r5a8ymyk0q364k74"
+        },
+        {
+            "name": "EG",
+            "stargaze_address": "stars1mx4h4zfta4rmx24ddu0js5r5a8ymyk0qda3mrk",
+            "osmosis_address": "osmo1mx4h4zfta4rmx24ddu0js5r5a8ymyk0q364k74"
+        },
+        {
+            "name": "JH",
+            "stargaze_address": "stars1mx4h4zfta4rmx24ddu0js5r5a8ymyk0qda3mrk",
+            "osmosis_address": "osmo1mx4h4zfta4rmx24ddu0js5r5a8ymyk0q364k74"
+        },
+        {
+            "name": "crypto matcha",
+            "stargaze_address": "stars1swju37pm33rp8tpwj3zknh6zmd9gahem0g4uyn",
+            "osmosis_address": "osmo1swju37pm33rp8tpwj3zknh6zmd9gahemn033es"
+        },
+        {
+            "name": "smokers",
+            "stargaze_address": "stars1mlxynkqd9js8tkdnkk0e27lgz7x9lt866n5r44",
+            "osmosis_address": "osmo1mlxynkqd9js8tkdnkk0e27lgz7x9lt86x5swgk"
+        },
+        {
+            "name": "smokers",
+            "stargaze_address": "stars1mlxynkqd9js8tkdnkk0e27lgz7x9lt866n5r44",
+            "osmosis_address": "osmo1mlxynkqd9js8tkdnkk0e27lgz7x9lt86x5swgk"
+        },
+        {
+            "name": "frogstar",
+            "stargaze_address": "stars1c7l3lvqp53fdg4ux8yvemsf540s044ne29gwk4",
+            "osmosis_address": "osmo1c7l3lvqp53fdg4ux8yvemsf540s044nekzvrtk"
+        },
+        {
+            "name": "proto towers royalties",
+            "stargaze_address": "stars1hyhmssn4j6fxlvq58ctlpxwg5az7shg7zc77rp",
+            "osmosis_address": "osmo1hyhmssn4j6fxlvq58ctlpxwg5az7shg77l6n7z"
+        },
+        {
+            "name": "flarnrules",
+            "stargaze_address": "stars1wtcp7m7589vdmsse30rsrlt357dwy0qygc79uf",
+            "osmosis_address": "osmo1wtcp7m7589vdmsse30rsrlt357dwy0qy5l6gp2"
+        },
+        {
+            "name": "ptdao",
+            "stargaze_address": "stars12jrc38pc09frc4v7fqdsrmwp6rlfmxxaswnqpsf24m6p7q3u6n6qua5yju",
+            "osmosis_address": "osmo12jrc38pc09frc4v7fqdsrmwp6rlfmxxaswnqpsf24m6p7q3u6n6ql8gm2z"
+        },
+        {
+            "name": "pt royalties",
+            "stargaze_address": "stars1hyhmssn4j6fxlvq58ctlpxwg5az7shg7zc77rp",
+            "osmosis_address": "osmo1hyhmssn4j6fxlvq58ctlpxwg5az7shg77l6n7z"
+        },
+        {
+            "name": "flarnrules",
+            "stargaze_address": "stars1wtcp7m7589vdmsse30rsrlt357dwy0qygc79uf",
+            "osmosis_address": "osmo1wtcp7m7589vdmsse30rsrlt357dwy0qy5l6gp2"
+        },
+        {
+            "name": "jinxto",
+            "stargaze_address": "stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z",
+            "osmosis_address": "osmo1mqypstgwxah7mnw2dqh25g9f3qq55zg95z7ejp"
+        },
+        {
+            "name": "frogstar",
+            "stargaze_address": "stars1arx7mzasddvte09r6uxw8cf9z3zu3pqy2c6z03",
+            "osmosis_address": "osmo1arx7mzasddvte09r6uxw8cf9z3zu3pqykl70jj"
+        },
+        {
+            "name": "PT royalties",
+            "stargaze_address": "stars1hyhmssn4j6fxlvq58ctlpxwg5az7shg7zc77rp",
+            "osmosis_address": "osmo1hyhmssn4j6fxlvq58ctlpxwg5az7shg77l6n7z"
+        },
+        {
+            "name": "PT Royalties wallet",
+            "stargaze_address": "stars1hyhmssn4j6fxlvq58ctlpxwg5az7shg7zc77rp",
+            "osmosis_address": "osmo1hyhmssn4j6fxlvq58ctlpxwg5az7shg77l6n7z"
+        },
+        {
+            "name": "jinxto",
+            "stargaze_address": "stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z",
+            "osmosis_address": "osmo1mqypstgwxah7mnw2dqh25g9f3qq55zg95z7ejp"
+        },
+        {
+            "name": "jinxto",
+            "stargaze_address": "stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z",
+            "osmosis_address": "osmo1mqypstgwxah7mnw2dqh25g9f3qq55zg95z7ejp"
+        },
+        {
+            "name": "jinxto",
+            "stargaze_address": "stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z",
+            "osmosis_address": "osmo1mqypstgwxah7mnw2dqh25g9f3qq55zg95z7ejp"
+        },
+        {
+            "name": "vans1",
+            "stargaze_address": "stars1v49tsr2e9fkpuhs9zrnwaesq5m2nw7zulzlw84",
+            "osmosis_address": "osmo1v49tsr2e9fkpuhs9zrnwaesq5m2nw7zur9mr6k"
+        },
+        {
+            "name": "vans2",
+            "stargaze_address": "stars14j8v58gv5ardgmrsj33x9hex4pdsmafqhwht3q",
+            "osmosis_address": "osmo14j8v58gv5ardgmrsj33x9hex4pdsmafqtfnxvr"
+        },
+        {
+            "name": "PT Royalties Wallet",
+            "stargaze_address": "stars1hyhmssn4j6fxlvq58ctlpxwg5az7shg7zc77rp",
+            "osmosis_address": "osmo1hyhmssn4j6fxlvq58ctlpxwg5az7shg77l6n7z"
+        },
+        {
+            "name": "Pudgy Pandas",
+            "stargaze_address": "stars1npc3k4kkhzsvkc45kfwh73exkd2wmgc6m7a448",
+            "osmosis_address": "osmo1npc3k4kkhzsvkc45kfwh73exkd2wmgc68eecgy"
+        }
+    ]
+}

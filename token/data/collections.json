@@ -1,0 +1,131 @@
+{
+    "collections": [
+      {
+        "name": "Michoady Popurri",
+        "recipients": [
+          {"address": "stars1p4js0h9rxyjh0yvw5meqx97r8yvcnpchglrdnl", "weight": 475, "label": "michoady"},
+          {"address": "stars1c7l3lvqp53fdg4ux8yvemsf540s044ne29gwk4", "weight": 475, "label": "frogstar"}
+        ]
+      },
+      {
+        "name": "The Rejects",
+        "recipients": [
+          {"address": "stars1a0wncd3r039lj3zcuhvkhwwrdch34kfkzf2j8p", "weight": 980, "label": "the rejects"}
+        ]
+      },
+      {
+        "name": "IBC Berds",
+        "recipients": [
+          {"address": "stars1a9h4f8yu97shmgxrrm0r52ze8mwl0ljsezcdzj", "weight": 250, "label": "designer"},
+          {"address": "stars1z28n9utzj7qtj3p8aqafl6uqjxakx2fj9x7jw0", "weight": 730, "label": "IBCBERDS"}
+        ]
+      },
+      {
+        "name": "Conspiracy Culture",
+        "recipients": [
+          {"address": "stars1eq94yckc0nucpl7utrjw6vcjuud0a3e9w3ha3k", "weight": 940, "label": "conspiracy"},
+          {"address": "stars1mlxynkqd9js8tkdnkk0e27lgz7x9lt866n5r44", "weight": 10, "label": "smokers"}
+        ]
+      },
+      {
+        "name": "King Shid Club",
+        "recipients": [
+          {"address": "stars15udt0d89zumum25xcprnnptg6tx3555cc3rkzq", "weight": 500, "label": "king shid"}
+        ]
+      },
+      {
+        "name": "Static Phantom",
+        "recipients": [
+          {"address": "stars1mx4h4zfta4rmx24ddu0js5r5a8ymyk0qda3mrk", "weight": 950, "label": "SP"}
+        ]
+      },
+      {
+        "name": "Emoji Garden",
+        "recipients": [
+          {"address": "stars1mx4h4zfta4rmx24ddu0js5r5a8ymyk0qda3mrk", "weight": 950, "label": "EG"}
+        ]
+      },
+      {
+        "name": "Jeckyll or Hyde",
+        "recipients": [
+          {"address": "stars1mx4h4zfta4rmx24ddu0js5r5a8ymyk0qda3mrk", "weight": 950, "label": "JH"}
+        ]
+      },
+      {
+        "name": "After the Halving",
+        "recipients": [
+          {"address": "stars1swju37pm33rp8tpwj3zknh6zmd9gahem0g4uyn", "weight": 600, "label": "crypto matcha"},
+          {"address": "stars1mlxynkqd9js8tkdnkk0e27lgz7x9lt866n5r44", "weight": 200, "label": "smokers"}
+        ]
+      },
+      {
+        "name": "Frogs",
+        "recipients": [
+          {"address": "stars1mlxynkqd9js8tkdnkk0e27lgz7x9lt866n5r44", "weight": 200, "label": "smokers"},
+          {"address": "stars1c7l3lvqp53fdg4ux8yvemsf540s044ne29gwk4", "weight": 200, "label": "frogstar"},
+          {"address": "stars1hyhmssn4j6fxlvq58ctlpxwg5az7shg7zc77rp", "weight": 200, "label": "proto towers royalties"},
+          {"address": "stars1wtcp7m7589vdmsse30rsrlt357dwy0qygc79uf", "weight": 200, "label": "flarnrules"},
+          {"address": "stars12jrc38pc09frc4v7fqdsrmwp6rlfmxxaswnqpsf24m6p7q3u6n6qua5yju", "weight": 100, "label": "ptdao"}
+        ]
+      },
+      {
+        "name": "Frog Day",
+        "recipients": [
+          {"address": "stars1hyhmssn4j6fxlvq58ctlpxwg5az7shg7zc77rp", "weight": 100, "label": "pt royalties"},
+          {"address": "stars1wtcp7m7589vdmsse30rsrlt357dwy0qygc79uf", "weight": 400, "label": "flarnrules"},
+          {"address": "stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z", "weight": 10, "label": "jinxto"}
+        ]
+      },
+      {
+        "name": "Things",
+        "recipients": [
+          {"address": "stars1arx7mzasddvte09r6uxw8cf9z3zu3pqy2c6z03", "weight": 500, "label": "frogstar"},
+          {"address": "stars1hyhmssn4j6fxlvq58ctlpxwg5az7shg7zc77rp", "weight": 250, "label": "PT royalties"}
+        ]
+      },
+      {
+        "name": "Proto Towers",
+        "recipients": [
+          {"address": "stars1hyhmssn4j6fxlvq58ctlpxwg5az7shg7zc77rp", "weight": 980, "label": "PT Royalties wallet"}
+        ]
+      },
+      {
+        "name": "The Wadsquad",
+        "recipients": [
+          {"address": "stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z", "weight": 250, "label": "jinxto"}
+        ]
+      },
+      {
+        "name": "Reaper Wads",
+        "recipients": [
+          {"address": "stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z", "weight": 250, "label": "jinxto"}
+        ]
+      },
+      {
+        "name": "420 Wads",
+        "recipients": [
+          {"address": "stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z", "weight": 250, "label": "jinxto"}
+        ]
+      },
+      {
+        "name": "Pixel Vans",
+        "recipients": [
+          {"address": "stars1v49tsr2e9fkpuhs9zrnwaesq5m2nw7zulzlw84", "weight": 450, "label": "vans1"},
+          {"address": "stars14j8v58gv5ardgmrsj33x9hex4pdsmafqhwht3q", "weight": 450, "label": "vans2"}
+        ]
+      },
+      {
+        "name": "Market Animal 171",
+        "recipients": [
+          {"address": "stars1hyhmssn4j6fxlvq58ctlpxwg5az7shg7zc77rp", "weight": 900, "label": "PT Royalties Wallet"}
+        ]
+      },
+      {
+        "name": "Pudgy Pandas",
+        "recipients": [
+          {"address": "stars1npc3k4kkhzsvkc45kfwh73exkd2wmgc6m7a448", "weight": 600, "label": "Pudgy Pandas"}
+        ]
+      }
+    ]
+  }
+  
