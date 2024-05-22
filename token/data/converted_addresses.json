@@ -136,12 +136,7 @@
             "osmosis_address": "osmo1mqypstgwxah7mnw2dqh25g9f3qq55zg95z7ejp"
         },
         {
-            "name": "vans1",
-            "stargaze_address": "stars1v49tsr2e9fkpuhs9zrnwaesq5m2nw7zulzlw84",
-            "osmosis_address": "osmo1v49tsr2e9fkpuhs9zrnwaesq5m2nw7zur9mr6k"
-        },
-        {
-            "name": "vans2",
+            "name": "vans",
             "stargaze_address": "stars14j8v58gv5ardgmrsj33x9hex4pdsmafqhwht3q",
             "osmosis_address": "osmo14j8v58gv5ardgmrsj33x9hex4pdsmafqtfnxvr"
         },
@@ -154,6 +149,31 @@
             "name": "Pudgy Pandas",
             "stargaze_address": "stars1npc3k4kkhzsvkc45kfwh73exkd2wmgc6m7a448",
             "osmosis_address": "osmo1npc3k4kkhzsvkc45kfwh73exkd2wmgc68eecgy"
+        },
+        {
+            "name": "Slimy Blobfish",
+            "stargaze_address": "stars1hk792hvg4tl27tqg7fqeaezj8qu06u0aazzk27",
+            "osmosis_address": "osmo1hk792hvg4tl27tqg7fqeaezj8qu06u0ap9xmha"
+        },
+        {
+            "name": "Suits of Cosmos",
+            "stargaze_address": "stars1kumuf97l8yqc042yplqgzlkcrv9s2enrl8vnp6",
+            "osmosis_address": "osmo1kumuf97l8yqc042yplqgzlkcrv9s2enrrqg7ue"
+        },
+        {
+            "name": "Wolf Life",
+            "stargaze_address": "stars1ref3jlptwyhdf40phfxhff4sqs2v9kj6prcjpu",
+            "osmosis_address": "osmo1ref3jlptwyhdf40phfxhff4sqs2v9kj6ayulul"
+        },
+        {
+            "name": "Angry Parents",
+            "stargaze_address": "stars1uuw7kqjlmhunhyja9d25ludm8c34w663nazv9g",
+            "osmosis_address": "osmo1uuw7kqjlmhunhyja9d25ludm8c34w66306xpct"
+        },
+        {
+            "name": "Lil Trolls",
+            "stargaze_address": "stars1uzvm5338qhcn59f5ufxwml3qxl2arxa2gtpd6k",
+            "osmosis_address": "osmo1uzvm5338qhcn59f5ufxwml3qxl2arxa25v9q84"
         }
     ]
 }

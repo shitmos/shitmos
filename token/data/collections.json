@@ -110,8 +110,7 @@
       {
         "name": "Pixel Vans",
         "recipients": [
-          {"address": "stars1v49tsr2e9fkpuhs9zrnwaesq5m2nw7zulzlw84", "weight": 450, "label": "vans1"},
-          {"address": "stars14j8v58gv5ardgmrsj33x9hex4pdsmafqhwht3q", "weight": 450, "label": "vans2"}
+          {"address": "stars14j8v58gv5ardgmrsj33x9hex4pdsmafqhwht3q", "weight": 100, "label": "vans"}
         ]
       },
       {
@@ -124,6 +123,36 @@
         "name": "Pudgy Pandas",
         "recipients": [
           {"address": "stars1npc3k4kkhzsvkc45kfwh73exkd2wmgc6m7a448", "weight": 600, "label": "Pudgy Pandas"}
+        ]
+      },
+      {
+        "name": "Slimy Blobfish",
+        "recipients": [
+          {"address": "stars1hk792hvg4tl27tqg7fqeaezj8qu06u0aazzk27", "weight": 900, "label": "Slimy Blobfish"}
+        ]
+      },
+      {
+        "name": "Suits of Cosmos",
+        "recipients": [
+          {"address": "stars1kumuf97l8yqc042yplqgzlkcrv9s2enrl8vnp6", "weight": 500, "label": "Suits of Cosmos"}
+        ]
+      },
+      {
+        "name": "Wolf Life",
+        "recipients": [
+          {"address": "stars1ref3jlptwyhdf40phfxhff4sqs2v9kj6prcjpu", "weight": 500, "label": "Wolf Life"}
+        ]
+      },
+      {
+        "name": "Angry Parents",
+        "recipients": [
+          {"address": "stars1uuw7kqjlmhunhyja9d25ludm8c34w663nazv9g", "weight": 500, "label": "Angry Parents"}
+        ]
+      },
+      {
+        "name": "Lil Trolls",
+        "recipients": [
+          {"address": "stars1uzvm5338qhcn59f5ufxwml3qxl2arxa2gtpd6k", "weight": 100, "label": "Lil Trolls"}
         ]
       }
     ]
