@@ -1,0 +1,17 @@
+# Token Contract
+factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos
+
+# Liquidity Pools
+SHITMOS/OSMO, osmosis pool 1770:
+osmo16vwmg3xmlzltk24upzx9nd957sl0ffqnc0vc5ld0gzqtz3g7yplqeu8nrk
+https://app.osmosis.zone/pool/1770
+
+SHITMOS/CRBRUS pool 1799:
+osmo1vfgtgxxs3rg4ma86t68ecs6h5psxyl8a03tk9x8yvyke0pqncrjqqe59vn
+https://app.osmosis.zone/pool/1799
+
+# Shitmos Economic Zone Master Wallet
+cosmos1r6f5tfxdx2pw5p94f2v5n96xd4nglz5qe5gg5q
+osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj
+stars1r6f5tfxdx2pw5p94f2v5n96xd4nglz5qdgl4l3
+neutron1r6f5tfxdx2pw5p94f2v5n96xd4nglz5qatp2w8
