@@ -5,7 +5,7 @@
 
 # Denomination and amount configuration
 DENOM = "SHITMOS"
-UNIT_AMOUNT = 10.0
+UNIT_AMOUNT = 22.0
 
 # Define conversion rate (1 unit = 1,000,000 micro units)
 CONVERSION_RATE = 1_000_000

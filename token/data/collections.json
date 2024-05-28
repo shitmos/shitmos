@@ -154,6 +154,30 @@
         "recipients": [
           {"address": "stars1uzvm5338qhcn59f5ufxwml3qxl2arxa2gtpd6k", "weight": 100, "label": "Lil Trolls"}
         ]
+      },
+      {
+        "name": "Photo Shoot",
+        "recipients": [
+          {"address": "stars1a0wncd3r039lj3zcuhvkhwwrdch34kfkzf2j8p", "weight": 100, "label": "Photo Shoot"}
+        ]
+      },
+      {
+        "name": "Chillville",
+        "recipients": [
+          {"address": "stars1sr9l4ease3mnzl43ex3meunw7kesrdrr955n73", "weight": 100, "label": "Chillville"}
+        ]
+      },
+      {
+        "name": "Necroskull",
+        "recipients": [
+          {"address": "stars1a0wncd3r039lj3zcuhvkhwwrdch34kfkzf2j8p", "weight": 100, "label": "Necroskull"}
+        ]
+      },
+      {
+        "name": "GoRocket",
+        "recipients": [
+          {"address": "stars1k27gwgvuv6vlydeaamlsh79tp0kzqaa0grcvfe", "weight": 100, "label": "GoRocket"}
+        ]
       }
     ]
   }

@@ -31,7 +31,7 @@ def generate_transaction(collections, unit_amount, common_denom, from_address):
     full_denom = {v: k for k, v in config.TOKEN_NAME_MAPPING.items()}[common_denom]
     fee_denom = "uosmo"  # Set the fee denom
     fee_amount = "5000"  # Set the fee amount (in micro units)
-    gas_limit = "1000000"  # Increase the gas limit
+    gas_limit = "1100000"  # Increase the gas limit
     messages = []
     
     for collection in collections:

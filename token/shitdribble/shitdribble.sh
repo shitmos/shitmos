@@ -1,15 +1,31 @@
 #!/bin/bash
 export OSMOSISD_KEYRING_BACKEND=file
 
-# Transaction is saved here
+# Source the config.py values
+CONFIG_SCRIPT="../config.py"
+DENOM=$(python -c "import config; print(config.DENOM)")
+UNIT_AMOUNT=$(python -c "import config; print(config.UNIT_AMOUNT)")
+CONVERSION_RATE=$(python -c "import config; print(config.CONVERSION_RATE)")
+
+# Calculate the amount in micro units
+AMOUNT=$(python -c "print(int($UNIT_AMOUNT * $CONVERSION_RATE))")
+
+# Directories for transactions and balances
 TRANSACTIONS_DIR="../data/transactions"
+BALANCES_DIR="../data/balances"
 
-# If you are starting fresh, this makes directory if directory not there
+# If you are starting fresh, create directories if they do not exist
 mkdir -p $TRANSACTIONS_DIR
+mkdir -p $BALANCES_DIR
 
-# Run get_wallet_balances.py first
+# Create a dynamic balance file name
+TIMESTAMP=$(date +%Y%m%d_%H%M%S)
+INITIAL_BALANCES_FILE="${BALANCES_DIR}/initial_balances_${TIMESTAMP}.json"
+FINAL_BALANCES_FILE="${BALANCES_DIR}/final_balances_${TIMESTAMP}.json"
+
+# Run get_wallet_balances.py first and store the initial balances
 echo "Fetching initial wallet balances..."
-python get_wallet_balances.py sez --keyring-backend file
+python get_wallet_balances.py sez --keyring-backend file --output $INITIAL_BALANCES_FILE
 
 # Run print_shitdribble.py to display distributions
 echo "Displaying distribution details..."
@@ -21,7 +37,7 @@ FROM_ADDRESS=$(osmosisd keys show sez -a --keyring-backend file)
 
 # Run the Python script and capture the output
 echo "Generating transaction data..."
-OUTPUT=$(python $PYTHON_SCRIPT_PATH --denom CRAZYHORSE --amount 1 --from-address "$FROM_ADDRESS")
+OUTPUT=$(python $PYTHON_SCRIPT_PATH --denom "$DENOM" --amount "$AMOUNT" --from-address "$FROM_ADDRESS")
 
 # Print the entire output to debug
 echo "Full output from Python script:"
@@ -39,10 +55,8 @@ fi
 echo "Generated JSON file: $JSON_FILE"
 
 # Parameters for the transaction
-# Use the correct key name
 KEY_NAME="sez"
 CHAIN_ID="osmosis-1"
-TIMESTAMP=$(date +%Y%m%d_%H%M%S)
 
 # Confirm if want to sign, and then sign
 read -p "Are you sure you want to sign the transaction? (y/n) " confirm_sign
@@ -80,9 +94,13 @@ else
     exit 0
 fi
 
-# After 5 second countdown, run get_wallet_balances.py one last time
+# After 5 second countdown, run get_wallet_balances.py one last time and store the final balances
 echo "Waiting for 5 seconds before fetching final wallet balances..."
 sleep 5
 
 echo "Fetching final wallet balances..."
-python get_wallet_balances.py sez --keyring-backend file
+python get_wallet_balances.py sez --keyring-backend file --output $FINAL_BALANCES_FILE
+
+# Calculate the difference in balances
+echo "Calculating balance differences..."
+python calculate_balance_differences.py $INITIAL_BALANCES_FILE $FINAL_BALANCES_FILE

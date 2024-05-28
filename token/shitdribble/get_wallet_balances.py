@@ -1,3 +1,5 @@
+# get_wallet_balances.py
+
 import argparse
 import json
 import subprocess
@@ -35,18 +37,7 @@ def get_balances(wallet_name, keyring_backend):
         print(f"Error: {e}")
         return {}
 
-def main():
-    # Default values
-    default_wallet_name = "sez"
-    default_keyring_backend = "file"
-
-    parser = argparse.ArgumentParser(description="Get wallet balances.")
-    parser.add_argument("wallet_name", nargs='?', default=default_wallet_name, type=str, help="The name of the wallet.")
-    parser.add_argument("--keyring-backend", type=str, default=default_keyring_backend, help="The keyring backend to use (default: file).")
-
-    args = parser.parse_args()
-
-    standard_balances = get_balances(args.wallet_name, args.keyring_backend)
+def print_balances(standard_balances):
     if standard_balances:
         # Calculate USD values and sort by USD amount
         usd_balances = {
@@ -89,6 +80,28 @@ def main():
         print("\n💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩\n")
     else:
         print("No balances found or an error occurred.")
+
+def save_balances(standard_balances, file_path):
+    with open(file_path, 'w') as file:
+        json.dump(standard_balances, file, indent=2)
+
+def main():
+    # Default values
+    default_wallet_name = "sez"
+    default_keyring_backend = "file"
+
+    parser = argparse.ArgumentParser(description="Get wallet balances.")
+    parser.add_argument("wallet_name", nargs='?', default=default_wallet_name, type=str, help="The name of the wallet.")
+    parser.add_argument("--keyring-backend", type=str, default=default_keyring_backend, help="The keyring backend to use (default: file).")
+    parser.add_argument("--output", type=str, help="The file path to save balances as JSON.")
+
+    args = parser.parse_args()
+
+    standard_balances = get_balances(args.wallet_name, args.keyring_backend)
+    print_balances(standard_balances)
+    
+    if args.output:
+        save_balances(standard_balances, args.output)
 
 if __name__ == "__main__":
     main()
