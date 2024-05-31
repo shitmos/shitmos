@@ -194,6 +194,26 @@
             "name": "GoRocket",
             "stargaze_address": "stars1k27gwgvuv6vlydeaamlsh79tp0kzqaa0grcvfe",
             "osmosis_address": "osmo1k27gwgvuv6vlydeaamlsh79tp0kzqaa05yup56"
+        },
+        {
+            "name": "Cosmos Killer Bob",
+            "stargaze_address": "stars16e6zmwgscxee4vg7d069q8lmxculr0uvkfdjxj",
+            "osmosis_address": "osmo16e6zmwgscxee4vg7d069q8lmxculr0uv2wflm3"
+        },
+        {
+            "name": "CKB: The Return",
+            "stargaze_address": "stars16e6zmwgscxee4vg7d069q8lmxculr0uvkfdjxj",
+            "osmosis_address": "osmo16e6zmwgscxee4vg7d069q8lmxculr0uv2wflm3"
+        },
+        {
+            "name": "Lonely Astro Club",
+            "stargaze_address": "stars1rtq3yj9c2xehldkgtujcc4064s6kvqxah0s22x",
+            "osmosis_address": "osmo1rtq3yj9c2xehldkgtujcc4064s6kvqxatg58h9"
+        },
+        {
+            "name": "MistleWadz",
+            "stargaze_address": "stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z",
+            "osmosis_address": "osmo1mqypstgwxah7mnw2dqh25g9f3qq55zg95z7ejp"
         }
     ]
 }

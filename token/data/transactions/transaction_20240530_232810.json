@@ -1,0 +1,493 @@
+{
+  "body": {
+    "messages": [
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1p4js0h9rxyjh0yvw5meqx97r8yvcnpch5c8qwu",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "11000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1arx7mzasddvte09r6uxw8cf9z3zu3pqykl70jj",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "11000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1a0wncd3r039lj3zcuhvkhwwrdch34kfk7wwl6z",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1a9h4f8yu97shmgxrrm0r52ze8mwl0ljs99uql3",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "5610000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1z28n9utzj7qtj3p8aqafl6uqjxakx2fjep6lnv",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "16379999"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1eq94yckc0nucpl7utrjw6vcjuud0a3e9jknsv4",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "21760000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1mlxynkqd9js8tkdnkk0e27lgz7x9lt86x5swgk",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "230000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo15udt0d89zumum25xcprnnptg6tx3555cyk8mlr",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1mx4h4zfta4rmx24ddu0js5r5a8ymyk0q364k74",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1mx4h4zfta4rmx24ddu0js5r5a8ymyk0q364k74",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1mx4h4zfta4rmx24ddu0js5r5a8ymyk0q364k74",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1swju37pm33rp8tpwj3zknh6zmd9gahemn033es",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "16500000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1mlxynkqd9js8tkdnkk0e27lgz7x9lt86x5swgk",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "5500000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1mlxynkqd9js8tkdnkk0e27lgz7x9lt86x5swgk",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "4880000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1arx7mzasddvte09r6uxw8cf9z3zu3pqykl70jj",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "4880000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1hyhmssn4j6fxlvq58ctlpxwg5az7shg77l6n7z",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "4880000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1wtcp7m7589vdmsse30rsrlt357dwy0qy5l6gp2",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "4880000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo12jrc38pc09frc4v7fqdsrmwp6rlfmxxaswnqpsf24m6p7q3u6n6ql8gm2z",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "2440000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1hyhmssn4j6fxlvq58ctlpxwg5az7shg77l6n7z",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "4310000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1wtcp7m7589vdmsse30rsrlt357dwy0qy5l6gp2",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "17250000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1mqypstgwxah7mnw2dqh25g9f3qq55zg95z7ejp",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "430000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1arx7mzasddvte09r6uxw8cf9z3zu3pqykl70jj",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "14660000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1hyhmssn4j6fxlvq58ctlpxwg5az7shg77l6n7z",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "7330000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1hyhmssn4j6fxlvq58ctlpxwg5az7shg77l6n7z",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1mqypstgwxah7mnw2dqh25g9f3qq55zg95z7ejp",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1mqypstgwxah7mnw2dqh25g9f3qq55zg95z7ejp",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1mqypstgwxah7mnw2dqh25g9f3qq55zg95z7ejp",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo14j8v58gv5ardgmrsj33x9hex4pdsmafqtfnxvr",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1hyhmssn4j6fxlvq58ctlpxwg5az7shg77l6n7z",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1npc3k4kkhzsvkc45kfwh73exkd2wmgc68eecgy",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1hk792hvg4tl27tqg7fqeaezj8qu06u0ap9xmha",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1kumuf97l8yqc042yplqgzlkcrv9s2enrrqg7ue",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1ref3jlptwyhdf40phfxhff4sqs2v9kj6ayulul",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1uuw7kqjlmhunhyja9d25ludm8c34w66306xpct",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1uzvm5338qhcn59f5ufxwml3qxl2arxa25v9q84",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1a0wncd3r039lj3zcuhvkhwwrdch34kfk7wwl6z",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1sr9l4ease3mnzl43ex3meunw7kesrdrrens7rj",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1a0wncd3r039lj3zcuhvkhwwrdch34kfk7wwl6z",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1k27gwgvuv6vlydeaamlsh79tp0kzqaa05yup56",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo16e6zmwgscxee4vg7d069q8lmxculr0uv2wflm3",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo16e6zmwgscxee4vg7d069q8lmxculr0uv2wflm3",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1rtq3yj9c2xehldkgtujcc4064s6kvqxatg58h9",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+        "to_address": "osmo1mqypstgwxah7mnw2dqh25g9f3qq55zg95z7ejp",
+        "amount": [
+          {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos",
+            "amount": "22000000"
+          }
+        ]
+      }
+    ],
+    "memo": ""
+  },
+  "auth_info": {
+    "signer_infos": [],
+    "fee": {
+      "amount": [
+        {
+          "denom": "uosmo",
+          "amount": "5000"
+        }
+      ],
+      "gas_limit": "1100000"
+    }
+  },
+  "signatures": []
+}

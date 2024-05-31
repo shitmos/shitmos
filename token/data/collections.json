@@ -178,7 +178,32 @@
         "recipients": [
           {"address": "stars1k27gwgvuv6vlydeaamlsh79tp0kzqaa0grcvfe", "weight": 100, "label": "GoRocket"}
         ]
+      },
+      {
+        "name": "Cosmos Killer Bob",
+        "recipients": [
+          {"address": "stars16e6zmwgscxee4vg7d069q8lmxculr0uvkfdjxj", "weight": 100, "label": "Cosmos Killer Bob"}
+        ]
+      },
+      {
+        "name": "CKB: The Return",
+        "recipients": [
+          {"address": "stars16e6zmwgscxee4vg7d069q8lmxculr0uvkfdjxj", "weight": 100, "label": "CKB: The Return"}
+        ]
+      },
+      {
+        "name": "Lonely Astro Club",
+        "recipients": [
+          {"address": "stars1rtq3yj9c2xehldkgtujcc4064s6kvqxah0s22x", "weight": 100, "label": "Lonely Astro Club"}
+        ]
+      },
+      {
+        "name": "MistleWadz",
+        "recipients": [
+          {"address": "stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z", "weight": 100, "label": "MistleWadz"}
+        ]
       }
+
     ]
   }
   

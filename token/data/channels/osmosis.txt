@@ -1,0 +1,930 @@
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1nf3uln3q7zcgeltyux79nzadqf6kzewr4tfj2l9946n2xw0swdqq0gj5eu","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10000
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3869
+    port_id: icacontroller-nolus13z04tnyppdjpscfxh9new4dhgc4r2688ggn63rtcq03pyqwgstlsw0sdma.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1yalc05u380eltlkgn22nrsm5squa7s0vtvvl79keljt73zg8t6tsgxlg9z","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10001
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3869
+    port_id: icacontroller-nolus13z04tnyppdjpscfxh9new4dhgc4r2688ggn63rtcq03pyqwgstlsw0sdma.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1yalc05u380eltlkgn22nrsm5squa7s0vtvvl79keljt73zg8t6tsgxlg9z","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10002
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3869
+    port_id: icacontroller-nolus13z04tnyppdjpscfxh9new4dhgc4r2688ggn63rtcq03pyqwgstlsw0sdma.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1yalc05u380eltlkgn22nrsm5squa7s0vtvvl79keljt73zg8t6tsgxlg9z","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10003
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3869
+    port_id: icacontroller-nolus13z04tnyppdjpscfxh9new4dhgc4r2688ggn63rtcq03pyqwgstlsw0sdma.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1yalc05u380eltlkgn22nrsm5squa7s0vtvvl79keljt73zg8t6tsgxlg9z","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10004
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3870
+    port_id: icacontroller-nolus14fn3c8l7k8s336yzqnhvdg2772256q80kz5y439wr7gpjvp3wnzqacy3dn.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1ku9jy9rjqzqnkguug4v3s9k0h42uxukgd7dcs0fq42kck6pxzv9snrzv6a","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10005
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3870
+    port_id: icacontroller-nolus14fn3c8l7k8s336yzqnhvdg2772256q80kz5y439wr7gpjvp3wnzqacy3dn.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1ku9jy9rjqzqnkguug4v3s9k0h42uxukgd7dcs0fq42kck6pxzv9snrzv6a","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10006
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3870
+    port_id: icacontroller-nolus14fn3c8l7k8s336yzqnhvdg2772256q80kz5y439wr7gpjvp3wnzqacy3dn.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1ku9jy9rjqzqnkguug4v3s9k0h42uxukgd7dcs0fq42kck6pxzv9snrzv6a","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10007
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3870
+    port_id: icacontroller-nolus14fn3c8l7k8s336yzqnhvdg2772256q80kz5y439wr7gpjvp3wnzqacy3dn.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1ku9jy9rjqzqnkguug4v3s9k0h42uxukgd7dcs0fq42kck6pxzv9snrzv6a","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10008
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3871
+    port_id: icacontroller-nolus16pe75sfjyu8lcgaqlw0yxa5nhae3y6vel42ewmatnztf6aaah5kszkcqew.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo15ka5vjf98e8nrffaucrshzchm5flmgnw5xy9fj8na939kzse75tq96ckex","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10009
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3871
+    port_id: icacontroller-nolus16pe75sfjyu8lcgaqlw0yxa5nhae3y6vel42ewmatnztf6aaah5kszkcqew.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo15ka5vjf98e8nrffaucrshzchm5flmgnw5xy9fj8na939kzse75tq96ckex","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-1001
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-37
+    port_id: icacontroller-nolus1mr5l8e49kav3mw026llr8qacuqfq0yeye8zuqcwr2866xkeufptsqx0eds.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1nf3uln3q7zcgeltyux79nzadqf6kzewr4tfj2l9946n2xw0swdqq0gj5eu","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10010
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3871
+    port_id: icacontroller-nolus16pe75sfjyu8lcgaqlw0yxa5nhae3y6vel42ewmatnztf6aaah5kszkcqew.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo15ka5vjf98e8nrffaucrshzchm5flmgnw5xy9fj8na939kzse75tq96ckex","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10011
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3872
+    port_id: icacontroller-nolus10w6e6j7walwlvtlu34arwc2nqjpnzd7w4ktqdmuc2szxwszxyffswq5yjj.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1hefjcft33jmwdlznveaedgclx3gef43xwu34zm6dazf9qf7xr07qkuy7u2","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10012
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3872
+    port_id: icacontroller-nolus10w6e6j7walwlvtlu34arwc2nqjpnzd7w4ktqdmuc2szxwszxyffswq5yjj.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1hefjcft33jmwdlznveaedgclx3gef43xwu34zm6dazf9qf7xr07qkuy7u2","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10013
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3872
+    port_id: icacontroller-nolus10w6e6j7walwlvtlu34arwc2nqjpnzd7w4ktqdmuc2szxwszxyffswq5yjj.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1hefjcft33jmwdlznveaedgclx3gef43xwu34zm6dazf9qf7xr07qkuy7u2","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10014
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3873
+    port_id: icacontroller-nolus1csap9e4kmc0qhejjr9w5ulmph9m8rkve7lr29tn3vygmdadgt27qn90w73.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1uwwkmz0n9jywstpgu330snn5us4mmf94aslj0f4tlcf8d0txzh7qlqgyrq","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10015
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3873
+    port_id: icacontroller-nolus1csap9e4kmc0qhejjr9w5ulmph9m8rkve7lr29tn3vygmdadgt27qn90w73.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1uwwkmz0n9jywstpgu330snn5us4mmf94aslj0f4tlcf8d0txzh7qlqgyrq","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10016
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3873
+    port_id: icacontroller-nolus1csap9e4kmc0qhejjr9w5ulmph9m8rkve7lr29tn3vygmdadgt27qn90w73.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1uwwkmz0n9jywstpgu330snn5us4mmf94aslj0f4tlcf8d0txzh7qlqgyrq","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10017
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3874
+    port_id: icacontroller-nolus1dgt0zdknat6aqj35rlcy370uudtrdgjgqemlxryrwzeue32sl0esllrzc4.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo160d8t7k6xy2mkadzaqa92a8al54xds0whhnd9zeqwgj3jvs9c65sw0uwmp","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10018
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3874
+    port_id: icacontroller-nolus1dgt0zdknat6aqj35rlcy370uudtrdgjgqemlxryrwzeue32sl0esllrzc4.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo160d8t7k6xy2mkadzaqa92a8al54xds0whhnd9zeqwgj3jvs9c65sw0uwmp","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10019
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3875
+    port_id: icacontroller-nolus1h330gp30mvgxezdf0fqrycc8lt5q9tljtav63yu07g4tmsy50thq7mraps.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1csev5s6zhfh46kywmah8xkt5gak49l0qkyl755kere6nxngdytzs8pj9ft","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-1002
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-37
+    port_id: icacontroller-nolus1mr5l8e49kav3mw026llr8qacuqfq0yeye8zuqcwr2866xkeufptsqx0eds.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1nf3uln3q7zcgeltyux79nzadqf6kzewr4tfj2l9946n2xw0swdqq0gj5eu","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10020
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3875
+    port_id: icacontroller-nolus1h330gp30mvgxezdf0fqrycc8lt5q9tljtav63yu07g4tmsy50thq7mraps.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1csev5s6zhfh46kywmah8xkt5gak49l0qkyl755kere6nxngdytzs8pj9ft","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10021
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3875
+    port_id: icacontroller-nolus1h330gp30mvgxezdf0fqrycc8lt5q9tljtav63yu07g4tmsy50thq7mraps.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1csev5s6zhfh46kywmah8xkt5gak49l0qkyl755kere6nxngdytzs8pj9ft","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10022
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3876
+    port_id: icacontroller-nolus1tp7yk9tue9wsftydr88xwfhnhzlkz4refr5s54nclnse792fn07qelvyzl.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1vqc7t9v78s0cwm70j84eg6ty9rk6u5a845tn90yqjwpd2gsv6hfq708krp","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10023
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3876
+    port_id: icacontroller-nolus1tp7yk9tue9wsftydr88xwfhnhzlkz4refr5s54nclnse792fn07qelvyzl.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1vqc7t9v78s0cwm70j84eg6ty9rk6u5a845tn90yqjwpd2gsv6hfq708krp","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10024
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3876
+    port_id: icacontroller-nolus1tp7yk9tue9wsftydr88xwfhnhzlkz4refr5s54nclnse792fn07qelvyzl.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1vqc7t9v78s0cwm70j84eg6ty9rk6u5a845tn90yqjwpd2gsv6hfq708krp","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10025
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3877
+    port_id: icacontroller-nolus1kscwesrx6ayh59cyllp5jg4g02t56mkq0hf2s8a3njt59475ztrqnsmsdy.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1dclyyjr5wwawx442suv56kyyxasl39rszz0cvm7mdq69l7tjre8sl4w47y","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10026
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3877
+    port_id: icacontroller-nolus1kscwesrx6ayh59cyllp5jg4g02t56mkq0hf2s8a3njt59475ztrqnsmsdy.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1dclyyjr5wwawx442suv56kyyxasl39rszz0cvm7mdq69l7tjre8sl4w47y","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10027
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3877
+    port_id: icacontroller-nolus1kscwesrx6ayh59cyllp5jg4g02t56mkq0hf2s8a3njt59475ztrqnsmsdy.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1dclyyjr5wwawx442suv56kyyxasl39rszz0cvm7mdq69l7tjre8sl4w47y","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10028
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3878
+    port_id: icacontroller-nolus1tcuaa05x6ec42wcla2gd44qk3q8047360rfky2e798cxghycegnq6sp2ag.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1xw6gujrkyxevkr9wykmm23vw7dwszhre2q0d7kqeew2cz3nald2q9cv2dy","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10029
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3878
+    port_id: icacontroller-nolus1tcuaa05x6ec42wcla2gd44qk3q8047360rfky2e798cxghycegnq6sp2ag.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1xw6gujrkyxevkr9wykmm23vw7dwszhre2q0d7kqeew2cz3nald2q9cv2dy","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-1003
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-37
+    port_id: icacontroller-nolus1mr5l8e49kav3mw026llr8qacuqfq0yeye8zuqcwr2866xkeufptsqx0eds.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1nf3uln3q7zcgeltyux79nzadqf6kzewr4tfj2l9946n2xw0swdqq0gj5eu","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10030
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3878
+    port_id: icacontroller-nolus1tcuaa05x6ec42wcla2gd44qk3q8047360rfky2e798cxghycegnq6sp2ag.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1xw6gujrkyxevkr9wykmm23vw7dwszhre2q0d7kqeew2cz3nald2q9cv2dy","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10031
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3879
+    port_id: icacontroller-nolus16rug7j5egk7asq9sh5upwcu09hhnc0n56g3ndkr9q4xrf29uglxs82qerr.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1ly2tdxkzgj0hw9azv592k06vvq7uztpds5cptxpdglldve2khfxqr6lqtg","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10032
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3879
+    port_id: icacontroller-nolus16rug7j5egk7asq9sh5upwcu09hhnc0n56g3ndkr9q4xrf29uglxs82qerr.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1ly2tdxkzgj0hw9azv592k06vvq7uztpds5cptxpdglldve2khfxqr6lqtg","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10033
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3879
+    port_id: icacontroller-nolus16rug7j5egk7asq9sh5upwcu09hhnc0n56g3ndkr9q4xrf29uglxs82qerr.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1ly2tdxkzgj0hw9azv592k06vvq7uztpds5cptxpdglldve2khfxqr6lqtg","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10034
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3880
+    port_id: icacontroller-nolus19z0a4qc72vsjxv9ek2ht43hkcz4u8r7v25k2su0vfwjxsw3c9uyql55d4l.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1pfj2hh339wtdpv029khqcz0k6l9ut2ht4xkt8a45u3dfw3vd9mxqerk86d","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10035
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3880
+    port_id: icacontroller-nolus19z0a4qc72vsjxv9ek2ht43hkcz4u8r7v25k2su0vfwjxsw3c9uyql55d4l.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1pfj2hh339wtdpv029khqcz0k6l9ut2ht4xkt8a45u3dfw3vd9mxqerk86d","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10036
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3880
+    port_id: icacontroller-nolus19z0a4qc72vsjxv9ek2ht43hkcz4u8r7v25k2su0vfwjxsw3c9uyql55d4l.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1pfj2hh339wtdpv029khqcz0k6l9ut2ht4xkt8a45u3dfw3vd9mxqerk86d","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10037
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3880
+    port_id: icacontroller-nolus19z0a4qc72vsjxv9ek2ht43hkcz4u8r7v25k2su0vfwjxsw3c9uyql55d4l.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1pfj2hh339wtdpv029khqcz0k6l9ut2ht4xkt8a45u3dfw3vd9mxqerk86d","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10038
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3881
+    port_id: icacontroller-nolus1uhfnxs3f4d0a6nrg494mkny9unlvhapetvy498yajzmnrflwuwvqz28q3n.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo10d9twggvj4p55h07pyq7rue25q5weky66cpggrmzs9gkudptrqdsc29r5h","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10039
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3881
+    port_id: icacontroller-nolus1uhfnxs3f4d0a6nrg494mkny9unlvhapetvy498yajzmnrflwuwvqz28q3n.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo10d9twggvj4p55h07pyq7rue25q5weky66cpggrmzs9gkudptrqdsc29r5h","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-1004
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-38
+    port_id: icacontroller-nolus1xp4fa808c0mnpzdd48y2r7ysa396ms8ek5ym276vehcyak59kmzsmpcs9d.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1ga80eez4zqtfsvxlf5scjh52zmfzlw5n7cqd4xk5lj7r7skmlmls9zlwzg","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10040
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3881
+    port_id: icacontroller-nolus1uhfnxs3f4d0a6nrg494mkny9unlvhapetvy498yajzmnrflwuwvqz28q3n.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo10d9twggvj4p55h07pyq7rue25q5weky66cpggrmzs9gkudptrqdsc29r5h","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10041
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3882
+    port_id: icacontroller-nolus1nfgaxvlyeeq8cl7hvw0zsmhsfdx5x9t7jmrnu6vf77zhr6xf4a0s50f2sm.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1v5css4vvmt6f6vhsyfcvwzc9el0pgj3wgp3d8vfh2vy60eusm7kq9yzlve","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10042
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3882
+    port_id: icacontroller-nolus1nfgaxvlyeeq8cl7hvw0zsmhsfdx5x9t7jmrnu6vf77zhr6xf4a0s50f2sm.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1v5css4vvmt6f6vhsyfcvwzc9el0pgj3wgp3d8vfh2vy60eusm7kq9yzlve","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10043
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3882
+    port_id: icacontroller-nolus1nfgaxvlyeeq8cl7hvw0zsmhsfdx5x9t7jmrnu6vf77zhr6xf4a0s50f2sm.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1v5css4vvmt6f6vhsyfcvwzc9el0pgj3wgp3d8vfh2vy60eusm7kq9yzlve","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10044
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3882
+    port_id: icacontroller-nolus1nfgaxvlyeeq8cl7hvw0zsmhsfdx5x9t7jmrnu6vf77zhr6xf4a0s50f2sm.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1v5css4vvmt6f6vhsyfcvwzc9el0pgj3wgp3d8vfh2vy60eusm7kq9yzlve","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10045
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3883
+    port_id: icacontroller-nolus1xvqd096vhrfa6l5wrhdnwck5a8yrm0l0h2havvrq0wnxmdx4zjksyfwu2v.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1ut7eetdmzwa02s0mmnv4uzfutw6msw77deugp52zph3urcaa78psxyjq6v","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10046
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3883
+    port_id: icacontroller-nolus1xvqd096vhrfa6l5wrhdnwck5a8yrm0l0h2havvrq0wnxmdx4zjksyfwu2v.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1ut7eetdmzwa02s0mmnv4uzfutw6msw77deugp52zph3urcaa78psxyjq6v","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10047
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3883
+    port_id: icacontroller-nolus1xvqd096vhrfa6l5wrhdnwck5a8yrm0l0h2havvrq0wnxmdx4zjksyfwu2v.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1ut7eetdmzwa02s0mmnv4uzfutw6msw77deugp52zph3urcaa78psxyjq6v","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10048
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3883
+    port_id: icacontroller-nolus1xvqd096vhrfa6l5wrhdnwck5a8yrm0l0h2havvrq0wnxmdx4zjksyfwu2v.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1ut7eetdmzwa02s0mmnv4uzfutw6msw77deugp52zph3urcaa78psxyjq6v","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10049
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3884
+    port_id: icacontroller-nolus1l2cl0y9q0peptnjjq2jn48j0nxh3s60rg8hdepzdmuhjntxd2vlqdadql8.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1wndsh9uf88cqmw5pcg6zcd47ykwmj8vyjzmjjpardk8unq8sxckqh00tqf","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-1005
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-38
+    port_id: icacontroller-nolus1xp4fa808c0mnpzdd48y2r7ysa396ms8ek5ym276vehcyak59kmzsmpcs9d.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1ga80eez4zqtfsvxlf5scjh52zmfzlw5n7cqd4xk5lj7r7skmlmls9zlwzg","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10050
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3884
+    port_id: icacontroller-nolus1l2cl0y9q0peptnjjq2jn48j0nxh3s60rg8hdepzdmuhjntxd2vlqdadql8.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1wndsh9uf88cqmw5pcg6zcd47ykwmj8vyjzmjjpardk8unq8sxckqh00tqf","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10051
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3884
+    port_id: icacontroller-nolus1l2cl0y9q0peptnjjq2jn48j0nxh3s60rg8hdepzdmuhjntxd2vlqdadql8.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1wndsh9uf88cqmw5pcg6zcd47ykwmj8vyjzmjjpardk8unq8sxckqh00tqf","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10052
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3885
+    port_id: icacontroller-nolus1lztsjg0ep0hmzmpudkj9hywmnuqfrqew977p0dhykku0anlc5vtsjdpwlc.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo189jkg9096l7umsdkt74jg5h99sduve3rtqpx4p3mnj4tsfr0pf3qqyduv6","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10053
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3885
+    port_id: icacontroller-nolus1lztsjg0ep0hmzmpudkj9hywmnuqfrqew977p0dhykku0anlc5vtsjdpwlc.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo189jkg9096l7umsdkt74jg5h99sduve3rtqpx4p3mnj4tsfr0pf3qqyduv6","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10054
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3885
+    port_id: icacontroller-nolus1lztsjg0ep0hmzmpudkj9hywmnuqfrqew977p0dhykku0anlc5vtsjdpwlc.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo189jkg9096l7umsdkt74jg5h99sduve3rtqpx4p3mnj4tsfr0pf3qqyduv6","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10055
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3885
+    port_id: icacontroller-nolus1lztsjg0ep0hmzmpudkj9hywmnuqfrqew977p0dhykku0anlc5vtsjdpwlc.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo189jkg9096l7umsdkt74jg5h99sduve3rtqpx4p3mnj4tsfr0pf3qqyduv6","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10056
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3886
+    port_id: icacontroller-nolus1zaeu0nat7um500qrzg0gxk0yaj3t29xw2matr4mj57d7reku46psup7afe.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo15vjgh4vart3m7l4mgc7wptjphu72pc007h58ap5fhay0gtru0edqf73r52","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10057
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3886
+    port_id: icacontroller-nolus1zaeu0nat7um500qrzg0gxk0yaj3t29xw2matr4mj57d7reku46psup7afe.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo15vjgh4vart3m7l4mgc7wptjphu72pc007h58ap5fhay0gtru0edqf73r52","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10058
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3886
+    port_id: icacontroller-nolus1zaeu0nat7um500qrzg0gxk0yaj3t29xw2matr4mj57d7reku46psup7afe.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo15vjgh4vart3m7l4mgc7wptjphu72pc007h58ap5fhay0gtru0edqf73r52","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10059
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3886
+    port_id: icacontroller-nolus1zaeu0nat7um500qrzg0gxk0yaj3t29xw2matr4mj57d7reku46psup7afe.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo15vjgh4vart3m7l4mgc7wptjphu72pc007h58ap5fhay0gtru0edqf73r52","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-1006
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-38
+    port_id: icacontroller-nolus1xp4fa808c0mnpzdd48y2r7ysa396ms8ek5ym276vehcyak59kmzsmpcs9d.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1ga80eez4zqtfsvxlf5scjh52zmfzlw5n7cqd4xk5lj7r7skmlmls9zlwzg","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10060
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3887
+    port_id: icacontroller-nolus1ul8z3xtmuu9r42ycw6etxzhh2vfu2x8lx0ps9xu5evvhx46vwhkq276p7j.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_CLOSED
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo14rwv8vewkefqvuk2u4jg3jdrgjyyyd3yppwxhqa0gk2qavyh8wssxm969t","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10061
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3887
+    port_id: icacontroller-nolus1ul8z3xtmuu9r42ycw6etxzhh2vfu2x8lx0ps9xu5evvhx46vwhkq276p7j.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo14rwv8vewkefqvuk2u4jg3jdrgjyyyd3yppwxhqa0gk2qavyh8wssxm969t","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10062
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3887
+    port_id: icacontroller-nolus1ul8z3xtmuu9r42ycw6etxzhh2vfu2x8lx0ps9xu5evvhx46vwhkq276p7j.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo14rwv8vewkefqvuk2u4jg3jdrgjyyyd3yppwxhqa0gk2qavyh8wssxm969t","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10063
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3888
+    port_id: icacontroller-nolus1h4u3rqch2kjre840xs2xm2vl77xrzq0dl8t6dzuntc95ntq3k4fs3nvtux.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1mq63wxacjp478awmjmnuduzuup3x28cwj8ml3gmz7wmda4lps6xsfnvwz3","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10064
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3888
+    port_id: icacontroller-nolus1h4u3rqch2kjre840xs2xm2vl77xrzq0dl8t6dzuntc95ntq3k4fs3nvtux.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1mq63wxacjp478awmjmnuduzuup3x28cwj8ml3gmz7wmda4lps6xsfnvwz3","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10065
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3888
+    port_id: icacontroller-nolus1h4u3rqch2kjre840xs2xm2vl77xrzq0dl8t6dzuntc95ntq3k4fs3nvtux.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1mq63wxacjp478awmjmnuduzuup3x28cwj8ml3gmz7wmda4lps6xsfnvwz3","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10066
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3889
+    port_id: icacontroller-nolus1z3h6hp87xj9a3eu4jt685r2axt9vedlpzgk3lqjtcllp0yqxympqcmh5py.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1l7m36ja9msk6zpvuh2rgnprfa3pj9wy8dgjv8gskeemhgqmn8ugsrj9ghc","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10067
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3889
+    port_id: icacontroller-nolus1z3h6hp87xj9a3eu4jt685r2axt9vedlpzgk3lqjtcllp0yqxympqcmh5py.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1l7m36ja9msk6zpvuh2rgnprfa3pj9wy8dgjv8gskeemhgqmn8ugsrj9ghc","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10068
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3889
+    port_id: icacontroller-nolus1z3h6hp87xj9a3eu4jt685r2axt9vedlpzgk3lqjtcllp0yqxympqcmh5py.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1l7m36ja9msk6zpvuh2rgnprfa3pj9wy8dgjv8gskeemhgqmn8ugsrj9ghc","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10069
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3890
+    port_id: icacontroller-nolus1waem2s6jdwg798aj69zdmux2qjn4q23wk697skqx7gc27fg6kzdqaszfsz.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1p7g3lzl48h96kxtsyau3xkjl79fuzcxlkqyn3x3htncfch2mt4aqftdg6j","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-1007
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-38
+    port_id: icacontroller-nolus1xp4fa808c0mnpzdd48y2r7ysa396ms8ek5ym276vehcyak59kmzsmpcs9d.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1ga80eez4zqtfsvxlf5scjh52zmfzlw5n7cqd4xk5lj7r7skmlmls9zlwzg","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10070
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3890
+    port_id: icacontroller-nolus1waem2s6jdwg798aj69zdmux2qjn4q23wk697skqx7gc27fg6kzdqaszfsz.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1p7g3lzl48h96kxtsyau3xkjl79fuzcxlkqyn3x3htncfch2mt4aqftdg6j","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10071
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3890
+    port_id: icacontroller-nolus1waem2s6jdwg798aj69zdmux2qjn4q23wk697skqx7gc27fg6kzdqaszfsz.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1p7g3lzl48h96kxtsyau3xkjl79fuzcxlkqyn3x3htncfch2mt4aqftdg6j","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10072
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3891
+    port_id: icacontroller-nolus1wdt3cr6mwn4222sn39lp0jz9u7rdd3z855ntt6mwkkgpjc6p9s0s7w7m4h.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1rhdse2vh56w7sgcexf2p2085ny7autlt3z9m3eev7243dra7u3xqjvxz6u","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10073
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3891
+    port_id: icacontroller-nolus1wdt3cr6mwn4222sn39lp0jz9u7rdd3z855ntt6mwkkgpjc6p9s0s7w7m4h.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1rhdse2vh56w7sgcexf2p2085ny7autlt3z9m3eev7243dra7u3xqjvxz6u","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10074
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3891
+    port_id: icacontroller-nolus1wdt3cr6mwn4222sn39lp0jz9u7rdd3z855ntt6mwkkgpjc6p9s0s7w7m4h.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1rhdse2vh56w7sgcexf2p2085ny7autlt3z9m3eev7243dra7u3xqjvxz6u","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10075
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3891
+    port_id: icacontroller-nolus1wdt3cr6mwn4222sn39lp0jz9u7rdd3z855ntt6mwkkgpjc6p9s0s7w7m4h.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1rhdse2vh56w7sgcexf2p2085ny7autlt3z9m3eev7243dra7u3xqjvxz6u","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10076
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3892
+    port_id: icacontroller-nolus1kxe24vd7qpqmh6juf5wlgchm5xy666lyq7n2mvgfuxs4t8fnda0sxvhqvm.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1fy8048apjk6h47sspc46evsp43g5a3axy6pce7un6n7f7uddq7nsngjq4c","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10077
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3892
+    port_id: icacontroller-nolus1kxe24vd7qpqmh6juf5wlgchm5xy666lyq7n2mvgfuxs4t8fnda0sxvhqvm.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1fy8048apjk6h47sspc46evsp43g5a3axy6pce7un6n7f7uddq7nsngjq4c","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10078
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3892
+    port_id: icacontroller-nolus1kxe24vd7qpqmh6juf5wlgchm5xy666lyq7n2mvgfuxs4t8fnda0sxvhqvm.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo1fy8048apjk6h47sspc46evsp43g5a3axy6pce7un6n7f7uddq7nsngjq4c","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10079
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3893
+    port_id: icacontroller-nolus1caqjnesm0k2l8up72a8zcjq5j3w26uaxp9vhuglqdwqv2uwys5ssz4d0z5.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_OPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo19ec6auge62drfa4skz7r7v5z74vmmvuzjnmgya8rhead90jaxg9suagln8","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-1008
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-39
+    port_id: icacontroller-nolus16u9g6ujk3nzq7pv300cv0jakzxmm0mllrm4xacvy58qexefmj4cq3uqwcd.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo12999z4xwtz7ed2wen5psy72lu7492us3r46am93vadx79hk6r49sa9q9fj","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10080
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3893
+    port_id: icacontroller-nolus1caqjnesm0k2l8up72a8zcjq5j3w26uaxp9vhuglqdwqv2uwys5ssz4d0z5.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo19ec6auge62drfa4skz7r7v5z74vmmvuzjnmgya8rhead90jaxg9suagln8","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10081
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3893
+    port_id: icacontroller-nolus1caqjnesm0k2l8up72a8zcjq5j3w26uaxp9vhuglqdwqv2uwys5ssz4d0z5.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo19ec6auge62drfa4skz7r7v5z74vmmvuzjnmgya8rhead90jaxg9suagln8","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10082
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3894
+    port_id: icacontroller-nolus1zy3axxhv0rl539q9gr3yvj6ct4we0velfw38t6qgngvyy2ezhp0shgwx3l.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_CLOSED
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo137304drkv4kkfkxrz4fdn6za28urnk7jhzk59cma2pgmumknkr4qq55nw6","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+- channel_id: channel-10083
+  connection_hops:
+  - connection-2289
+  counterparty:
+    channel_id: channel-3894
+    port_id: icacontroller-nolus1zy3axxhv0rl539q9gr3yvj6ct4we0velfw38t6qgngvyy2ezhp0shgwx3l.0
+  ordering: ORDER_ORDERED
+  port_id: icahost
+  state: STATE_TRYOPEN
+  version: '{"version":"ics27-1","controller_connection_id":"connection-0","host_connection_id":"connection-2289","address":"osmo137304drkv4kkfkxrz4fdn6za28urnk7jhzk59cma2pgmumknkr4qq55nw6","encoding":"proto3","tx_type":"sdk_multi_msg"}'
+height:
+  revision_height: "16181519"
+  revision_number: "1"
+pagination:
+  next_key: L3BvcnRzL2ljYWhvc3QvY2hhbm5lbHMvY2hhbm5lbC0xMDA4NA==
+  total: "0"
