@@ -30,7 +30,7 @@
       {
         "name": "King Shid Club",
         "recipients": [
-          {"address": "stars15udt0d89zumum25xcprnnptg6tx3555cc3rkzq", "weight": 500, "label": "king shid"}
+          {"address": "stars15udt0d89zumum25xcprnnptg6tx3555cc3rkzq", "weight": 100, "label": "king shid"}
         ]
       },
       {
@@ -204,9 +204,9 @@
         ]
       },
       {
-        "name": "Collectible Cyber Cards",
+        "name": "Coll Cyber Cards",
         "recipients": [
-          {"address": "stars1xjdw82tj8zmfvxe2ynw20sgqfr9tu6ak66jpty", "weight": 100, "label": "Collectible Cyber Cards"}
+          {"address": "stars1xjdw82tj8zmfvxe2ynw20sgqfr9tu6ak66jpty", "weight": 100, "label": "Coll Cyber Cards"}
         ]
       },
       {

@@ -214,6 +214,31 @@
             "name": "MistleWadz",
             "stargaze_address": "stars1mqypstgwxah7mnw2dqh25g9f3qq55zg9g9650z",
             "osmosis_address": "osmo1mqypstgwxah7mnw2dqh25g9f3qq55zg95z7ejp"
+        },
+        {
+            "name": "Coll Cyber Cards",
+            "stargaze_address": "stars1xjdw82tj8zmfvxe2ynw20sgqfr9tu6ak66jpty",
+            "osmosis_address": "osmo1xjdw82tj8zmfvxe2ynw20sgqfr9tu6akxakvk8"
+        },
+        {
+            "name": "Punks SG",
+            "stargaze_address": "stars1r6f5tfxdx2pw5p94f2v5n96xd4nglz5qdgl4l3",
+            "osmosis_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj"
+        },
+        {
+            "name": "Cosmos Army",
+            "stargaze_address": "stars1k27gwgvuv6vlydeaamlsh79tp0kzqaa0grcvfe",
+            "osmosis_address": "osmo1k27gwgvuv6vlydeaamlsh79tp0kzqaa05yup56"
+        },
+        {
+            "name": "Bouncy Bunnies",
+            "stargaze_address": "stars1yqccwpnusftd9rhwexfcglqlk87au5pksalt5g",
+            "osmosis_address": "osmo1yqccwpnusftd9rhwexfcglqlk87au5pkv6mxft"
+        },
+        {
+            "name": "Wind Lords",
+            "stargaze_address": "stars1wejl363mss05s7clkgu62ggugg756slhwxhufha852ej5kv7zl2qjah0rg",
+            "osmosis_address": "osmo1wejl363mss05s7clkgu62ggugg756slhwxhufha852ej5kv7zl2q38tsmk"
         }
     ]
 }
