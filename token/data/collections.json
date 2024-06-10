@@ -230,7 +230,9 @@
       {
         "name": "Wind Lords",
         "recipients": [
-          {"address": "stars1wejl363mss05s7clkgu62ggugg756slhwxhufha852ej5kv7zl2qjah0rg", "weight": 100, "label": "Wind Lords"}
+          {"address": "stars1wejl363mss05s7clkgu62ggugg756slhwxhufha852ej5kv7zl2qjah0rg", "weight": 100, "label": "Wind Lords"},
+          {"address": "stars14hjsg3qul39r5jevefgk8hnpqsw8k7634zrz48", "weight": 100, "label": "Golden Frog"},
+          {"address": "stars1876h8c6qtlvqcnfztw6egl7fljwkhpcperykp4", "weight": 100, "label": "Artist"}
         ]
       }
     ]
