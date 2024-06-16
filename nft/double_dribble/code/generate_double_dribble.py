@@ -4,11 +4,11 @@ import os
 import subprocess
 import bech32
 import config
+from config import SNAPSHOT_FILE
 
 # Define constants
-MAX_MESSAGES_PER_TX = 333  # Adjust based on gas limits
+MAX_MESSAGES_PER_TX = 333  # Based on maximum gas limit
 DATA_DIR = '../data'
-SNAPSHOT_FILE = os.path.join(DATA_DIR, 'snapshots', 'snapshot_2024-06-09.csv')
 TRANSACTIONS_DIR = '../data/transactions'
 
 # Create the transactions directory if it doesn't exist

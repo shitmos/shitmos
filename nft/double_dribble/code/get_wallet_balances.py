@@ -51,7 +51,7 @@ def print_balances(standard_balances):
         print("\n💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩\n")
 
         # Print indented header
-        print(f"{config.WALLET_NAME} wallet balances:\n")
+        print(f"{config.WALLET_NAME} balances:\n")
 
         # Determine the longest token name for formatting
         max_denom_length = max(len(denom) for denom in standard_balances)
@@ -61,18 +61,18 @@ def print_balances(standard_balances):
             formatted_amount = format_balance(amount)
             print(f" {denom:<{max_denom_length}} : {formatted_amount:>15} {denom}")
 
-        print("\n Balances in USD:\n")
+        #print("\n Balances in USD:\n")
 
         # Print balances in USD
-        for denom, amount in sorted_balances:
-            usd_amount = usd_balances[denom]
-            formatted_usd_amount = format_balance(usd_amount)
-            print(f" {denom:<{max_denom_length}} : {'$':>2}{formatted_usd_amount:>15} USD")
+        #for denom, amount in sorted_balances:
+        #    usd_amount = usd_balances[denom]
+        #    formatted_usd_amount = format_balance(usd_amount)
+        #    print(f" {denom:<{max_denom_length}} : {'$':>2}{formatted_usd_amount:>15} USD")
 
         # Print underline, total, and double underline
-        print(" " + "-" * (max_denom_length + 22))
-        print(f" {'TOTAL':<{max_denom_length}} : {'$':>2}{format_balance(total_usd_balance):>15} USD")
-        print(" " + "=" * (max_denom_length + 22))
+        #print(" " + "-" * (max_denom_length + 22))
+        #print(f" {'TOTAL':<{max_denom_length}} : {'$':>2}{format_balance(total_usd_balance):>15} USD")
+        #print(" " + "=" * (max_denom_length + 22))
 
         # Print closing blank row and bottom emoji row
         print("\n💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩\n")
@@ -86,11 +86,11 @@ def save_balances(standard_balances, file_path):
 def main():
     # Default values
     default_wallet_name = config.KEY_NAME  # Use WALLET_NAME from config.py
-    default_keyring_backend = "local"
+    default_keyring_backend = "file"
 
     parser = argparse.ArgumentParser(description="Get wallet balances.")
     parser.add_argument("wallet_name", nargs='?', default=default_wallet_name, type=str, help="The name of the wallet.")
-    parser.add_argument("--keyring-backend", type=str, default=default_keyring_backend, help="The keyring backend to use (default: local).")
+    parser.add_argument("--keyring-backend", type=str, default=default_keyring_backend, help="The keyring backend to use (default: file).")
     parser.add_argument("--output", type=str, help="The file path to save balances as JSON.")
 
     args = parser.parse_args()
