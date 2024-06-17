@@ -32,3 +32,7 @@ osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj
 stars1r6f5tfxdx2pw5p94f2v5n96xd4nglz5qdgl4l3
 neutron1r6f5tfxdx2pw5p94f2v5n96xd4nglz5qatp2w8
 ```
+
+# Shitmos NFT Wallet
+osmo1c7gsk4eaelpcplg0j5urpwnzqrp6wnyt9uexy6
+stars1c7gsk4eaelpcplg0j5urpwnzqrp6wnytematee

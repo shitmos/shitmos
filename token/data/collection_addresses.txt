@@ -33,5 +33,10 @@ order, Name, Contract, Added to PT Apello,
 31, Lonely Astro Club, stars1cdryg4ydd0uf0durthjdq3lfrvn8jtjwz7fk8yuuq54kqflpxmlqsq08zd
 32, MistleWadz, stars1swkzrx40jj2q5q3nh45pp60lqvpm6gwjcumpg5e72h2y8dyjh87sxh3ven
 33, Collectible Cyber Cards, stars1aha6aakwezfve78npa7h5js36asdutj8dqztdcpchxxyjvel6wrqdm74xn
-34, Punks SG, 
-35, Cosmos Army,
+34, Punks SG, stars1me79evxd4kc6wzu7zmpzad3ls22n0563klx0r544fawkxeurwnvs4gunvy
+35, Cosmos Army, stars1xejhvaay0fnqcxyzqgwjkzhfwj598u5wh7qcwv8sez49hgf38was753gvw
+36, Bouncy Bunnies, 
+37, stars1duc4jpv8wdpyt4efe8qc2dwych3cwa78lxl2z7ju04q7tthnrpws0vukxw
+38, Bad Pepes, stars1ce598gr54yzach6fv9ygvvy9lma3cfu2se4kh7f853fuee305rzs8wcnf4
+39, DOPE PEPES, stars1y69f0hxmukvu8xsmxwh6t6dnlcntuvdl8krz45m25ezdzw0fgw6sl506rl
+40, Methods of Madness, stars10l3lkrw4t804m2ftcat9c9sq4hqce26mm0gndrqdgvhmu5rt75cs00efec
