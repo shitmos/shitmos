@@ -234,6 +234,30 @@
           {"address": "stars14hjsg3qul39r5jevefgk8hnpqsw8k7634zrz48", "weight": 100, "label": "Golden Frog"},
           {"address": "stars1876h8c6qtlvqcnfztw6egl7fljwkhpcperykp4", "weight": 100, "label": "Artist"}
         ]
+      },
+      {
+        "name": "Bad Pepes",
+        "recipients": [
+          {"address": "stars1mqgh4675frwheraphc3tkefyvsvucgkwnh2ffr", "weight": 100, "label": "Bad Pepes"}
+        ]
+      },
+      {
+        "name": "Dope Pepes",
+        "recipients": [
+          {"address": "stars1mqgh4675frwheraphc3tkefyvsvucgkwnh2ffr", "weight": 100, "label": "Dope Pepes"}
+        ]
+      },
+      {
+        "name": "Methodsofmadness",
+        "recipients": [
+          {"address": "stars1xjdw82tj8zmfvxe2ynw20sgqfr9tu6ak66jpty", "weight": 100, "label": "Methodsofmadness"}
+        ]
+      },
+      {
+        "name": "Blobfish Comics",
+        "recipients": [
+          {"address": "stars1hk792hvg4tl27tqg7fqeaezj8qu06u0aazzk27", "weight": 100, "label": "Blobfish Comics"}
+        ]
       }
     ]
   }

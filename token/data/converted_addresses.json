@@ -239,6 +239,36 @@
             "name": "Wind Lords",
             "stargaze_address": "stars1wejl363mss05s7clkgu62ggugg756slhwxhufha852ej5kv7zl2qjah0rg",
             "osmosis_address": "osmo1wejl363mss05s7clkgu62ggugg756slhwxhufha852ej5kv7zl2q38tsmk"
+        },
+        {
+            "name": "Golden Frog",
+            "stargaze_address": "stars14hjsg3qul39r5jevefgk8hnpqsw8k7634zrz48",
+            "osmosis_address": "osmo14hjsg3qul39r5jevefgk8hnpqsw8k763f980gy"
+        },
+        {
+            "name": "Artist",
+            "stargaze_address": "stars1876h8c6qtlvqcnfztw6egl7fljwkhpcperykp4",
+            "osmosis_address": "osmo1876h8c6qtlvqcnfztw6egl7fljwkhpcp9yqmuk"
+        },
+        {
+            "name": "Bad Pepes",
+            "stargaze_address": "stars1mqgh4675frwheraphc3tkefyvsvucgkwnh2ffr",
+            "osmosis_address": "osmo1mqgh4675frwheraphc3tkefyvsvucgkw0swy5q"
+        },
+        {
+            "name": "Dope Pepes",
+            "stargaze_address": "stars1mqgh4675frwheraphc3tkefyvsvucgkwnh2ffr",
+            "osmosis_address": "osmo1mqgh4675frwheraphc3tkefyvsvucgkw0swy5q"
+        },
+        {
+            "name": "Methodsofmadness",
+            "stargaze_address": "stars1xjdw82tj8zmfvxe2ynw20sgqfr9tu6ak66jpty",
+            "osmosis_address": "osmo1xjdw82tj8zmfvxe2ynw20sgqfr9tu6akxakvk8"
+        },
+        {
+            "name": "Blobfish Comics",
+            "stargaze_address": "stars1hk792hvg4tl27tqg7fqeaezj8qu06u0aazzk27",
+            "osmosis_address": "osmo1hk792hvg4tl27tqg7fqeaezj8qu06u0ap9xmha"
         }
     ]
 }
