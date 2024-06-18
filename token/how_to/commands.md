@@ -1,3 +1,5 @@
+# to set up a wallet that already exists
+osmosisd keys add sez --recover --keyring-backend file
 
 # to get the wallet balances in a nice readable format
 python3 get_wallet_balances.py sez --keyring-backend file
