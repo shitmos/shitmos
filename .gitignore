@@ -1,2 +1,3 @@
 /api
-/nft/double_dribble/query_holders/graphql-query-holders/node_modules
+*node_modules
+*__pycache__
