@@ -1,0 +1,19 @@
+{
+	"name": "",
+    "image":"ipfs://QmNTsohFtiic2TdVq8bexbdsrjoWj6Niz1zxrpBsP1jQrG",
+	"description": "The first of many. All proceeds buy $SHITMOS.",
+	"attributes": [
+		{
+			"trait_type": "inspiration",
+			"value": "retro video games"
+		},
+		{
+			"trait_type": "length in seconds",
+			"value": "15"
+		},
+		{
+			"trait_type": "porcelain patron",
+			"value": "Westinpeace"
+		}
+	]
+}

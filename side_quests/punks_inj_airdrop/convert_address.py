@@ -1,6 +1,8 @@
 # NOTE THIS DOES NOT WORK!
 # IT APPEARS THAT INJECTIVE HAS A DIFFERENT WAY OF DERIVING ADDRESSES
 # THE OUTPUTS ARE WRONG
+# cosmos chains use a slip44 derivation seed of 118
+# evm chains and injective uses a slip 44 derivation seed of 60
 
 import bech32
 

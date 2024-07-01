@@ -1,7 +1,7 @@
 # config.py
 
 # Snapshot
-SNAPSHOT_FILE = "../data/snapshots/snapshot_2024-06-25.csv"
+SNAPSHOT_FILE = "../data/snapshots/snapshot_2024-06-26.csv"
 
 # Wallet Name
 KEY_NAME = "shitmos_nft"
@@ -22,7 +22,8 @@ TOKEN_NAME_MAPPING = {
     "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/cwad": "CWAD",
     "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos": "SHITMOS",
     "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/pnt": "PNT",
-    "ibc/987C17B11ABC2B20019178ACE62929FE9840202CE79498E29FE8E5CB02B7C0A4": "RSTK"
+    "ibc/987C17B11ABC2B20019178ACE62929FE9840202CE79498E29FE8E5CB02B7C0A4": "RSTK",
+    "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crmh": "CRMH",
 }
 
 # Define exchange rates to USD (example rates)
