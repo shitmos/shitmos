@@ -1,0 +1,38 @@
+{
+    "name": "NFT #1003",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Cryptoniums"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Real Worm"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Cig"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "I\u2019m sober as a judge, Ricky. A drunk judge, that is."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

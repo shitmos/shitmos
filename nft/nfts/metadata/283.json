@@ -1,0 +1,42 @@
+{
+    "name": "NFT #283",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Other Brown"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Shit"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Real Worm"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Angry Face"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Beaded Ball Circle"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "Liquor and whores, Ricky. Liquor and whores."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

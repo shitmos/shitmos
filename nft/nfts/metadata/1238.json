@@ -1,0 +1,42 @@
+{
+    "name": "NFT #1238",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Partly Cloudy"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Deploying Capital"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Pidgeon"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Rider"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Gold Leaf Circle"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "...unleash a SHITNAMI tidal wave that will engulf Ricky and extinguish his shit flames forever...shit waves..."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

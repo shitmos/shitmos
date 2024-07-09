@@ -1,0 +1,38 @@
+{
+    "name": "NFT #895",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Partly Cloudy"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Cosmos"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Shitmos"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Tin Foil Pixel"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "I'm sober enough to know what I'm doing, but drunk enough to really enjoy doing it."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "name": "NFT #59",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Cryptolikemo"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Shitmos"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Frogs Frame Ai"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "If I could only sober up, I could solve all the world's problems."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

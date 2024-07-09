@@ -1,0 +1,42 @@
+{
+    "name": "NFT #579",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Cosmos"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Shitmos"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Tin Foil"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Boroque Frame Circle"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "This is a really nice trailer, Ricky. I\u2019d hate to see something happen to it."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

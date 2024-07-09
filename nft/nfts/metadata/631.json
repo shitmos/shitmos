@@ -1,0 +1,38 @@
+{
+    "name": "NFT #631",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Corn"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Greyguy"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "Shit hawks, boys. They're coming for us all."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "name": "NFT #571",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Groovy Sun"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Shit"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Do"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Gold Leaf Circle"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "And then they grew into shitipillars, a pandemic of shitipillars everywhere..."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

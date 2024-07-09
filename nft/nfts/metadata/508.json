@@ -1,0 +1,38 @@
+{
+    "name": "NFT #508",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Poopchest Clouds"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Somm"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Fly"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Shit"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "You can\u2019t plant a seedless watermelon and expect it to grow."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "NFT #521",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Poopchest Clouds"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Zakis"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Fortis"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "The winds of shit are in the air."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "NFT #1689",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Shitcano"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Bfot"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Pidgeon"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Lazers"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "This is a really nice trailer, Ricky. I\u2019d hate to see something happen to it."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

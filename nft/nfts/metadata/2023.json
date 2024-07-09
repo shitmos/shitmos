@@ -1,0 +1,38 @@
+{
+    "name": "NFT #2023",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Other Sun"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Corn"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Shitwad"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "King Shid"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "We're about to sail into a shit typhoon, Randy, so we'd better haul in the jib before it gets covered with shit."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

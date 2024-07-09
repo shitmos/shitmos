@@ -1,0 +1,38 @@
+{
+    "name": "NFT #1828",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Corn"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Pidgeon"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Pidgeonwifhat"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "That's the thing about shit, Ricky. It's just as solid as a rock."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

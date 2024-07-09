@@ -1,0 +1,38 @@
+{
+    "name": "NFT #147",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Zakis"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Crapface"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Sleepy"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "Do you want a bag of this in the mouth, or a bag of that?"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

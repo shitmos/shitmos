@@ -1,0 +1,42 @@
+{
+    "name": "NFT #1980",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Stink"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Jacobs"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Constipated Don"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Kiss"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Wooden Circle"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "Plant shit seeds, get shit weeds"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

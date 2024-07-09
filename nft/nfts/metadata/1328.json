@@ -1,0 +1,42 @@
+{
+    "name": "NFT #1328",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gpt-4 Shit Bg"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Somm"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Shit Is The Character"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Gold Leaf Circle"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "You can\u2019t teach an old dog new shit."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

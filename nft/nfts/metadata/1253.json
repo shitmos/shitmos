@@ -1,0 +1,38 @@
+{
+    "name": "NFT #1253",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Cosmos"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Pidgeon"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Some Flies"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "You can\u2019t tell me what to do because I\u2019m the assistant trailer park supervisor."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "NFT #837",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gold Flowers"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Cosmos"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Bwb"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Tattoo"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "You can\u2019t teach an old dog new shit."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

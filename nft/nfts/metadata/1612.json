@@ -1,0 +1,42 @@
+{
+    "name": "NFT #1612",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Other Sun"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Somm"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Bankmonster"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Mega Lazer"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Gold Leaf Circle"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "I got a pocket full of change and I'm going to the liquor store."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

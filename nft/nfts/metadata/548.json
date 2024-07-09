@@ -1,0 +1,38 @@
+{
+    "name": "NFT #548",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple Sun"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Corn"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Shit Train"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Lazers"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "If I could only sober up, I could solve all the world's problems."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

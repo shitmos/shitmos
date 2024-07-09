@@ -1,0 +1,42 @@
+{
+    "name": "NFT #9",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sun"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Chart"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Carlos"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Flames"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Patinated Gold Leaf"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "I'm not a pessimist, I'm an optometrist."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

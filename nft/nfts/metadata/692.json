@@ -1,0 +1,38 @@
+{
+    "name": "NFT #692",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Clouds"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Jacobs"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Constipated Don"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Cig"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "You can't make chicken soup out of chicken shit."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

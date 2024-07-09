@@ -1,0 +1,38 @@
+{
+    "name": "NFT #397",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sun"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Bcc"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Shitmos"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Tin Foil"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "Life is like a box of shit, you never know what you\u2019re gonna get."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

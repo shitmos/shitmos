@@ -1,0 +1,42 @@
+{
+    "name": "NFT #2204",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Beige"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Cryptoniums"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Real Worm"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Cig N Chill"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Antique Circle"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "You can\u2019t plant a seedless watermelon and expect it to grow."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

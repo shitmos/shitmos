@@ -1,0 +1,42 @@
+{
+    "name": "NFT #388",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Chart"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Greyguy"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Gold Leaf Circle"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "I\u2019m sober as a judge, Ricky. A drunk judge, that is."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

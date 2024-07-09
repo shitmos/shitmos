@@ -1,0 +1,42 @@
+{
+    "name": "NFT #882",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue Sky"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Outline"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Crapface"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Sleepy"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Moody Frame Ai"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "We all got problems, Ricky. But sometimes, the only way to solve them is to start drinking."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

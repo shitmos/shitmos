@@ -1,0 +1,38 @@
+{
+    "name": "NFT #1085",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Deploying Capital"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Crapface"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Just Eyes"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "I am the liquor."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

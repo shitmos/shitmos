@@ -1,0 +1,38 @@
+{
+    "name": "NFT #1400",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Night"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Dokwons"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Fortis"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Bfot"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "That was a trick Ricky, the trick is the shit smell!"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

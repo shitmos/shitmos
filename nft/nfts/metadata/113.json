@@ -1,0 +1,38 @@
+{
+    "name": "NFT #113",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gold Clouds"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Cryptoniums"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Other Frog"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Bigger Tongue"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "It's not rocket appliances."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "NFT #743",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Poopchest"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Justjoe"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Lazer"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "That's the thing about shit, Ricky. It's just as solid as a rock."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

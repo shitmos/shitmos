@@ -115,3 +115,20 @@ $PYTHON_INTERPRETER get_wallet_balances.py $KEY_NAME --keyring-backend file --ou
 # Calculate the difference in balances
 echo "Calculating balance differences..."
 $PYTHON_INTERPRETER calculate_balance_differences.py $INITIAL_BALANCES_FILE $FINAL_BALANCES_FILE
+
+# Calculate the difference in balances
+echo "Calculating balance differences..."
+CHANGE_IN_BALANCE=$($PYTHON_INTERPRETER calculate_balance_differences.py $INITIAL_BALANCES_FILE $FINAL_BALANCES_FILE)
+
+# Calculate the amount to send to the dingleberry wallet
+AMOUNT_TO_SEND=$(echo "scale=2; 4932.84 - $CHANGE_IN_BALANCE" | bc)
+AMOUNT_TO_SEND_MICRO=$(echo "$AMOUNT_TO_SEND * 1000000 / 1" | bc)
+
+# Send the remaining amount to the dingleberry wallet
+DINGLEBERRY_WALLET_ADDRESS="<dingleberry_wallet_address>"
+if (( $(echo "$AMOUNT_TO_SEND > 0" | bc -l) )); then
+    echo "Sending $AMOUNT_TO_SEND_MICRO microSHITMOS to the dingleberry wallet..."
+    osmosisd tx bank send $FROM_ADDRESS $DINGLEBERRY_WALLET_ADDRESS $AMOUNT_TO_SEND_MICRO$DENOM --chain-id $CHAIN_ID --keyring-backend file
+else
+    echo "No remaining balance to send to the dingleberry wallet."
+fi

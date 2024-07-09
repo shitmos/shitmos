@@ -1,0 +1,42 @@
+{
+    "name": "NFT #2030",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gpt-4 Shit Bg"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Zakis"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Hotdog"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Face"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Super Fancy"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "Do you feel that boy? The way the shit clings to the air. Shit blizzards coming"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

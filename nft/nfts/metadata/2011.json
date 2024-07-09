@@ -1,0 +1,38 @@
+{
+    "name": "NFT #2011",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Other Brown"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Dokwons"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Shitberus"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "All Tiny Hats"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "That was a trick Ricky, the trick is the shit smell!"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

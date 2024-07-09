@@ -1,0 +1,38 @@
+{
+    "name": "NFT #761",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sunwifhat"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Cosmos"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Fly"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Eyez"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "The winds of shit are in the air."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "name": "NFT #1764",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Shitberuses"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Aged Bleached Shyte"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Hotdog"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Face"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Moody Frame Ai"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "You\u2019re looking at about 4000 pounds of breakfast sausage."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

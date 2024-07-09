@@ -1,0 +1,38 @@
+{
+    "name": "NFT #697",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple Sun"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Outline"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Mole"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Hat"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "Do you need to hit a dick with a hammer to prove it smokes?"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

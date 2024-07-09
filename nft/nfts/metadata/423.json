@@ -1,0 +1,38 @@
+{
+    "name": "NFT #423",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Chart Shaped Shit"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Bwb"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Shitmoswiftattoo"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "You idiots have loaded up a hair trigger double barrel shit machine gun and the barrel's pointed straight at your own heads."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

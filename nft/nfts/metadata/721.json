@@ -1,0 +1,38 @@
+{
+    "name": "NFT #721",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Terrible Clouds"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Jacobs"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Bankbot"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Access Panel"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "That was a trick Ricky, the trick is the shit smell!"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

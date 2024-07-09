@@ -1,0 +1,38 @@
+{
+    "name": "NFT #1294",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Moonwifhat"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Cryptolikemo"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Other Frog"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Big Tongue"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "Hear that? That's the sounds of the whispering winds of shit."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

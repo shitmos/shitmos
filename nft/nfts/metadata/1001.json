@@ -1,0 +1,38 @@
+{
+    "name": "NFT #1001",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Shitmos Blue"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Chart"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Realfly"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Cig"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "You can\u2019t smoke at a fire, Randy. You\u2019re f***ing fired."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

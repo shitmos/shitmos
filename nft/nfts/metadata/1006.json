@@ -1,0 +1,38 @@
+{
+    "name": "NFT #1006",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Deploying Capital"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Do"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Doswifdos"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "You guys are living in a microwave oven. Radiation city."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

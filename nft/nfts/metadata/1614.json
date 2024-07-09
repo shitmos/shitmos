@@ -1,0 +1,38 @@
+{
+    "name": "NFT #1614",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Stink"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Bcc"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Shitface"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Crown"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "I got a pocket full of change and I'm going to the liquor store."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

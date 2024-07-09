@@ -8,13 +8,13 @@ so as to not send shitmos from SEZ member collections to nft holders.
 
 # steps
 
-1. get list of holders and their quantities
-
-
+1. get list of holders (exclude listed nfts) and their quantities
 
 2. convert addresses to osmo addresses
 
-3. use modified version of shitdribble code to bulk send shitmos to all holders:
+3. use modified version of shitdribble code to bulk send shitmos to all holders of unlisted nfts:
+
+4. calculate remaining amount from 2222 x 2.22 = 4,932.84 as "dingleberries" to be rolled into a special wallet that will be distributed to a random trait each "random interval"
 
 amount_per_nft = number of shitmos each nft receives
 

@@ -1,0 +1,38 @@
+{
+    "name": "NFT #1970",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Bankmans"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Carlos"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Sambot Lazereyes"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "I'm sober enough to know what I'm doing, but drunk enough to really enjoy doing it."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

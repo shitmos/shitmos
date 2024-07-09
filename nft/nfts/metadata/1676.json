@@ -1,0 +1,42 @@
+{
+    "name": "NFT #1676",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Hell"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Chart Shaped Shit"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Hat"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Crown"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Fancy Wood"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "You can't always get what you want, Ricky."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

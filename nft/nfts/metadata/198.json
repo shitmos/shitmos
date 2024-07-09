@@ -1,0 +1,38 @@
+{
+    "name": "NFT #198",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gold Clouds"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Corn"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Don"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Shit"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "I got a pocket full of change and I'm going to the liquor store."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

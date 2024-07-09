@@ -1,0 +1,42 @@
+{
+    "name": "NFT #802",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Shit Clouds"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Jacobs"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Shitface"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Shit"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Black N Green"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "You can\u2019t tell me what to do because I\u2019m the assistant trailer park supervisor."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

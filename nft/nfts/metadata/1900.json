@@ -1,0 +1,38 @@
+{
+    "name": "NFT #1900",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Turds"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Outline"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Freakydo"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "Life is like a box of shit, you never know what you\u2019re gonna get."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "name": "NFT #385",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gold Clouds"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Outline"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Buff Shitmos"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Patinated Gold Leaf"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "...unleash a SHITNAMI tidal wave that will engulf Ricky and extinguish his shit flames forever...shit waves..."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

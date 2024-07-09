@@ -1,0 +1,38 @@
+{
+    "name": "NFT #695",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sun"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Dokwons"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Pidgeon"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Rider"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "You can lead a horse to water, but you can\u2019t make him drink. Unless, of course, the horse is already drunk."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "NFT #1729",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Terrible Clouds"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Negative"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Shit"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "You can't argue with a drunk person, Randy."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

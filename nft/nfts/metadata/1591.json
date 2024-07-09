@@ -1,0 +1,42 @@
+{
+    "name": "NFT #1591",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Chart"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Bwb"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Bfot"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Gold Leaf Circle"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "There\u2019s six million pounds of ham in this cart."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

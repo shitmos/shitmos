@@ -1,0 +1,42 @@
+{
+    "name": "NFT #609",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Groovy Sun"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Jacobs"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Crapface"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Fancy Wood"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "Do you know what your problem is, you\u2019ve got no game."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

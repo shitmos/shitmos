@@ -1,0 +1,38 @@
+{
+    "name": "NFT #253",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Poopchest Clouds"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Ust"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Terribly Drawn Worm"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "And then they grew into shitipillars, a pandemic of shitipillars everywhere..."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

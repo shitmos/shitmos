@@ -1,0 +1,38 @@
+{
+    "name": "NFT #602",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Shitberuses"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Somm"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Bwb"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Lazers"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "You\u2019re looking at about 4000 pounds of breakfast sausage."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "name": "NFT #1812",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Shitmos Brown"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Shit"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Shitface"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Lazer"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Green N Red Stars"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "You can\u2019t plant a seedless watermelon and expect it to grow."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

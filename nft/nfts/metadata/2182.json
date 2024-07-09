@@ -1,0 +1,38 @@
+{
+    "name": "NFT #2182",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Moonwifhat"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Outline"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Fortis"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Bfot"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "I've got enough dough to make some serious cabbage."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

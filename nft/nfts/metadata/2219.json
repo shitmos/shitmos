@@ -1,0 +1,38 @@
+{
+    "name": "NFT #2219",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Moonwifhat"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Zakis"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Shit Train"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Lazers"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "Shit apple doesn't fall far from the shit tree."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

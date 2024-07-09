@@ -1,0 +1,42 @@
+{
+    "name": "NFT #28",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Real"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Real Worm"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Horns"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "Shithawks. They're coming Bubbles. They're flying in low, swooping down, shitting on people, dragging them off to the big shit nest."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

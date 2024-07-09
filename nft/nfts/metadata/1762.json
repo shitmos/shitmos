@@ -1,0 +1,38 @@
+{
+    "name": "NFT #1762",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple Sun"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Shit"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Realfly"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Shit"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "This is a really nice trailer, Ricky. I\u2019d hate to see something happen to it."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "NFT #1524",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Terrible Clouds"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Bankmans"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Realfly"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Hat"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "The winds of shit are in the air."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

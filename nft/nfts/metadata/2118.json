@@ -1,0 +1,38 @@
+{
+    "name": "NFT #2118",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gpt-4 Shit Bg"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Chartwifshit"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Carlos"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Sambot Lazereyes"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "You can't always get what you want, Ricky."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

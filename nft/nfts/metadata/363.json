@@ -1,0 +1,38 @@
+{
+    "name": "NFT #363",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple Sun"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Raw"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Other Frog"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Get Outta Here With That Tongue"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "You idiots have loaded up a hair trigger double barrel shit machine gun and the barrel's pointed straight at your own heads."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

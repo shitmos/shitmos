@@ -1,0 +1,42 @@
+{
+    "name": "NFT #2026",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Cosmos"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Justjoe"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Lazer"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Simple Dark Circle"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "Liquor and whores, Ricky. Liquor and whores."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

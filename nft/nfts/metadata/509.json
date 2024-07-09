@@ -1,0 +1,38 @@
+{
+    "name": "NFT #509",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gold Flowers"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Raw"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Fortis"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Too Many Fly"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "You\u2019re all f***ed, and you don\u2019t even know it."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "NFT #555",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pattern"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Real"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Shitwad"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "King Shid"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "Do you feel that boy? The way the shit clings to the air. Shit blizzards coming"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

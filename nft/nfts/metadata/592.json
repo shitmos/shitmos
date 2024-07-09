@@ -1,0 +1,42 @@
+{
+    "name": "NFT #592",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Shitmos Blue"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Real"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Fortis"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Fly"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "I've got enough dough to make some serious cabbage."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

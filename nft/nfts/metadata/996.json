@@ -1,0 +1,42 @@
+{
+    "name": "NFT #996",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Corn"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Buff Shitmos"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Crown"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Simple Dark Circle"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "You don\u2019t know the first thing about drinking, do you, Randy?"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

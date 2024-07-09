@@ -1,0 +1,42 @@
+{
+    "name": "NFT #1578",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Toxic"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Chartwifshit"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Freakydo"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Picture frame",
+            "value": "Rustic Frog Frame Ai"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "Hear that? That's the sounds of the whispering winds of shit."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "NFT #296",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Shitmos Blue"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Raw"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Pooface"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Crown"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "We all got problems, Ricky. But sometimes, the only way to solve them is to start drinking."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

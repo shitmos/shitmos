@@ -1,0 +1,38 @@
+{
+    "name": "NFT #1266",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Shitmos Brown"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Bankmans"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Bankmonster"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Sammys"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "There\u2019s six million pounds of ham in this cart."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}

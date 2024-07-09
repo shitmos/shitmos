@@ -1,0 +1,38 @@
+{
+    "name": "NFT #537",
+    "description": "The official nft collection of Shitmos. Proceeds buy $SHITMOS.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Beige"
+        },
+        {
+            "trait_type": "Shit",
+            "value": "Poopchest"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Shitwad"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Shitwad"
+        },
+        {
+            "trait_type": "Pbj",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frog day",
+            "value": "No"
+        },
+        {
+            "trait_type": "Jim Lahey Shitism",
+            "value": "This isn't a democracy, Ricky. This is a trailer park."
+        },
+        {
+            "trait_type": "Type",
+            "value": "Generated"
+        }
+    ]
+}
