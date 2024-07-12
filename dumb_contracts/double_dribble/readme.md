@@ -25,3 +25,10 @@ amount_per_nft * amount_held_by_wallet is the amount to send for each wallet in 
 execute the code by running:
 `./double_dribble.sh`
 
+### Todos
+
+1. figure out a way to ensure shitmos is sent to dao wallets - need some other way to:
+    1. identify a dao wallet
+    2. match it's OSMO equivalent address (if it exists)
+        1. If DAO hasn't set up cross-chain Osmo account -> join the DAO and submit a governance proposal
+        2. Once gov proposal passes, grab their Osmo address
