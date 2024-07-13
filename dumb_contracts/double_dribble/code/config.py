@@ -1,7 +1,8 @@
 # config.py
 
 # Snapshot
-SNAPSHOT_FILE = "../data/snapshots/snapshot_2024-07-12.csv"
+SNAPSHOTS_FOLDER = "../data/snapshots/"
+INCLUDE_LISTED_NFT_FOR_DISTRIBUTE = False
 
 # Wallet Name
 KEY_NAME = "shitmos_nft"
