@@ -1,12 +1,8 @@
 # config.py
-import os
-from helpers import get_latest_snapshot_file
 
-# Define the directory where snapshot files are stored
-SNAPSHOT_DIR = "../data/snapshots/"
-
-# Get the latest snapshot file
-SNAPSHOT_FILE = get_latest_snapshot_file(SNAPSHOT_DIR)
+# Snapshot
+SNAPSHOTS_FOLDER = "../data/snapshots/"
+INCLUDE_LISTED_NFT_FOR_DISTRIBUTE = False
 
 # Wallet Name
 KEY_NAME = "shitmos_nft"

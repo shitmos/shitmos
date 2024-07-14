@@ -4,7 +4,7 @@ import os
 import subprocess
 import bech32
 import config
-from config import SNAPSHOT_FILE
+from snapshots import calculate_holders
 
 # Define constants
 MAX_MESSAGES_PER_TX = 333  # Based on maximum gas limit
@@ -14,8 +14,6 @@ TRANSACTIONS_DIR = '../data/transactions'
 # Create the transactions directory if it doesn't exist
 os.makedirs(TRANSACTIONS_DIR, exist_ok=True)
 
-# Load snapshot data from CSV file
-df = pd.read_csv(SNAPSHOT_FILE)
 
 def convert_address(stargaze_address, target_prefix="osmo"):
     """
@@ -25,11 +23,13 @@ def convert_address(stargaze_address, target_prefix="osmo"):
     osmosis_address = bech32.bech32_encode(target_prefix, data)
     return osmosis_address
 
+
 def truncate(value, decimals):
     factor = 10.0 ** decimals
     return int(value * factor) / factor
 
-def generate_transactions(df, unit_amount, common_denom, from_address):
+
+def generate_transactions(holders_counted, unit_amount, common_denom, from_address):
     full_denom = next((key for key, value in config.TOKEN_NAME_MAPPING.items() if value == common_denom), common_denom)
     fee_denom = "uosmo"
     fee_amount = "26768"
@@ -37,10 +37,8 @@ def generate_transactions(df, unit_amount, common_denom, from_address):
     all_transactions = []
     messages = []
 
-    for index, row in df.iterrows():
-        stargaze_address = row['address']
+    for stargaze_address, nft_count in holders_counted.items():
         osmosis_address = convert_address(stargaze_address)
-        nft_count = row['amount']  # Assuming the 'amount' column represents the number of NFTs held
         amount = truncate(nft_count * unit_amount * config.CONVERSION_RATE, 0)
         
         messages.append({
@@ -104,6 +102,7 @@ def generate_transactions(df, unit_amount, common_denom, from_address):
 
     return all_transactions
 
+
 def save_transaction(transaction, index):
     timestamp = subprocess.check_output(['date', '+%Y%m%d_%H%M%S']).decode('utf-8').strip()
     transaction_file = os.path.join(TRANSACTIONS_DIR, f'transaction_{index}_{timestamp}.json')
@@ -113,6 +112,7 @@ def save_transaction(transaction, index):
 
     return transaction_file
 
+
 def main():
     common_denom = config.DENOM
     unit_amount = config.UNIT_AMOUNT
@@ -120,11 +120,13 @@ def main():
         ["osmosisd", "keys", "show", config.KEY_NAME, "-a", "--keyring-backend", "file"]
     ).decode("utf-8").strip()
 
-    transactions = generate_transactions(df, unit_amount, common_denom, from_address)
-    
+    holders_counted = calculate_holders(include_listed=config.INCLUDE_LISTED_NFT_FOR_DISTRIBUTE)
+    transactions = generate_transactions(holders_counted, unit_amount, common_denom, from_address)
+
     for index, transaction in enumerate(transactions):
         transaction_file = save_transaction(transaction, index)
         print(f"Transaction {index + 1}/{len(transactions)} saved: {transaction_file}")
+
 
 if __name__ == "__main__":
     main()
