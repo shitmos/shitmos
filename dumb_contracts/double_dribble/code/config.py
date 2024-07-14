@@ -1,15 +1,19 @@
 # config.py
+import os
+from helpers import get_latest_snapshot_file
 
-# Snapshot
-SNAPSHOT_FILE = "../data/snapshots/snapshot_2024-07-12.csv"
+# Define the directory where snapshot files are stored
+SNAPSHOT_DIR = "../data/snapshots/"
+
+# Get the latest snapshot file
+SNAPSHOT_FILE = get_latest_snapshot_file(SNAPSHOT_DIR)
 
 # Wallet Name
 KEY_NAME = "shitmos_nft"
 WALLET_NAME = "Shitmos NFT Wallet"
 
-
 # Denomination and amount configuration
-DENOM = "SHITMOS"
+DENOM = "PNT"
 UNIT_AMOUNT = 2.22
 
 # Define conversion rate (1 unit = 1,000,000 micro units)

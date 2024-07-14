@@ -1,0 +1,8 @@
+query account information:
+starsd query account stars1r6f5tfxdx2pw5p94f2v5n96xd4nglz5qdgl4l3
+
+query
+starsd query txs --events {eventType}.{eventAttribute}={value}
+starsd query txs --events 'transfer.recipient=stars1r6f5tfxdx2pw5p94f2v5n96xd4nglz5qdgl4l3' --node https://rpc.stargaze.zone:443
+starsd query txs --events 'transfer.recipient=stars1r6f5tfxdx2pw5p94f2v5n96xd4nglz5qdgl4l3' --node https://rpc.stargaze-apis.com:443
+starsd query txs --events 'transfer.recipient=stars1r6f5tfxdx2pw5p94f2v5n96xd4nglz5qdgl4l3' --node https://rpc-stargaze.blockapsis.com
