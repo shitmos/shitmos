@@ -32,3 +32,6 @@ execute the code by running:
     2. match it's OSMO equivalent address (if it exists)
         1. If DAO hasn't set up cross-chain Osmo account -> join the DAO and submit a governance proposal
         2. Once gov proposal passes, grab their Osmo address
+
+### troubleshooting
+errors with signing:

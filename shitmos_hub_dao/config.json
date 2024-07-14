@@ -1,0 +1,134 @@
+{
+    "admin": null,
+    "automatically_add_cw20s": true,
+    "automatically_add_cw721s": true,
+    "description": "The Shitmos Hub is a decentralized autonomous organization on the Osmosis blockchain governed by delegators of the Shitmos cryptocurrency. Its primary goal is to provide a sufficiently decentralized enclave to receive approximately 800,000 Shitmos tokens currently locked on the flambe contract from which Shitmos originated.\n\nTo join the Shitmos Hub and participate in governance you can obtain Shitmos on several platforms:\n\n1. The Osmosis Website / Decentralized Application:\nhttps://app.osmosis.zone/assets/SHITMOS\n\n2. The Coinhall trading platform:\nhttps://coinhall.org/osmosis/osmo16vwmg3xmlzltk24upzx9nd957sl0ffqnc0vc5ld0gzqtz3g7yplqeu8nrk\n\n3. On the Migaloo blockchain flavor of the White Whale decentralized exchange:\nhttps://app.whitewhale.money/migaloo/swap?from=WHALE&to=SHITMOS",
+    "image_url": "ipfs://QmdBfdwhxXMMrMzSrauUuVwyJ7SVGLdMM29q168vafJ8Dv",
+    "name": "Shitmos Hub",
+    "proposal_modules_instantiate_info": [
+      {
+        "admin": {
+          "core_module": {}
+        },
+        "code_id": 361,
+        "label": "DAO_Shitmos Hub_proposal-single",
+        "msg": {
+          "allow_revoting": false,
+          "close_proposal_on_execution_failure": true,
+          "max_voting_period": {
+            "time": 604800
+          },
+          "only_members_execute": true,
+          "pre_propose_info": {
+            "module_may_propose": {
+              "info": {
+                "admin": {
+                  "core_module": {}
+                },
+                "code_id": 360,
+                "label": "DAO_Shitmos Hub_pre-propose-single",
+                "msg": {
+                  "deposit_info": {
+                    "amount": "22000000",
+                    "denom": {
+                      "token": {
+                        "denom": {
+                          "native": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos"
+                        }
+                      }
+                    },
+                    "refund_policy": "never"
+                  },
+                  "open_proposal_submission": false,
+                  "extension": {}
+                },
+                "funds": []
+              }
+            }
+          },
+          "threshold": {
+            "threshold_quorum": {
+              "quorum": {
+                "percent": "0.22"
+              },
+              "threshold": {
+                "majority": {}
+              }
+            }
+          },
+          "veto": null
+        },
+        "funds": []
+      },
+      {
+        "admin": {
+          "core_module": {}
+        },
+        "code_id": 366,
+        "label": "DAO_Shitmos Hub_proposal-multiple",
+        "msg": {
+          "allow_revoting": false,
+          "close_proposal_on_execution_failure": true,
+          "max_voting_period": {
+            "time": 604800
+          },
+          "only_members_execute": true,
+          "pre_propose_info": {
+            "module_may_propose": {
+              "info": {
+                "admin": {
+                  "core_module": {}
+                },
+                "code_id": 359,
+                "label": "DAO_Shitmos Hub_pre-propose-multiple",
+                "msg": {
+                  "deposit_info": {
+                    "amount": "22000000",
+                    "denom": {
+                      "token": {
+                        "denom": {
+                          "native": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos"
+                        }
+                      }
+                    },
+                    "refund_policy": "never"
+                  },
+                  "extension": {},
+                  "open_proposal_submission": false
+                },
+                "funds": []
+              }
+            }
+          },
+          "veto": null,
+          "voting_strategy": {
+            "single_choice": {
+              "quorum": {
+                "percent": "0.22"
+              }
+            }
+          }
+        },
+        "funds": []
+      }
+    ],
+    "voting_module_instantiate_info": {
+      "admin": {
+        "core_module": {}
+      },
+      "code_id": 367,
+      "label": "DAO_Shitmos Hub_token-staked",
+      "msg": {
+        "active_threshold": null,
+        "token_info": {
+          "existing": {
+            "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos"
+          }
+        },
+        "unstaking_duration": {
+          "time": 604800
+        }
+      },
+      "funds": []
+    }
+  }

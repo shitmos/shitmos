@@ -1,4 +1,5 @@
 # Token Contract
+denom
 ```
 factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos
 ```
