@@ -42,11 +42,11 @@ def calculate_and_print_distributions(collections, unit_amount, denom):
             amount = truncate((weight / total_weight) * unit_amount, 2)
             total_amount += amount
             osmosis_address = address_mapping.get(recipient_name, 'Unknown')
-            output.append(f"{name:<20} {recipient_name:<30} {weight:<10} {amount:<15.2f} {denom:<10} {osmosis_address:<50}")
+            output.append(f"{name:<30} {recipient_name:<30} {weight:<10} {amount:<15.2f} {denom:<10} {osmosis_address:<50}")
 
 
     output.append("-" * 140)
-    output.append(f"{'Total':<61} {total_amount:<15.2f} {denom:<10}")
+    output.append(f"{'Total':<71} {total_amount:<15.2f} {denom:<10}")
     output.append("-" * 140)
     output.append("")
     

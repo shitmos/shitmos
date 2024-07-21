@@ -3,7 +3,7 @@ import os
 import bech32
 
 # Define the directory paths
-DATA_DIR = '/data'
+DATA_DIR = '../data'
 COLLECTIONS_FILE = os.path.join(DATA_DIR, 'collections.json')
 OUTPUT_FILE = os.path.join(DATA_DIR, 'converted_addresses.json')
 

@@ -1,0 +1,32 @@
+
+{
+    "name":"Shitpocalypse",
+    "image":"",
+    "description":"Bibby is back with a shitstravaganza in Shitropolis. Feast your eyes upon the shitastrophe that just keeps giving, but don't forget to bring your goggles. 78% of the proceeds will go to the SEZ DAO treasury.",
+    "attributes": [
+        {
+            "trait_type":"inspiration",
+            "value":"retrofuturistic dystopian nightmare"
+        },
+        {
+            "trait_type":"length in seconds",
+            "value":"17"
+        },
+        {
+            "trait_type":"porcelain patron",
+            "value":"flarnrules"
+        },
+        {
+            "trait_type":"artist",
+            "value":"bibby"
+        },
+        {
+            "trait_type":"mint proceeds recipient",
+            "value":"Shitmos Economic Zone DAO"
+        },
+        {
+            "trait_type":"weight",
+            "value":"78%"
+        }
+    ]
+}

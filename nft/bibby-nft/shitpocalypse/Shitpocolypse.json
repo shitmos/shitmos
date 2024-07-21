@@ -1,0 +1,145 @@
+{
+    "minterType": "openEdition",
+    "collectionDetails": {
+        "name": "",
+        "description": "",
+        "symbol": "",
+        "imageFile": [],
+        "startTradingTime": "",
+        "explicit": false,
+        "updatable": false
+    },
+    "uploadDetails": {
+        "assetFiles": [],
+        "metadataFiles": [],
+        "thumbnailFiles": [],
+        "thumbnailCompatibleAssetFileNames": [],
+        "uploadService": "nft-storage",
+        "nftStorageApiKey": "",
+        "pinataApiKey": "",
+        "pinataSecretKey": "",
+        "uploadMethod": "new",
+        "baseTokenURI": "",
+        "imageUrl": ""
+    },
+    "mintingDetails": {
+        "numTokens": 0,
+        "unitPrice": "0",
+        "perAddressLimit": 0,
+        "startTime": "",
+        "paymentAddress": "",
+        "selectedMintToken": {
+            "id": "stars",
+            "denom": "ustars",
+            "displayName": "STARS",
+            "decimalPlaces": 6
+        }
+    },
+    "whitelistDetails": {
+        "whitelistState": "none",
+        "whitelistType": "standard",
+        "contractAddress": "",
+        "members": [],
+        "unitPrice": "0",
+        "startTime": "",
+        "endTime": "",
+        "perAddressLimit": 0,
+        "memberLimit": 0,
+        "admins": [],
+        "adminsMutable": true
+    },
+    "royaltyDetails": {
+        "royaltyType": "none",
+        "paymentAddress": "",
+        "share": 0
+    },
+    "baseMinterDetails": null,
+    "openEditionMinterDetails": {
+        "collectionDetails": {
+            "name": "Shitpocalypse",
+            "description": "Bibby is back with a shitstravaganza in Shitropolis. Feast your eyes upon the shitastrophe that just keeps giving, but don't forget to bring your goggles. 78% of the proceeds will go to the SEZ DAO treasury.",
+            "symbol": "CACAOE002",
+            "imageFile": [
+                {}
+            ],
+            "startTradingTime": "1718770200000000000",
+            "explicit": false,
+            "updatable": false
+        },
+        "whitelistDetails": {
+            "whitelistState": "none",
+            "whitelistType": "standard",
+            "contractAddress": "",
+            "members": [],
+            "unitPrice": "0",
+            "startTime": "",
+            "endTime": "",
+            "perAddressLimit": 0,
+            "memberLimit": 0,
+            "admins": [],
+            "adminsMutable": true
+        },
+        "royaltyDetails": {
+            "royaltyType": "new",
+            "paymentAddress": "stars19cqm38vt9g76a642v5yxqqdnuc8v2sprf88swza9929w28skrwdqh8xgae",
+            "share": 5
+        },
+        "offChainMetadataUploadDetails": {
+            "assetFiles": [
+                {}
+            ],
+            "metadataFiles": [],
+            "thumbnailFile": {},
+            "isThumbnailCompatible": true,
+            "uploadService": "nft-storage",
+            "nftStorageApiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweGU2NjcxRDUzRTQzNjhENDg4OTJjMjNmQ0NFZjc0MDk0RDZiOTI2QjAiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTcwMTUwNzE1NDI3OSwibmFtZSI6ImtleTEifQ.M9f-wPD7QotM0IMsAZUamOi2rjZBt6EPiv74fggV-MM",
+            "pinataApiKey": "",
+            "pinataSecretKey": "",
+            "uploadMethod": "new",
+            "tokenURI": "",
+            "imageUrl": "",
+            "openEditionMinterMetadataFile": {},
+            "exportedMetadata": {
+                "name": "Shitmos: Brown Bonanaza - Bibby Edition",
+                "description": "The first of many. All proceeds buy $SHITMOS.",
+                "attributes": [
+                    {
+                        "trait_type": "inspiration",
+                        "value": "retro video games"
+                    },
+                    {
+                        "trait_type": "length in seconds",
+                        "value": "15"
+                    },
+                    {
+                        "trait_type": "porcelain patron",
+                        "value": "Westinpeace"
+                    }
+                ]
+            }
+        },
+        "mintingDetails": {
+            "unitPrice": "2220000",
+            "perAddressLimit": 2,
+            "startTime": "1718770140000000000",
+            "paymentAddress": "",
+            "selectedMintToken": {
+                "id": "ibc-usdc",
+                "denom": "factory/stars1paqkeyluuw47pflgwwqaaj8y679zj96aatg5a7/uusdc",
+                "displayName": "USDC",
+                "decimalPlaces": 6
+            },
+            "limitType": "count_limited",
+            "tokenCountLimit": 222
+        },
+        "metadataStorageMethod": "off-chain",
+        "openEditionMinterContractAddress": "stars1v0aawnv2culru3czh9wrtznleq7uhe28tvdtmy3fvyu0mh72vrxsm4h57l",
+        "coverImageUrl": "ipfs://bafybeibglmwzpfe2enxe7honpdy7rn3dyxzgudeemg4makq33sjnom2wqi/1-bibby-thumbnail.gif",
+        "tokenUri": "ipfs://bafybeigfr6ovwkl7ifr36kmydwfdf5cynwqigqp4y7nfs45zrv676tdib4/1-shitmosHD",
+        "tokenImageUri": null,
+        "isRefreshed": false
+    },
+    "vendingMinterContractAddress": null,
+    "baseTokenUri": "ipfs://",
+    "coverImageUrl": "ipfs:///undefined"
+}

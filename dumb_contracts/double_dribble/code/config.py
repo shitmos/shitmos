@@ -9,7 +9,7 @@ KEY_NAME = "shitmos_nft"
 WALLET_NAME = "Shitmos NFT Wallet"
 
 # Denomination and amount configuration
-DENOM = "PNT"
+DENOM = "SHITMOS"
 UNIT_AMOUNT = 2.22
 
 # Define conversion rate (1 unit = 1,000,000 micro units)
