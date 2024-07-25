@@ -35,7 +35,7 @@ def parse_request():
 
 def request_holders():
     url = "https://metabase.constellations.zone/api/public/card/4cf9550e-5eb7-4fe7-bd3b-dc33229f53dc/query/json"
-    collection_addr = "stars1z2mxxjct3lmq6yndqx6e7sxuamc7t0k24y9jq3y907vmg2wwt4rs7klax9"
+    collection_addr = "stars1288d53pe66q6lqpt5nndgmzsvymqdvk6zajlxfhdz7fv5lnltc4q0lqdmv"
 
     parameters = [{"type": "category",
                    "value": collection_addr,

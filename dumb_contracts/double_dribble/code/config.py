@@ -1,8 +1,12 @@
 # config.py
+# wallet KEY_NAMES:
+# shitmos_nft = Shitmos NFT Wallet
+# sez = Shitmos Economic Zone Wallet
+
 
 # Snapshot
 SNAPSHOTS_FOLDER = "../data/snapshots/"
-INCLUDE_LISTED_NFT_FOR_DISTRIBUTE = False
+INCLUDE_LISTED_NFT_FOR_DISTRIBUTE = True
 
 # Wallet Name
 KEY_NAME = "shitmos_nft"
