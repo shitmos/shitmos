@@ -1,0 +1,35 @@
+{
+    "name":"",
+    "image":"ipfs://Qmdk1xh17GAGXyiMaWeFUN1WbEW3BAYoqGaY55yMeyYnbM",
+    "description":"Embark on an epic adventure through the cosmic plumbing of the shitverse to meet the king of shit. The alpha. The omega. Shitzilla. 78% of the proceeds will go to the SEZ DAO treasury.",
+    "attributes": [
+        {
+            "trait_type":"inspiration",
+            "value":"10,000 leagues under the toilet"
+        },
+        {
+            "trait_type":"length in seconds",
+            "value":"33"
+        },
+        {
+            "trait_type":"porcelain patron",
+            "value":"godzilla"
+        },
+        {
+            "trait_type":"artist",
+            "value":"bibby"
+        },
+        {
+            "trait_type":"mint proceeds recipient",
+            "value":"Shitmos Economic Zone DAO"
+        },
+        {
+            "trait_type":"weight",
+            "value":"78%"
+        },
+        {
+            "trait_type":"resolution",
+            "value": "1080x1080"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "stargate": {
+      "typeUrl": "/osmosis.poolmanager.v1beta1.MsgSplitRouteSwapExactAmountIn",
+      "value": {
+        "sender": "osmo1pv0fhhvnnckgrp26pr2e6ay0ydv054jf7d9qzy46h3vtm7q8nyjs8ja62k",
+        "routes": [
+          {
+            "pools": [
+              {
+                "poolId": "1464",
+                "tokenOutDenom": "uosmo"
+              },
+              {
+                "poolId": "1770",
+                "tokenOutDenom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos"
+              }
+            ],
+            "tokenInAmount": "728407081"
+          },
+          {
+            "pools": [
+              {
+                "poolId": "1858",
+                "tokenOutDenom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos"
+              }
+            ],
+            "tokenInAmount": "208116309"
+          },
+          {
+            "pools": [
+              {
+                "poolId": "1964",
+                "tokenOutDenom": "ibc/0FA9232B262B89E77D1335D54FB1E1F506A92A7E4B51524B400DC69C68D28372"
+              },
+              {
+                "poolId": "1979",
+                "tokenOutDenom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos"
+              }
+            ],
+            "tokenInAmount": "104058154"
+          }
+        ],
+        "tokenInDenom": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
+        "tokenOutMinAmount": "47474220094"
+      }
+    }
+  }
