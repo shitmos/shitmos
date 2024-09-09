@@ -6,7 +6,7 @@
 
 # Snapshot
 SNAPSHOTS_FOLDER = "../data/snapshots/"
-INCLUDE_LISTED_NFT_FOR_DISTRIBUTE = True
+INCLUDE_LISTED_NFT_FOR_DISTRIBUTE = False
 
 # Wallet Name
 KEY_NAME = "shitmos_nft"

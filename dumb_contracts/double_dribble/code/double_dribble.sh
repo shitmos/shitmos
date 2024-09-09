@@ -9,14 +9,20 @@ DENOM=$($PYTHON_INTERPRETER -c "import config; print(config.DENOM)")
 UNIT_AMOUNT=$($PYTHON_INTERPRETER -c "import config; print(config.UNIT_AMOUNT)")
 CONVERSION_RATE=$($PYTHON_INTERPRETER -c "import config; print(config.CONVERSION_RATE)")
 KEY_NAME=$($PYTHON_INTERPRETER -c "import config; print(config.KEY_NAME)")
-SNAPSHOT_FILE=$($PYTHON_INTERPRETER -c "import config; print(config.SNAPSHOT_FILE)")
+SNAPSHOTS_FOLDER=$($PYTHON_INTERPRETER -c "import config; print(config.SNAPSHOTS_FOLDER)")
+FULL_DENOM=$($PYTHON_INTERPRETER -c "import config; denom=config.DENOM; print(next(key for key, value in config.TOKEN_NAME_MAPPING.items() if value == denom))")
+DINGLEBERRY_FEE_AMOUNT="5000"  # Fee amount for dingleberry send (in microdenoms)
+DINGLEBERRY_FEE_DENOM="uosmo"  # Denomination for the fee (usually 'uosmo' for Osmosis)
 
 # Debug: Print config values
 echo "DENOM: $DENOM"
+echo "FULL_DENOM: $FULL_DENOM"
 echo "UNIT_AMOUNT: $UNIT_AMOUNT"
 echo "CONVERSION_RATE: $CONVERSION_RATE"
 echo "KEY_NAME: $KEY_NAME"
-echo "SNAPSHOT_FILE: $SNAPSHOT_FILE"
+echo "SNAPSHOTS_FOLDER: $SNAPSHOTS_FOLDER"
+echo "DINGLEBERRY_FEE_AMOUNT: $DINGLEBERRY_FEE_AMOUNT"
+echo "DINGLEBERRY_FEE_DENOM: $DINGLEBERRY_FEE_DENOM"
 
 # Calculate the amount in micro units
 AMOUNT=$($PYTHON_INTERPRETER -c "print(int($UNIT_AMOUNT * $CONVERSION_RATE))")
@@ -120,22 +126,67 @@ done
 echo "Waiting for 5 seconds before fetching final wallet balances..."
 sleep 5
 
+# Fetch the final balances after the transactions
 echo "Fetching final wallet balances..."
 $PYTHON_INTERPRETER get_wallet_balances.py $KEY_NAME --keyring-backend file --output $FINAL_BALANCES_FILE
 
-# Calculate the difference in SHITMOS balances only
-echo "Calculating balance differences in SHITMOS..."
-CHANGE_IN_SHITMOS_BALANCE=$($PYTHON_INTERPRETER -c "import calculate_balance_differences; print(calculate_balance_differences.calculate_shitmos_difference('$INITIAL_BALANCES_FILE', '$FINAL_BALANCES_FILE'))")
+# Debug: Print initial and final balance file paths
+echo "Initial Balances File: $INITIAL_BALANCES_FILE"
+echo "Final Balances File: $FINAL_BALANCES_FILE"
 
-# Calculate the amount to send to the dingleberry wallet
-AMOUNT_TO_SEND=$(echo "scale=2; 4932.84 - $CHANGE_IN_SHITMOS_BALANCE" | bc)
+# Calculate the balance differences
+echo "Calculating balance differences for $DENOM..."
+
+# Extract only the balance difference for the specific DENOM
+BALANCE_DIFF=$($PYTHON_INTERPRETER calculate_balance_differences.py $INITIAL_BALANCES_FILE $FINAL_BALANCES_FILE | grep "$DENOM" | awk '{print $2}')
+
+# Debug: Print the extracted balance difference for the specific denomination
+echo "Extracted balance difference for $DENOM: $BALANCE_DIFF"
+
+# Ensure BALANCE_DIFF is a valid number
+if ! [[ $BALANCE_DIFF =~ ^-?[0-9]+(\.[0-9]+)?$ ]]; then
+    echo "Invalid balance difference: $BALANCE_DIFF"
+    exit 1
+fi
+
+# Adjust the calculation: Subtract if positive, add if negative
+if (( $(echo "$BALANCE_DIFF < 0" | bc -l) )); then
+    # If balance difference is negative, add it to the amount
+    AMOUNT_TO_SEND=$(echo "scale=2; 4932.84 + ($BALANCE_DIFF * -1)" | bc)
+else
+    # If balance difference is positive, subtract it from the amount
+    AMOUNT_TO_SEND=$(echo "scale=2; 4932.84 - $BALANCE_DIFF" | bc)
+fi
+
+# Ensure BALANCE_DIFF is a valid number
+if ! [[ $BALANCE_DIFF =~ ^-?[0-9]+(\.[0-9]+)?$ ]]; then
+    echo "Invalid balance difference: $BALANCE_DIFF"
+    exit 1
+fi
+
+# Adjust the calculation: Just add the negative balance difference to the base amount
+AMOUNT_TO_SEND=$(echo "scale=2; 4932.84 + $BALANCE_DIFF" | bc)
+
+# Ensure AMOUNT_TO_SEND is a valid number
+if ! [[ $AMOUNT_TO_SEND =~ ^-?[0-9]+(\.[0-9]+)?$ ]]; then
+    echo "Invalid amount to send: $AMOUNT_TO_SEND"
+    exit 1
+fi
+
+# Convert to micro units
 AMOUNT_TO_SEND_MICRO=$(echo "$AMOUNT_TO_SEND * 1000000 / 1" | bc)
 
-# Send the remaining amount to the dingleberry wallet
+# Debug: Print the amount to send in micro units
+echo "Amount of dingleberries this time 🫐: $AMOUNT_TO_SEND"
+echo ""
+echo "~Debug~"
+echo "Amount to send to dingleberry wallet in micro units: $AMOUNT_TO_SEND_MICRO"
+
+# Send the remaining balance to the dingleberry wallet
 DINGLEBERRY_WALLET_ADDRESS="osmo1gz7t9aaqwnmdhn5umm03rqqxd9spkjx3he4xkz"
 if (( $(echo "$AMOUNT_TO_SEND > 0" | bc -l) )); then
-    echo "Sending $AMOUNT_TO_SEND_MICRO microSHITMOS to the dingleberry wallet..."
-    osmosisd tx bank send $FROM_ADDRESS $DINGLEBERRY_WALLET_ADDRESS $AMOUNT_TO_SEND_MICRO$DENOM --chain-id $CHAIN_ID --keyring-backend file
+    echo "Sending $AMOUNT_TO_SEND_MICRO micro$FULL_DENOM to the dingleberry wallet..."
+    osmosisd tx bank send $FROM_ADDRESS $DINGLEBERRY_WALLET_ADDRESS $AMOUNT_TO_SEND_MICRO$FULL_DENOM --chain-id $CHAIN_ID --keyring-backend file --fees "$DINGLEBERRY_FEE_AMOUNT$DINGLEBERRY_FEE_DENOM"
 else
     echo "No remaining balance to send to the dingleberry wallet."
 fi

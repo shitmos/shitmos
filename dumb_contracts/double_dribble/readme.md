@@ -1,14 +1,29 @@
 # double dribble
 simple way to send shitmos from collection wallet to nft holders. these will be performed by the shitmos nft wallet:
 
-osmo1c7gsk4eaelpcplg0j5urpwnzqrp6wnyt9uexy6
-stars1c7gsk4eaelpcplg0j5urpwnzqrp6wnytematee
+osmo1c7gsk4eaelpcplg0j5urpwnzqrp6wnyt9uexy6 - this is the admin address
+stars1c7gsk4eaelpcplg0j5urpwnzqrp6wnytematee - not sure what this address does
 
 so as to not send shitmos from SEZ member collections to nft holders.
+
+# where is all the stuff
+
+you want to go to the `code` folder to run this
+in the `code` folder there is a file `double_dribble.sh` this is the main script
+to quick run, if configuration is set up correctly... run the following commands
+from the root directory
+
+```bash
+cd dumb_contracts/double_dribble/code
+./double_dribble.sh
+```
+
+
 
 # steps
 
 1. get list of holders (exclude listed nfts) and their quantities
+- this is done with 
 
 2. convert addresses to osmo addresses
 

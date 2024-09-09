@@ -7,6 +7,9 @@ import urllib.parse
 
 import config
 
+# collection_addr can be declared up here
+# shitmos would be stars1z2mxxjct3lmq6yndqx6e7sxuamc7t0k24y9jq3y907vmg2wwt4rs7klax9
+# shitzilla is stars1vpc22a2n4cglxwmndm4gf0ksqcwf39232kxwz0m67ntp4eda4ahsfdj9gm
 
 def load_json(filename):
     with open(filename, 'r') as fp:
