@@ -32,8 +32,8 @@ def truncate(value, decimals):
 def generate_transactions(holders_counted, unit_amount, common_denom, from_address):
     full_denom = next((key for key, value in config.TOKEN_NAME_MAPPING.items() if value == common_denom), common_denom)
     fee_denom = "uosmo"
-    fee_amount = "26768"
-    gas_limit = "8655946"
+    fee_amount = "45000"
+    gas_limit = "15000000"
     all_transactions = []
     messages = []
 
