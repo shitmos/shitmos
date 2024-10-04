@@ -5,16 +5,16 @@
 
 
 # Snapshot
-SNAPSHOTS_FOLDER = "../data/snapshots/"
+SNAPSHOTS_FOLDER = "../sez_dribbles/expedition/"
 INCLUDE_LISTED_NFT_FOR_DISTRIBUTE = False
 
 # Wallet Name
-KEY_NAME = "shitmos_nft"
-WALLET_NAME = "Shitmos NFT Wallet"
+KEY_NAME = "sez"
+WALLET_NAME = "Shitmos Economic Zone Wallet"
 
 # Denomination and amount configuration
 DENOM = "SHITMOS"
-UNIT_AMOUNT = 2.22
+UNIT_AMOUNT = 2
 
 # Define conversion rate (1 unit = 1,000,000 micro units)
 CONVERSION_RATE = 1_000_000

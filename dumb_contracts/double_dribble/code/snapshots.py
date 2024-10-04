@@ -10,7 +10,8 @@ import config
 # collection_addr can be declared up here
 # shitmos would be stars1z2mxxjct3lmq6yndqx6e7sxuamc7t0k24y9jq3y907vmg2wwt4rs7klax9
 # shitzilla is stars1vpc22a2n4cglxwmndm4gf0ksqcwf39232kxwz0m67ntp4eda4ahsfdj9gm
-
+# expedition is stars16srrs6zyl60n2avmp5hlkrc4k37q8spyzjtza7fhtpjchdjumxpq0rrnqm
+# conspiracy is stars1qgpva6efdxvra2skje4dar0hhzua2cw0khyfmmn0p2j83pad6x7qw276wx
 
 def load_json(filename):
     with open(filename, 'r') as fp:
@@ -39,7 +40,7 @@ def parse_request():
 
 def request_holders():
     url = "https://metabase.constellations.zone/api/public/card/4cf9550e-5eb7-4fe7-bd3b-dc33229f53dc/query/json"
-    collection_addr = "stars1z2mxxjct3lmq6yndqx6e7sxuamc7t0k24y9jq3y907vmg2wwt4rs7klax9"
+    collection_addr = "stars1qgpva6efdxvra2skje4dar0hhzua2cw0khyfmmn0p2j83pad6x7qw276wx"
 
     parameters = [{"type": "category",
                    "value": collection_addr,
