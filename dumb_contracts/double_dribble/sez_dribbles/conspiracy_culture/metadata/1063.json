@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #1063",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/1063.png",
+  "dna": "c7e5ccb1f10fcdcfd17637d8595b73c52dcf0945",
+  "edition": 1063,
+  "date": 1710660795220,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "The Island"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Thick"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade Green"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Flannel Robe Blue"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Abe_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil WIF"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

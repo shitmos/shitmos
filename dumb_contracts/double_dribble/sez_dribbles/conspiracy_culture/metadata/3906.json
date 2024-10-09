@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #3906",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/3906.png",
+  "dna": "e72f99319cc64e2879aef2935dabfc12840d2be7",
+  "edition": 3906,
+  "date": 1710669217696,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Flat Earth"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Hairy Teal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Ring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bun Orange"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Readers"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "T Fanny"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Abe_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Cone"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

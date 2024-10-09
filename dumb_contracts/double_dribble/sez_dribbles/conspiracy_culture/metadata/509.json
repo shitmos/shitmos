@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #509",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/509.png",
+  "dna": "67d6c339c1169df262e822c8308cd71b4f5c6636",
+  "edition": 509,
+  "date": 1710659157915,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Invasion Space"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Hairy Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Awake"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Boring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bun Purple"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "T Fanny"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Weird"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Captain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

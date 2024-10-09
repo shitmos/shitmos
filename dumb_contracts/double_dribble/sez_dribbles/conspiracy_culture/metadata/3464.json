@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #3464",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/3464.png",
+  "dna": "29ff2b4138a4ce961ec0e34d523957c8e3eab70e",
+  "edition": 3464,
+  "date": 1710667909375,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Invasion Space"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Stately"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Purple"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Aviators Readers"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "T Secret Code"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Flannel Robe Blue"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Bee Kind"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubble Gum"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Octo Green"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #2300",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/2300.png",
+  "dna": "bb8be676faab384e32916b5b7469deaa866402ce",
+  "edition": 2300,
+  "date": 1710664482596,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Prepper"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Hairy White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Button"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Swoop White"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "T Fanny"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Pac_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy Lips"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Octo Pink"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

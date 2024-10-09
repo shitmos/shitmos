@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #1799",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/1799.png",
+  "dna": "7dce1c729763e2bc76af882689ab6353c56f563b",
+  "edition": 1799,
+  "date": 1710662981837,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Flat Earth"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Button"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Swoop Black"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Hipster"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Tank Yellow"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Denim White"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Twin_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Keith"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Whale Teal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

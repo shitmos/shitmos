@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #872",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/872.png",
+  "dna": "132cca487aed99136f44c41d4f21e6ec8f9acda9",
+  "edition": 872,
+  "date": 1710660231606,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "The Pentagon"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Boring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Hogan"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Aviators USA"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Polo White"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Aahhhhhh"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil WIF"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

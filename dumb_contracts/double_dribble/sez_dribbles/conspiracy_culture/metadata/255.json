@@ -1,0 +1,55 @@
+{
+  "name": "Conspiracy Culture #255",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/255.png",
+  "dna": "d429a173c3d5e348dffd14bae73ab084c4fc6278",
+  "edition": 255,
+  "date": 1710658411193,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Flat Earth"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Hairy Teal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Boring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Afro Blue"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Sunnies Green"
+    },
+    {
+      "trait_type": "Suits",
+      "value": "Suit Diez y Siete"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Boa Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fake"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Cone"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

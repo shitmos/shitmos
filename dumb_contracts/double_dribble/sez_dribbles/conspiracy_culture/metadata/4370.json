@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #4370",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/4370.png",
+  "dna": "57dedd4cc42a44e60c8c4beaa2a0dd8bec7f1796",
+  "edition": 4370,
+  "date": 1710670587587,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White House"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Hairy Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fierce"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Stately"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Megan"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Aviators Readers"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "T CC"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earpiece"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Whale Blue"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

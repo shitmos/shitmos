@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #2365",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/2365.png",
+  "dna": "e31b487aed4b8859e4250a063c61f1ab351ae8ce",
+  "edition": 2365,
+  "date": 1710664675610,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Coin"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Awake"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Boring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Black"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "T Whale Love"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Abe_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Toque"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

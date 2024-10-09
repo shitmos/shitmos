@@ -1,0 +1,55 @@
+{
+  "name": "Conspiracy Culture #152",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/152.png",
+  "dna": "5e9973b8d85576827bb9c999d4c8d8edc147f653",
+  "edition": 152,
+  "date": 1710658116636,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Time Travel"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Thick"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Stately"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Hogan"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Suits",
+      "value": "Suit Ocho"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Abe_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy Lips"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Whale Teal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

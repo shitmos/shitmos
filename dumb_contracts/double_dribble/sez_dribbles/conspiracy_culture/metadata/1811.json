@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #1811",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/1811.png",
+  "dna": "3f5511653640d9e4e2d2cec6e77c4f3df2762365",
+  "edition": 1811,
+  "date": 1710663016827,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moon Landing"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Thick"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Afro Purple"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Sunnies Pink"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Bee Kind"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Pac_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Judgy"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #1528",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/1528.png",
+  "dna": "31bdf5c0066356940d5f05af965514415da131e7",
+  "edition": 1528,
+  "date": 1710662170674,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "The Island"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Hairy White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fierce"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bun Pink"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "MOG Pink"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Polo Yellow"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Hoodie Purple"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cig"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Whale Pink"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

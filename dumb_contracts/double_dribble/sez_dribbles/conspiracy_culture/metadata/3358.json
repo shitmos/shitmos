@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #3358",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/3358.png",
+  "dna": "05cf58997e1abfafaf950243e17b04b19600c11a",
+  "edition": 3358,
+  "date": 1710667596051,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Silver Coin"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Keith"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Purple"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "T Fanny"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Hoodie Blue"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Abe_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Miami Dao"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #1210",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/1210.png",
+  "dna": "71870f0d5309dc33b6cbbd2566689776b84bf9cb",
+  "edition": 1210,
+  "date": 1710661223974,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Awake"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bun Brown"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "MOG Orange"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "T CC"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Judgy"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Whale Blue"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

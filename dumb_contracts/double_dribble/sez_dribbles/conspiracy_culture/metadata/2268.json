@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #2268",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/2268.png",
+  "dna": "057ef2def077063feac6374b9510b9eb0b6c9557",
+  "edition": 2268,
+  "date": 1710664390618,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White House"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Keith"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Boring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bun Purple"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Sunnies"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Polo Yellow"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Denim Blue"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy Lips"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Whale Blue"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

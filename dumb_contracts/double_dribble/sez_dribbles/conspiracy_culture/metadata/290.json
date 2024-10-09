@@ -1,0 +1,55 @@
+{
+  "name": "Conspiracy Culture #290",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/290.png",
+  "dna": "c4f903fdec577c1ae765adb279efc051906218f1",
+  "edition": 290,
+  "date": 1710658513002,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Invasion Desert"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Thick"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Boring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Swoop White"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Readers"
+    },
+    {
+      "trait_type": "Suits",
+      "value": "Suit Dos"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earpiece"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy Lips"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

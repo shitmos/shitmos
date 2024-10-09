@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #2233",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/2233.png",
+  "dna": "615f45084cf9d3fe25f123baac0104dfd4cac6d9",
+  "edition": 2233,
+  "date": 1710664284991,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "The Pentagon"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Hairy Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Boring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Afro Yellow"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Sunnies Green"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Bee Kind"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Weird"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil WIF"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

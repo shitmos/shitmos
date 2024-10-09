@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #4086",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/4086.png",
+  "dna": "c6297e94ecacf812725410e5737392621c001b5d",
+  "edition": 4086,
+  "date": 1710669751753,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Time Travel"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Hairy Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Boring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Purple"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Sunnies Green"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "T CC"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Hoodie Purple"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Abe_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Keith"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Toque"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

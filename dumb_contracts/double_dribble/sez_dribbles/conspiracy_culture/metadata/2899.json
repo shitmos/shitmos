@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #2899",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/2899.png",
+  "dna": "59f99454b5d007b06241fa992123dcf5fa61050c",
+  "edition": 2899,
+  "date": 1710666246363,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Prepper"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Hairy Teal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Stately"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade Blue"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Aviators Readers"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "T Secret Code"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Abe_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Weird"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Whale Pink"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

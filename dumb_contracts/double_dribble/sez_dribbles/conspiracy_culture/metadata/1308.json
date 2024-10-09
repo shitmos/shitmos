@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #1308",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/1308.png",
+  "dna": "8655818282872e23f6bbfe3ef757842edc914ddc",
+  "edition": 1308,
+  "date": 1710661511400,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Coin"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Hairy White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Awake"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Ring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade Green"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Sunnies"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Polo Yellow"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Cableknit Cardigan Pink"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy Lips"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Octo Pink"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

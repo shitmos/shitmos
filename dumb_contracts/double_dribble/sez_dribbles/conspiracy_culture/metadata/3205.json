@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #3205",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/3205.png",
+  "dna": "b871b3eec3e4715508c5c3426f77a6d9d3d99357",
+  "edition": 3205,
+  "date": 1710667143982,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Headquarters"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Hairy Teal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Ring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bun Pink"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "MOG"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Bee Kind"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Abe_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Keith"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Whale Blue"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

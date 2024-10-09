@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #3222",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/3222.png",
+  "dna": "34b519be48a6de82ddaf59b07356ec64bf9901ff",
+  "edition": 3222,
+  "date": 1710667194728,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hushmore"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fierce"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Boring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Black"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "MOG Pink"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "T Pink"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Cowlneck Sweater  White"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Twin_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Cone"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

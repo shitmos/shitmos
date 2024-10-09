@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #1564",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/1564.png",
+  "dna": "0c0b006cbd233f42c4bd5f05c8348bedecddda06",
+  "edition": 1564,
+  "date": 1710662278968,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Hairy Teal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Boring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Swoop White"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Sunnies"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Tank Teal"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Bee Kind"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy Lips"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Whale Teal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

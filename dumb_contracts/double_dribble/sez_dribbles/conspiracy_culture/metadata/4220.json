@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #4220",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/4220.png",
+  "dna": "3a3985b3e99d0e2852d9f4c357cd02f896cde400",
+  "edition": 4220,
+  "date": 1710670146948,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White House"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Thin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Button"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Afro Purple"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "T CC"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Keith"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Octo Blue"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

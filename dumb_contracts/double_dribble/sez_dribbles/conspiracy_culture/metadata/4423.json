@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #4423",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/4423.png",
+  "dna": "216d04f229f1da0611774083c9c2f55977c25415",
+  "edition": 4423,
+  "date": 1710670744065,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Time Travel"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Thin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Ring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Afro Purple"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Potter"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "T Secret Code"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Hoodie Green"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Pac_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Weird"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Cone"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

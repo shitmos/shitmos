@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #3164",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/3164.png",
+  "dna": "5c4bbadade7e07a5bd2d0c964e9212fcb871fa48",
+  "edition": 3164,
+  "date": 1710667024779,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White House"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Hairy Teal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bun Brown"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Readers"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Tank Purple"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Twin_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Judgy"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #637",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/637.png",
+  "dna": "00c46e60c2ae3a7c65a109ce45f0696364b55c9c",
+  "edition": 637,
+  "date": 1710659537724,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Meeting"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fierce"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Stately"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Afro Blue"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "MOG"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Tank Purple"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Cableknit Cardigan Pink"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earpiece"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy Lips"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Whale Blue"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

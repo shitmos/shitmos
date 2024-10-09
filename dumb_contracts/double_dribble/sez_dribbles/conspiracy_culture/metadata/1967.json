@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #1967",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/1967.png",
+  "dna": "9750b5aa9a89ac06442ffd4450701181cb58d044",
+  "edition": 1967,
+  "date": 1710663492164,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Invasion Desert"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Hairy Teal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Boring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Swoop Black"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Readers"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Polo Flarn"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earpiece"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Captain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

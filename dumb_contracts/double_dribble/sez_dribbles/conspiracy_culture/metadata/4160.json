@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #4160",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/4160.png",
+  "dna": "ea31f7ff610a67319da3123479965aaa4316784e",
+  "edition": 4160,
+  "date": 1710669967741,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Prepper"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Hairy Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fierce"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Tight"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Sunnies"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Puffer White"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Bee Kind"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Keith"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Witch"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

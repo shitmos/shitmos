@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #2914",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/2914.png",
+  "dna": "81c0281e801f8752efc4ac61e505afe3599b4143",
+  "edition": 2914,
+  "date": 1710666289883,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hushmore"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Bushy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Awake"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bun Purple"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Sunnies Blue"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "None"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Bee Kind"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubble Gum"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Whale Pink"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

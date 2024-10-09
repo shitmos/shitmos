@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #428",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/428.png",
+  "dna": "c61ec56f8c72a7069f83179f9fca9069ba05bd59",
+  "edition": 428,
+  "date": 1710658919793,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Headquarters"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Bushy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Keith"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Ring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Afro Blue"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Aviators USA"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Polo Flarn"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Keith"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Classic"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

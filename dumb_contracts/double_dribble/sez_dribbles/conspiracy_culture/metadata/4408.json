@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #4408",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/4408.png",
+  "dna": "e5fc61f2bc1a13eb228ab913aefeb19a2224fb02",
+  "edition": 4408,
+  "date": 1710670700822,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moon Landing"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Thin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Boring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fire Mullet"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Sunnies Brown"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Polo White"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Cowlneck Sweater  White"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Abe_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Bandana"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

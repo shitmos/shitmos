@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #578",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/578.png",
+  "dna": "9f610e7a140510984ed8540d8b42e3a83d06a707",
+  "edition": 578,
+  "date": 1710659362410,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Prepper"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Thin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Button"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade Green"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Sunnies Pink"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "T Fanny"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Hoodie Blue"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Pac_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Witch"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

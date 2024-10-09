@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #3500",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/3500.png",
+  "dna": "f9570076a4901636d57a0aa52f875b4dd2b7bac3",
+  "edition": 3500,
+  "date": 1710668019103,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Time Travel"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Hairy Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Keith"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Boring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Swoop White"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Sunnies"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Tank Purple"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Twin_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Weird"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Phones"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #4372",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/4372.png",
+  "dna": "ccedab9eaa36f0dce138548292fc71de9d04b5ef",
+  "edition": 4372,
+  "date": 1710670594148,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Time Travel"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Swoop Black"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Sunnies Pink"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Tank Purple"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Hoodie Blue"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earpiece"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Weird"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Witch"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

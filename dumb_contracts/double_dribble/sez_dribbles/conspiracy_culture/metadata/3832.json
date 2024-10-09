@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #3832",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/3832.png",
+  "dna": "e890a996e9a5ff448617e5bdfe3256aebb1fdbf3",
+  "edition": 3832,
+  "date": 1710668996225,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "The Pentagon"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Thin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bun Orange"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "MOG"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "T Secret Code"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Cableknit Cardigan Yellow"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Pac_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Friendly"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Classic"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #4064",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/4064.png",
+  "dna": "5e9a01678d3d9df52c7ce374115a81a66ee3a8f6",
+  "edition": 4064,
+  "date": 1710669687106,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Invasion Space"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Bushy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Keith"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Ring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Blonde"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Sunnies Pink"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Polo White"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earpiece"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Aahhhhhh"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Witch"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

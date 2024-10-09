@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #680",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/680.png",
+  "dna": "1847dcd776322e22a4c618ff15b3f225fffdff01",
+  "edition": 680,
+  "date": 1710659664009,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moon Landing"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Hairy Teal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fierce"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade Green"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Sunnies Blue"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Polo Flarn"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Blazer Yellow"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Pac_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy Lips"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Halo"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

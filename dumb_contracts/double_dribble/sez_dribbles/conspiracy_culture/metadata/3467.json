@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #3467",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/3467.png",
+  "dna": "908d28d4d1a420ac9245faf7cd5cddec4e74c159",
+  "edition": 3467,
+  "date": 1710667918432,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Coin"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Fallen Angel"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Hairy Teal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade Blue"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "MOG Orange"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Tank Teal"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Pac_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy Lips"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Phones"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

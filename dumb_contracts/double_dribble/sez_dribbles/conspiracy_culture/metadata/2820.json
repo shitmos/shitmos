@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #2820",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/2820.png",
+  "dna": "c12aacd9f5144ceaa8c7de7d50124669ace21397",
+  "edition": 2820,
+  "date": 1710666010686,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "The Pyramids"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Thin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fade Blue"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Tank Teal"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Blazer Gold"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earpiece"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tin Toof"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

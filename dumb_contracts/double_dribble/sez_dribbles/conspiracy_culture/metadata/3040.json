@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #3040",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/3040.png",
+  "dna": "a3cc78765489c651020685b7e91a1c7809aab1c0",
+  "edition": 3040,
+  "date": 1710666664464,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "The Island"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Hairy White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Awake"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Stately"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bun Brown"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Sunnies Brown"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Tank Purple"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Cableknit Cardigan Pink"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Pac_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fake"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #1841",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/1841.png",
+  "dna": "64403366c63543fdee92bdb800bb2f3323ae928c",
+  "edition": 1841,
+  "date": 1710663110377,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Meeting"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Thin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Swoop Black"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "MOG Pink"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "T CC"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Pac_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubble Gum"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Octo Blue"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

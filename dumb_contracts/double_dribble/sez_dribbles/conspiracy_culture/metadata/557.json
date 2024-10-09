@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #557",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/557.png",
+  "dna": "764515225b32d6185ee75c55a67d41e149d07c86",
+  "edition": 557,
+  "date": 1710659299355,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Meeting"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Bushy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Button"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Swoop Black"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "MOG Pink"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Bee Kind"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Denim Blue"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Keith"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Classic"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

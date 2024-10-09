@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #3914",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/3914.png",
+  "dna": "ecc7235037b0ffcb309a62b7b10bb0fc982f7b51",
+  "edition": 3914,
+  "date": 1710669241579,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Coin"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Bushy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Button"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Tight"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Readers"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Tank Pink"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Flannel Robe Blue"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earpiece"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Keith"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Classic"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Conspiracy Culture #37",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/37.png",
+  "dna": "90642ec7eba52f91ad45d8c93432fb4ea1f2fba3",
+  "edition": 37,
+  "date": 1710657788472,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Invasion Space"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Purple"
+    },
+    {
+      "trait_type": "Suits",
+      "value": "Suit Uno"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Abe_vasion"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Gas Black"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Whale Teal"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

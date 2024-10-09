@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #694",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/694.png",
+  "dna": "9f5f4441e30b74b174ce1bb78bbbe0886a14d01c",
+  "edition": 694,
+  "date": 1710659706844,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Headquarters"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Thick"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fierce"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Swoop Brown"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "MOG Teal"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "T Whale Love"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Blazer Pink"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earpiece"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Weird"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Octo Blue"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

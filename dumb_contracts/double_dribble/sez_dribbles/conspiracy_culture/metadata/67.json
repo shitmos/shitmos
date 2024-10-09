@@ -1,0 +1,43 @@
+{
+  "name": "Conspiracy Culture #67",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/67.png",
+  "dna": "3658b47dfb647b47257447e791c4274033b277da",
+  "edition": 67,
+  "date": 1710657872540,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "The Pyramids"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Purple"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bun Purple"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "T Fanny"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Abe_vasion"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Gas Pink"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Classic"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

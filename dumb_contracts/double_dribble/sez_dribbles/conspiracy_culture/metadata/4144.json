@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #4144",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/4144.png",
+  "dna": "d2e5765eff55509a18b293040fabf5d0c4a71741",
+  "edition": 4144,
+  "date": 1710669919424,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "The Pentagon"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Button"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Afro Blue"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "MOG Pink"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Polo White"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Twin_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubble Gum"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Captain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

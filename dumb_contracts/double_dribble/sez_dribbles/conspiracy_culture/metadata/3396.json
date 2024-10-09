@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #3396",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/3396.png",
+  "dna": "51d577d1a22e59093c90b916022df1117c731f43",
+  "edition": 3396,
+  "date": 1710667708723,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "The Island"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Fallen Angel"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Swoop Brown"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Sunnies Green"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Polo Yellow"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Aahhhhhh"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Colombia"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

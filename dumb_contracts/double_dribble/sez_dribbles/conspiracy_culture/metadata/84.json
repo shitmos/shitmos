@@ -1,0 +1,43 @@
+{
+  "name": "Conspiracy Culture #84",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/84.png",
+  "dna": "fa49fed0ab66dda180549dfd3133b73e0fa4aeb1",
+  "edition": 84,
+  "date": 1710657921939,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Time Travel"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Fallen Angel"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Afro Yellow"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Tank Pink"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Blazer Gold"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earpiece"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Anonymous"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Octo Pink"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

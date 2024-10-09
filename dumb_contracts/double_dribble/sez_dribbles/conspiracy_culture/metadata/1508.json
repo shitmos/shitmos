@@ -1,0 +1,63 @@
+{
+  "name": "Conspiracy Culture #1508",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/1508.png",
+  "dna": "14e57b82731477589281a2d810235e4bc4e48794",
+  "edition": 1508,
+  "date": 1710662107916,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Keith"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Ring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Blonde"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "MOG Teal"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Tank Yellow"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Hoodie Blue"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Pac_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Aahhhhhh"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Octo Blue"
+    },
+    {
+      "trait_type": "Secret Phrase",
+      "value": "brother"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

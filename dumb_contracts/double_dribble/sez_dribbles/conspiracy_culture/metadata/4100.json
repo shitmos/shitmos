@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #4100",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/4100.png",
+  "dna": "9f8d79ddec5a3b6c1887e59677724b2141eb62b4",
+  "edition": 4100,
+  "date": 1710669792997,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Prepper"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Keith"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bun Brown"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "MOG"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "T Yawp"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Overcoat Purple"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tin Toof"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Octo Green"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

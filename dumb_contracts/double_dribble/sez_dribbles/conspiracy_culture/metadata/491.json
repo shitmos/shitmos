@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #491",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/491.png",
+  "dna": "a68e1533e592437429f1f8fea84e68fd8b15d7ab",
+  "edition": 491,
+  "date": 1710659104822,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moon Landing"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Pink"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Hairy Teal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Stately"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Afro Yellow"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "T Pink"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tin Toof"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Captain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

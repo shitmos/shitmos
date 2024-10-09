@@ -1,0 +1,39 @@
+{
+  "name": "Conspiracy Culture #15",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/15.png",
+  "dna": "6004f82a3bac15951934ff5c685f1dcbdb857984",
+  "edition": 15,
+  "date": 1710657724568,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "The Pyramids"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bun Brown"
+    },
+    {
+      "trait_type": "Suits",
+      "value": "Suit Cinco"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Twin_vasion"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Gas Pink"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Toque"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

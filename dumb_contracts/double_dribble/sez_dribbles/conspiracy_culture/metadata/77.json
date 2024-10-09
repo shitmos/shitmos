@@ -1,0 +1,43 @@
+{
+  "name": "Conspiracy Culture #77",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/77.png",
+  "dna": "ad530fb31e1579b28df91fa4d93ad624b7ff7e7d",
+  "edition": 77,
+  "date": 1710657900734,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hushmore"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bun Pink"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Tank Pink"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Blazer Green"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Mr Potato"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Bandana"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Conspiracy Culture #7",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/7.png",
+  "dna": "72f1508771b4120d5fddbeb109d85f96a15f6d63",
+  "edition": 7,
+  "date": 1710657706330,
+  "attributes": [
+    {
+      "trait_type": "1 of 1",
+      "value": "Abe Lincoln"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

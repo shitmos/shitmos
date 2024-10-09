@@ -1,0 +1,39 @@
+{
+  "name": "Conspiracy Culture #46",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/46.png",
+  "dna": "97752a7cdbd45b04fac615ee36ba4143d5aa93c6",
+  "edition": 46,
+  "date": 1710657814186,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moon Landing"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Megan"
+    },
+    {
+      "trait_type": "Suits",
+      "value": "Suit Trece"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Gas Black"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Witch"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

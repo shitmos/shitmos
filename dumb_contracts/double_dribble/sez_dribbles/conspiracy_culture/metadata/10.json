@@ -1,0 +1,15 @@
+{
+  "name": "Conspiracy Culture #10",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/10.png",
+  "dna": "2e81cd0b3443d0c7282569e94e31093d66603323",
+  "edition": 10,
+  "date": 1710657710837,
+  "attributes": [
+    {
+      "trait_type": "1 of 1",
+      "value": "All Seeing Eye Yang"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

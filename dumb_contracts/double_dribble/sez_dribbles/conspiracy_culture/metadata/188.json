@@ -1,0 +1,55 @@
+{
+  "name": "Conspiracy Culture #188",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/188.png",
+  "dna": "0fc1e17491af0335063484d9ed5d7156a9fe44a2",
+  "edition": 188,
+  "date": 1710658220714,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Thin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Button"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Swoop White"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Hipster"
+    },
+    {
+      "trait_type": "Suits",
+      "value": "Suit Once"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Invasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Keith"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Toque"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

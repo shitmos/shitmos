@@ -1,0 +1,59 @@
+{
+  "name": "Conspiracy Culture #129",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/129.png",
+  "dna": "49cf1dec4050cb0c6e47f9c994d10601d33c9c8b",
+  "edition": 129,
+  "date": 1710658049867,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Thin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Keith"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Boring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bun Purple"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Foil Blindfold"
+    },
+    {
+      "trait_type": "Suits",
+      "value": "Suit Quince"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Pac_vasion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Colombia"
+    },
+    {
+      "trait_type": "Secret Phrase",
+      "value": "real."
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

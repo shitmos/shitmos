@@ -1,0 +1,15 @@
+{
+  "name": "Conspiracy Culture #1",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/1.png",
+  "dna": "766d164c1b4a84e9ed4cc96b86bd5a95080ac389",
+  "edition": 1,
+  "date": 1710657694378,
+  "attributes": [
+    {
+      "trait_type": "1 of 1",
+      "value": "Covid"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

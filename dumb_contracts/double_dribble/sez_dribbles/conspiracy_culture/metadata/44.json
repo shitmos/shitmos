@@ -1,0 +1,39 @@
+{
+  "name": "Conspiracy Culture #44",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/44.png",
+  "dna": "79ea41c9cabb8fd691f93a3cb3ea6cc33ee20f43",
+  "edition": 44,
+  "date": 1710657808732,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrix Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bun Purple"
+    },
+    {
+      "trait_type": "Suits",
+      "value": "Suit Seis"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Mr Potato"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Wizard"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "owner_addr": "stars1yklmnxzg5ht8kys5vmusk4j4yvx5k7esvyk393",
+        "token_id": "786",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1c7l3lvqp53fdg4ux8yvemsf540s044ne29gwk4",
+        "token_id": "1744",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1c8gphznsyfu52xqrvxkpw20krplp8gs0jv92f7",
+        "token_id": "2732",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    }
+]

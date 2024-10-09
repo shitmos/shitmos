@@ -1,0 +1,15 @@
+{
+  "name": "Conspiracy Culture #5",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/5.png",
+  "dna": "dbdb010f38df33ccceea6359b125a78ac0c76c95",
+  "edition": 5,
+  "date": 1710657702801,
+  "attributes": [
+    {
+      "trait_type": "1 of 1",
+      "value": "Tupac"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

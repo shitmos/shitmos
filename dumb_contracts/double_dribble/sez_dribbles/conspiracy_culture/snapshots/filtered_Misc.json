@@ -1,0 +1,802 @@
+[
+    {
+        "owner_addr": "stars1mdsgxavm5nhee2mmxkvlxe687xul776pvg30rt",
+        "token_id": "20",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1ssgz49n7a6uc0xvxwmx59t60mgktnk23musf5v",
+        "token_id": "45",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1nprfmp9yqlmej34vhlqcw2xdk6gtzddadjnhtz",
+        "token_id": "50",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1p9k8p9zaegef6c50fqs8h2ya2eslcd0qxsq2n6",
+        "token_id": "98",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1yvjzddtyg5jt2vruea0wgyqae9dwqy3d20p0fw",
+        "token_id": "120",
+        "is_listed": true,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1hasrs4nadnucnw7rr9tx90ztm6m9mtsp627h9k",
+        "token_id": "160",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1esht4tx9ep8lq3m3jh48e5fw6wf2gve6ypslnx",
+        "token_id": "195",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars167x86wtm089su58a0sjg4cg4sumhqyktyqu7hh",
+        "token_id": "205",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": true,
+        "dao_address": "stars10q3va0lp8npdxf2qwutv8umrxp6h50857neyhk7xvpjqkhucqnsq75yfrt"
+    },
+    {
+        "owner_addr": "stars14eaylprxd5gz6dgxymc3uhnvass029es63pclk",
+        "token_id": "260",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": true,
+        "dao_address": "stars10q3va0lp8npdxf2qwutv8umrxp6h50857neyhk7xvpjqkhucqnsq75yfrt"
+    },
+    {
+        "owner_addr": "stars12kct4cfuwh7vevec7c4y9slmee949qrjp5ds2x",
+        "token_id": "270",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": true,
+        "dao_address": "stars10q3va0lp8npdxf2qwutv8umrxp6h50857neyhk7xvpjqkhucqnsq75yfrt"
+    },
+    {
+        "owner_addr": "stars14trvm9aqra67uykhquxrykffr8zrnmq53sknc4",
+        "token_id": "271",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1qszltlwumsrxsntzl2gfdakzmncw5edkexz8vh",
+        "token_id": "286",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": true,
+        "dao_address": "stars10q3va0lp8npdxf2qwutv8umrxp6h50857neyhk7xvpjqkhucqnsq75yfrt"
+    },
+    {
+        "owner_addr": "stars167x86wtm089su58a0sjg4cg4sumhqyktyqu7hh",
+        "token_id": "377",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": true,
+        "dao_address": "stars10q3va0lp8npdxf2qwutv8umrxp6h50857neyhk7xvpjqkhucqnsq75yfrt"
+    },
+    {
+        "owner_addr": "stars1v72k4jfn2kd098gkgle4e36cetelcya7gv0l3z",
+        "token_id": "565",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": true,
+        "dao_address": "stars10q3va0lp8npdxf2qwutv8umrxp6h50857neyhk7xvpjqkhucqnsq75yfrt"
+    },
+    {
+        "owner_addr": "stars1d74f6c7rgyyym57530rc2tt88fnl6wpdcpz6ta",
+        "token_id": "632",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars12kct4cfuwh7vevec7c4y9slmee949qrjp5ds2x",
+        "token_id": "712",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": true,
+        "dao_address": "stars10q3va0lp8npdxf2qwutv8umrxp6h50857neyhk7xvpjqkhucqnsq75yfrt"
+    },
+    {
+        "owner_addr": "stars13h59ek02vmpra6zlcp47068pgxujaxje6zsvep",
+        "token_id": "785",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1yklmnxzg5ht8kys5vmusk4j4yvx5k7esvyk393",
+        "token_id": "786",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1eln5xqzf7wf5x3h88jmsh9f378mq7matzqemrw",
+        "token_id": "813",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": true,
+        "dao_address": "stars10q3va0lp8npdxf2qwutv8umrxp6h50857neyhk7xvpjqkhucqnsq75yfrt"
+    },
+    {
+        "owner_addr": "stars1ahr7sma3kvzfhu8yzeldl2fes4dgp3hu2k8xy3",
+        "token_id": "814",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1v72k4jfn2kd098gkgle4e36cetelcya7gv0l3z",
+        "token_id": "864",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": true,
+        "dao_address": "stars10q3va0lp8npdxf2qwutv8umrxp6h50857neyhk7xvpjqkhucqnsq75yfrt"
+    },
+    {
+        "owner_addr": "stars1p9k8p9zaegef6c50fqs8h2ya2eslcd0qxsq2n6",
+        "token_id": "901",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars16g7uujzcuycve5fn9zfvltwas3tq443hekj32q",
+        "token_id": "970",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1qsp85ghzfq5af43veaa6vm8xglun0fx5t9ek9p",
+        "token_id": "1005",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars14jayw662dsn2u050lmhpysqu64dz02cvv65nc2",
+        "token_id": "1157",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars14jayw662dsn2u050lmhpysqu64dz02cvv65nc2",
+        "token_id": "1171",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1x3vpkxxwvw7un639yzeaftjlxl0n6qvjwss3xz",
+        "token_id": "1192",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars13z9gcru6grgmql8ly8j2v6qxghj856m6sy5nuk",
+        "token_id": "1208",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1z28n9utzj7qtj3p8aqafl6uqjxakx2fj9x7jw0",
+        "token_id": "1241",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1uehhju07geftd24dj7uwfr8ekjz0mg6d07tjpn",
+        "token_id": "1354",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1n45552m28f6ep54shzh45txtkff25flahswlpv",
+        "token_id": "1372",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1fnp5wdq4l9ed287698xcykwlj0g0dmcuwqlmuf",
+        "token_id": "1414",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1c3368797lh4vd2zws8fhgesg4jtgr3gzg3uedk",
+        "token_id": "1465",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1zqv58alxz2cyvdqdq2nz393kjy56edu36v8n0g",
+        "token_id": "1488",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1mge6lnd88kvrm0t4088c72q5ue33qhsy7nu2yw",
+        "token_id": "1493",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars17kqu88e5dyh0n400a9f0umqdfq9ts0y6r9lpz9",
+        "token_id": "1522",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1wa3599xvdjjrhytu5yp8jxnq8m7h9jdpqndy5g",
+        "token_id": "1555",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1xwzjnzrdt59zc8r69mkzmdeyzhrwy3p9gzfw96",
+        "token_id": "1564",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1fmkgregq3tsznnjyhj7wwlcnssrlk2zk4neket",
+        "token_id": "1582",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": true,
+        "dao_address": "stars10q3va0lp8npdxf2qwutv8umrxp6h50857neyhk7xvpjqkhucqnsq75yfrt"
+    },
+    {
+        "owner_addr": "stars10zye94zk083n84azn70q6m9zw6spls2gxmgj9z",
+        "token_id": "1618",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1el452vu9h5gwz74ymrsst6zwv95cynnw7fxg2y3t5v8wz7et7f9qpk2pzy",
+        "token_id": "1675",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": true,
+        "dao_address": "stars10q3va0lp8npdxf2qwutv8umrxp6h50857neyhk7xvpjqkhucqnsq75yfrt"
+    },
+    {
+        "owner_addr": "stars1c7l3lvqp53fdg4ux8yvemsf540s044ne29gwk4",
+        "token_id": "1744",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1qm9gkn8xrs87z57z4reevevjy4qztkdt0twfj3",
+        "token_id": "1745",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": true,
+        "dao_address": "stars10q3va0lp8npdxf2qwutv8umrxp6h50857neyhk7xvpjqkhucqnsq75yfrt"
+    },
+    {
+        "owner_addr": "stars17qf82c3xhuf2gxwam7fp48x657fcyt9arzvyf6",
+        "token_id": "1819",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": true,
+        "dao_address": "stars10q3va0lp8npdxf2qwutv8umrxp6h50857neyhk7xvpjqkhucqnsq75yfrt"
+    },
+    {
+        "owner_addr": "stars14rstz7gchagv6hrgxvsfyvlx5jvytth2vp5vwa",
+        "token_id": "2044",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1p9k8p9zaegef6c50fqs8h2ya2eslcd0qxsq2n6",
+        "token_id": "2087",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars12y770gz4m9x4qtgkq6t8twrn42cgnwxmmhatdn",
+        "token_id": "2094",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1k53jk7cyqk8rcwfd7a5x3t4jwnds62glsfmvsn",
+        "token_id": "2095",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1qm9gkn8xrs87z57z4reevevjy4qztkdt0twfj3",
+        "token_id": "2155",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1qwjzpda94a5ewa5r5ky6p8reffzu5dmud6eys8",
+        "token_id": "2157",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars14clzmgc98w02k3z5h5ukpvrsw3k3ryjl22vsd6",
+        "token_id": "2224",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1at8axsjnjq2kdvapg9sf87zjde8rt9va09vrw8",
+        "token_id": "2229",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1wtcp7m7589vdmsse30rsrlt357dwy0qygc79uf",
+        "token_id": "2269",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1haql8s8dnn02nz5xjrwmamhskquz3aheqsjafq",
+        "token_id": "2292",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars14eaylprxd5gz6dgxymc3uhnvass029es63pclk",
+        "token_id": "2346",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": true,
+        "dao_address": "stars10q3va0lp8npdxf2qwutv8umrxp6h50857neyhk7xvpjqkhucqnsq75yfrt"
+    },
+    {
+        "owner_addr": "stars14eaylprxd5gz6dgxymc3uhnvass029es63pclk",
+        "token_id": "2380",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": true,
+        "dao_address": "stars10q3va0lp8npdxf2qwutv8umrxp6h50857neyhk7xvpjqkhucqnsq75yfrt"
+    },
+    {
+        "owner_addr": "stars1ezx3jmeghscfcufe077r8kr4flr46sqt0hk99g",
+        "token_id": "2387",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1qszltlwumsrxsntzl2gfdakzmncw5edkexz8vh",
+        "token_id": "2425",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": true,
+        "dao_address": "stars10q3va0lp8npdxf2qwutv8umrxp6h50857neyhk7xvpjqkhucqnsq75yfrt"
+    },
+    {
+        "owner_addr": "stars1z5x7q5v4v7a2pec2ml26w69v5suw970uvudm6y",
+        "token_id": "2482",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1p5zwvqdqn73zp3z0sz8q8yeetae7gqwp3fu2ul",
+        "token_id": "2631",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1shj3lsn5hgq3qjpspur2rwrhuhlv7qf47hk2sg",
+        "token_id": "2708",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1c8gphznsyfu52xqrvxkpw20krplp8gs0jv92f7",
+        "token_id": "2732",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1zxk9h3434pgwc69k6mvmawmkhc97zrucnzl7re",
+        "token_id": "2742",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1x6lku838dmerjaslypgm2ykfs66ec7da72pxgk",
+        "token_id": "2826",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars19l954shqkvq8uw4cvu2gqtu3duxdjktv95r8xa",
+        "token_id": "2853",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars12kct4cfuwh7vevec7c4y9slmee949qrjp5ds2x",
+        "token_id": "2874",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": true,
+        "dao_address": "stars10q3va0lp8npdxf2qwutv8umrxp6h50857neyhk7xvpjqkhucqnsq75yfrt"
+    },
+    {
+        "owner_addr": "stars1sfc34ujkys84eeqmegm7lle955y3edyt5gf4x3",
+        "token_id": "2885",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars138pl8udw69f9x5xrhyt4atk83u2nyggugejrah",
+        "token_id": "2904",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1qwjzpda94a5ewa5r5ky6p8reffzu5dmud6eys8",
+        "token_id": "2931",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1243yhe2plcqqkhwkl8dwv53nzvxrdye2qe6y3t",
+        "token_id": "2939",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1ux2cshgv2g8a0lu9c4gepcgmqx025yuyy0hx03",
+        "token_id": "3011",
+        "is_listed": true,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1nevrswxvenflzlqymn54n3nxvc4ug23qec6wvz",
+        "token_id": "3050",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1c8gphznsyfu52xqrvxkpw20krplp8gs0jv92f7",
+        "token_id": "3059",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars16g7uujzcuycve5fn9zfvltwas3tq443hekj32q",
+        "token_id": "3147",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1ru2gl4t9tku9gq6ng353qpcc6qhraec9r72ecl",
+        "token_id": "3150",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1t83h6eg69qz67fchtt9w9tkpcju27w6p502m2e",
+        "token_id": "3201",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars108qgn3w3rfp76ss20u3rmcky4m52pgarp7c475",
+        "token_id": "3231",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1vuq9jaytesqkwm69h3mlnjdwr9atmjxpyvdgj9",
+        "token_id": "3253",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1yfgvyv3jxact4l6vkdfs0kdtsfvkd0ch8rd5tl",
+        "token_id": "3265",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": true,
+        "dao_address": "stars10q3va0lp8npdxf2qwutv8umrxp6h50857neyhk7xvpjqkhucqnsq75yfrt"
+    },
+    {
+        "owner_addr": "stars1442jxc2sdh0rpw20lt0w2gep50kypjy3culxc2",
+        "token_id": "3464",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1hasrs4nadnucnw7rr9tx90ztm6m9mtsp627h9k",
+        "token_id": "3520",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1qm9gkn8xrs87z57z4reevevjy4qztkdt0twfj3",
+        "token_id": "3749",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": true,
+        "dao_address": "stars10q3va0lp8npdxf2qwutv8umrxp6h50857neyhk7xvpjqkhucqnsq75yfrt"
+    },
+    {
+        "owner_addr": "stars1p9k8p9zaegef6c50fqs8h2ya2eslcd0qxsq2n6",
+        "token_id": "3810",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1yvvmkmyypxhsmyzmfc5xq8kflrjc604e5w790a",
+        "token_id": "3819",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1xp0qs6pkay2jssu58p8eap0epdhwx5mqrs5c3a",
+        "token_id": "3925",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1n45552m28f6ep54shzh45txtkff25flahswlpv",
+        "token_id": "3955",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars14jayw662dsn2u050lmhpysqu64dz02cvv65nc2",
+        "token_id": "3989",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars14eaylprxd5gz6dgxymc3uhnvass029es63pclk",
+        "token_id": "4047",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": true,
+        "dao_address": "stars10q3va0lp8npdxf2qwutv8umrxp6h50857neyhk7xvpjqkhucqnsq75yfrt"
+    },
+    {
+        "owner_addr": "stars1esht4tx9ep8lq3m3jh48e5fw6wf2gve6ypslnx",
+        "token_id": "4053",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1ap6adasc8tlumd9a2kwvaprf0x6wf4s6sj5f6a",
+        "token_id": "4077",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": true,
+        "dao_address": "stars10q3va0lp8npdxf2qwutv8umrxp6h50857neyhk7xvpjqkhucqnsq75yfrt"
+    },
+    {
+        "owner_addr": "stars1yks4wql7ukkn8tkx7cxh037d5c4a04lmtfmu45",
+        "token_id": "4101",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1cvg5dsprer8c7xl0cl966qq0emnjthtwwh4994",
+        "token_id": "4129",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1653zl4eawdjuuegr60czxxz2z47fe7haeld3y3",
+        "token_id": "4185",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1c8gphznsyfu52xqrvxkpw20krplp8gs0jv92f7",
+        "token_id": "4260",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1xp0qs6pkay2jssu58p8eap0epdhwx5mqrs5c3a",
+        "token_id": "4318",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars18k5yh8nk2tkxygckx25qlw68uw7wush5sk3447",
+        "token_id": "4352",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1shj3lsn5hgq3qjpspur2rwrhuhlv7qf47hk2sg",
+        "token_id": "4386",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1esht4tx9ep8lq3m3jh48e5fw6wf2gve6ypslnx",
+        "token_id": "4395",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1qw86a0arjxqkjmwgcguh5dgnsfuldcm3fkmr77",
+        "token_id": "4403",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1l72ayh6xpge306s6jwr6l5dflrj35kfkq3ddys",
+        "token_id": "4460",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    }
+]

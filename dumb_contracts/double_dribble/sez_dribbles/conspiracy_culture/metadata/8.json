@@ -1,0 +1,15 @@
+{
+  "name": "Conspiracy Culture #8",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/8.png",
+  "dna": "ad68e773e33a01d2f1c580fdc99197ddf0a7348a",
+  "edition": 8,
+  "date": 1710657707009,
+  "attributes": [
+    {
+      "trait_type": "1 of 1",
+      "value": "Wash Tradooor"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

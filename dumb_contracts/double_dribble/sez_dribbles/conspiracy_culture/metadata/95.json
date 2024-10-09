@@ -1,0 +1,47 @@
+{
+  "name": "Conspiracy Culture #95",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/95.png",
+  "dna": "bb8e6b33d55c0d957e53bdfc4b2863680df0d99f",
+  "edition": 95,
+  "date": 1710657952551,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "The Island"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Fallen Angel"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bun Pink"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Polo Yellow"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "Blazer White"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earrings"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Gas Pink"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Whale Teal"
+    },
+    {
+      "trait_type": "Secret Phrase",
+      "value": "Birds"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

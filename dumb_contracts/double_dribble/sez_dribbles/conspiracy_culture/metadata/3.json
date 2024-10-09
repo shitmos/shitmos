@@ -1,0 +1,15 @@
+{
+  "name": "Conspiracy Culture #3",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/3.png",
+  "dna": "ed2ed5ebd4775bf02e53fdc8ecd31714d635fb78",
+  "edition": 3,
+  "date": 1710657697224,
+  "attributes": [
+    {
+      "trait_type": "1 of 1",
+      "value": "Yeti"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

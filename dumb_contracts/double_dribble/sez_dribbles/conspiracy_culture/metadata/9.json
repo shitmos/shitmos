@@ -1,0 +1,15 @@
+{
+  "name": "Conspiracy Culture #9",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/9.png",
+  "dna": "087f6e290fef144643d8865b6b217dfb3ac6c392",
+  "edition": 9,
+  "date": 1710657710023,
+  "attributes": [
+    {
+      "trait_type": "1 of 1",
+      "value": "Octopus Murders"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

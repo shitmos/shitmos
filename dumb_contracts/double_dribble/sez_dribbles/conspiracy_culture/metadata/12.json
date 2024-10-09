@@ -1,0 +1,15 @@
+{
+  "name": "Conspiracy Culture #12",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/12.png",
+  "dna": "96f03f1cce8c852fb477eea3a9a5b862d494f68e",
+  "edition": 12,
+  "date": 1710657718105,
+  "attributes": [
+    {
+      "trait_type": "1 of 1",
+      "value": "Burger Tradoor"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

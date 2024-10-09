@@ -1,0 +1,43 @@
+{
+  "name": "Conspiracy Culture #18",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/18.png",
+  "dna": "c5aed6e39429256d77fc46a332031b81bbd90796",
+  "edition": 18,
+  "date": 1710657733939,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moon Landing"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Swoop Brown"
+    },
+    {
+      "trait_type": "Suits",
+      "value": "Suit Dos"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Twin_vasion"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Gas Black"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Foil Cone"
+    },
+    {
+      "trait_type": "Secret Phrase",
+      "value": "aren't"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

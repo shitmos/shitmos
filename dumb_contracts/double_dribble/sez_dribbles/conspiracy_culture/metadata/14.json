@@ -1,0 +1,15 @@
+{
+  "name": "Conspiracy Culture #14",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/14.png",
+  "dna": "3d40cc01eec5b3336fd31a90e6115756fd5ded10",
+  "edition": 14,
+  "date": 1710657721239,
+  "attributes": [
+    {
+      "trait_type": "1 of 1",
+      "value": "JFK Ghost"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

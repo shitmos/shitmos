@@ -1,0 +1,15 @@
+{
+  "name": "Conspiracy Culture #2",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/2.png",
+  "dna": "959d3c40f431fbc83b726b17c687674bd9f4b522",
+  "edition": 2,
+  "date": 1710657694946,
+  "attributes": [
+    {
+      "trait_type": "1 of 1",
+      "value": "Bigfoot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Conspiracy Culture #6",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/6.png",
+  "dna": "ac6eebb6ac12b9203bb626d8afd9a3bdc1eed7cc",
+  "edition": 6,
+  "date": 1710657705777,
+  "attributes": [
+    {
+      "trait_type": "1 of 1",
+      "value": "Illuminati"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

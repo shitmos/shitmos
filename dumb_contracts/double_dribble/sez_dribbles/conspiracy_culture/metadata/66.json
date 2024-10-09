@@ -1,0 +1,47 @@
+{
+  "name": "Conspiracy Culture #66",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/66.png",
+  "dna": "5bd5dcaf9d315d93c811298bfe60e3a45d4ac9eb",
+  "edition": 66,
+  "date": 1710657869457,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White House"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bun Pink"
+    },
+    {
+      "trait_type": "Under Layer",
+      "value": "Tank Pink"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Misc",
+      "value": "Earpiece"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Gas Pink"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Colombia"
+    },
+    {
+      "trait_type": "Secret Phrase",
+      "value": "aren't"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

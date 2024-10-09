@@ -1,0 +1,15 @@
+{
+  "name": "Conspiracy Culture #13",
+  "description": "Conspiracy Culture NFT",
+  "image": "ipfs://bafybeienaf3c4j6b2hrspdgdeg5a27hyrq5voficiqt4bfsbosviytxliu/13.png",
+  "dna": "0ee9628fe5e3c0053e86ad2cbe530c82015d2e3d",
+  "edition": 13,
+  "date": 1710657719037,
+  "attributes": [
+    {
+      "trait_type": "1 of 1",
+      "value": "Apocalypse"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
