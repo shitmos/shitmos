@@ -1,0 +1,160 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+/* Input Section */
+#input-section {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#input-section label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+#input-section input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+#load-data-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Wheel Section */
+#wheel-section {
+    display: none; /* Initially hidden */
+    margin: 20px auto;
+}
+
+.wheel-container {
+    position: relative;
+    margin: 20px auto;
+    width: 800px;
+    height: 800px;
+}
+
+canvas {
+    width: 800px;
+    height: 800px;
+    border: 1px solid #000;
+    border-radius: 50%;
+}
+
+.arrow {
+    position: absolute;
+    top: -20px;
+    left: 240px;
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 20px solid red;
+}
+
+#spin-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Winners Section */
+#winners-section {
+    display: none; /* Initially hidden */
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#winners-section h2 {
+    margin-top: 0;
+}
+
+#winners-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#winners-list li {
+    background-color: #f9f9f9;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 4px;
+    word-break: break-all;
+}
+
+/* Buttons */
+button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    #input-section, #winners-section {
+        width: 95%;
+    }
+
+    .wheel-container {
+        width: 300px;
+        height: 300px;
+    }
+
+    .arrow {
+        left: 140px;
+    }
+
+    canvas {
+        width: 300px;
+        height: 300px;
+    }
+}

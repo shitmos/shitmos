@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Spinning Wheel Selector</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Spinning Wheel Selector</h1>
+    </header>
+    <main>
+        <section id="input-section">
+            <label for="snapshot-date">Snapshot Date:</label>
+            <input type="date" id="snapshot-date" name="snapshot-date">
+
+            <label for="layer-name">Layer Name:</label>
+            <input type="text" id="layer-name" name="layer-name">
+
+            <label for="number-of-spins">Number of Spins:</label>
+            <input type="number" id="number-of-spins" name="number-of-spins" min="1" value="1">
+
+            <button id="load-data-button">Load Data</button>
+        </section>
+
+        <section id="wheel-section" style="display:none;">
+            <button id="spin-button">Spin the Wheel</button>
+            <div class="wheel-container">
+                <canvas id="wheel" width="500" height="500"></canvas>
+                <div class="arrow"></div>
+            </div>
+        </section>
+
+        <section id="winners-section" style="display:none;">
+            <h2>Winners</h2>
+            <ul id="winners-list"></ul>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
