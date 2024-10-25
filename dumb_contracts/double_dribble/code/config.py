@@ -5,16 +5,16 @@
 
 
 # Snapshot
-SNAPSHOTS_FOLDER = "../sez_dribbles/expedition/"
-INCLUDE_LISTED_NFT_FOR_DISTRIBUTE = False
+SNAPSHOTS_FOLDER = "../sez_dribbles/babu_pengus/"
+INCLUDE_LISTED_NFT_FOR_DISTRIBUTE = True
 
 # Wallet Name
 KEY_NAME = "sez"
 WALLET_NAME = "Shitmos Economic Zone Wallet"
 
 # Denomination and amount configuration
-DENOM = "SHITMOS"
-UNIT_AMOUNT = 2
+DENOM = "BAG"
+UNIT_AMOUNT = 300_000 / 687
 
 # Define conversion rate (1 unit = 1,000,000 micro units)
 CONVERSION_RATE = 1_000_000
@@ -28,6 +28,7 @@ TOKEN_NAME_MAPPING = {
     "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/pnt": "PNT",
     "ibc/987C17B11ABC2B20019178ACE62929FE9840202CE79498E29FE8E5CB02B7C0A4": "RSTK",
     "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crmh": "CRMH",
+    "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/bag": "BAG"
 }
 
 # Define exchange rates to USD (example rates)

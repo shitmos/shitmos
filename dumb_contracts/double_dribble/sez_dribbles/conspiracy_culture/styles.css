@@ -63,13 +63,11 @@ main {
 .wheel-container {
     position: relative;
     margin: 20px auto;
-    width: 800px;
-    height: 800px;
+    width: 500px;
+    height: 500px;
 }
 
 canvas {
-    width: 800px;
-    height: 800px;
     border: 1px solid #000;
     border-radius: 50%;
 }
