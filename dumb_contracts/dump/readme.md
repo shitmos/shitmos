@@ -4,6 +4,9 @@ A `dump` is a `dumb_contract` that distributes a digital asset to wallets that a
 
 # how to do a dump
 
+Note - directories are kind of messed up in here, I need to figure out how to streamline this.
+Also, there's an issue with the fact that double_dribble will generate a snapshot if there isn't already one for today's date.
+
 STEP 1 - Create and setup subdirectory for the dump
 
 ```bash
@@ -23,14 +26,20 @@ What denom to distribute in `config.py`
 Quantity per matching set in `config.py`
 Location that snapshots should go `SNAPSHOTS_FOLDER` in `config.py`
 
-STEP 3 - Run snapshots for each of the collection addresses
 
+STEP 3 - Run snapshots for each of the collection addresses
+open the `snapshots.py` file and change `collection_addr` on line 44
 `python3 ../../double_dribble/code/snapshots.py`
 
 > note you can print the context of `collections.txt` by running `cat collections.txt`
 
+rename the snapshots in a folder for date of dump as 1, 2, 3.json and so on
 
+STEP 4 - Configure and run `create_dump_snapshot.py`
+`python3 ../create_dump_snapshot.py`
 
+STEP 5 - Run `double_dribble` on the snapshot file
+This is a bit complex. Need to ensure new snapshot doesnt ovrride the one created.
 
 
 A `dump` uses a lot of the tools from `double_dribble` another dumb contract.

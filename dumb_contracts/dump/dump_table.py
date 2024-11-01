@@ -6,7 +6,7 @@ from collections import defaultdict
 folder_path = "snapshots/2024-10-31"  # Replace this with your folder path
 
 # Load dump.json to analyze full matches
-with open("snapshots/2024-10-31/dump.json", "r") as file:
+with open(os.path.join(folder_path, "dump.json"), "r") as file:
     dump_data = json.load(file)
 
 # Dictionary to count occurrences of each address in dump.json (for full matches)
@@ -17,11 +17,11 @@ for entry in dump_data:
     owner_addr = entry["owner_addr"]
     address_full_match_counts[owner_addr] += 1
 
-# Load all snapshot files to analyze partial matches
+# Load all snapshot files (excluding dump.json) to analyze partial matches
 snapshot_data = {}  # Dictionary to store data from each snapshot file by filename
 file_names = []
 for filename in os.listdir(folder_path):
-    if filename.endswith(".json"):
+    if filename.endswith(".json") and filename != "dump.json":
         file_names.append(filename)
         file_path = os.path.join(folder_path, filename)
         with open(file_path, "r") as file:
@@ -52,7 +52,7 @@ for owner_addr, file_counts in address_token_counts.items():
 # Sort table: dump_count (descending), then by each file count (descending)
 table_data.sort(key=lambda row: (row[-1], *row[1:-1]), reverse=True)
 
-# Print header
+# Print header (excluding dump.json)
 header = ["address"] + sorted(snapshot_data.keys()) + ["dump_count"]
 print(", ".join(header))
 
