@@ -1,0 +1,21 @@
+
+# 1
+
+Displaying distribution details...
+Load snapshot from ../../dump/bibby_oe_trilogy/snapshots/2024-10-31/snapshot_2024-11-01.json
+Double dribble distribution:
+------------------------------------------------------------------
+Count  NFTs  💩 per NFT    💩 Per Wallet    Total      Denom     
+------------------------------------------------------------------
+1      7     22.22        155.54          155.54     SHITMOS   
+1      6     22.22        133.32          133.32     SHITMOS   
+1      5     22.22        111.10          111.10     SHITMOS   
+1      4     22.22        88.88           88.88      SHITMOS   
+5      3     22.22        66.66           333.29     SHITMOS   
+4      2     22.22        44.44           177.76     SHITMOS   
+56     1     22.22        22.22           1244.32    SHITMOS   
+------------------------------------------------------------------
+Total distribution: 2244.21
+Total number of wallets: 69
+
+206D792FBF80009E24B82C726D6ABFC89FF570A1E475C29674EA22682A89FEE1
