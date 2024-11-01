@@ -6,7 +6,7 @@ from collections import defaultdict
 folder_path = "snapshots/2024-10-31"  # Replace this with your folder path
 
 # Load dump.json to analyze full matches
-with open("dump.json", "r") as file:
+with open("snapshots/2024-10-31/dump.json", "r") as file:
     dump_data = json.load(file)
 
 # Dictionary to count occurrences of each address in dump.json (for full matches)
