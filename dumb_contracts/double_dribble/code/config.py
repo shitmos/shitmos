@@ -5,7 +5,7 @@
 
 
 # Snapshot
-SNAPSHOTS_FOLDER = "../sez_dribbles/babu_pengus/"
+SNAPSHOTS_FOLDER = "../../dump/bibby_oe_trilogy/"
 INCLUDE_LISTED_NFT_FOR_DISTRIBUTE = True
 
 # Wallet Name
@@ -13,8 +13,8 @@ KEY_NAME = "sez"
 WALLET_NAME = "Shitmos Economic Zone Wallet"
 
 # Denomination and amount configuration
-DENOM = "BAG"
-UNIT_AMOUNT = 300_000 / 687
+DENOM = "SHITMOS"
+UNIT_AMOUNT = 22.22
 
 # Define conversion rate (1 unit = 1,000,000 micro units)
 CONVERSION_RATE = 1_000_000

@@ -17,8 +17,8 @@ def calculate_and_print_distributions(holders_counted, unit_amount, denom):
 
     output.append("Double dribble distribution:")
     output.append("-" * 66)
-    #output.append("{:<6} {:<5} {:<12} {:<15} {:<10} {:<10}".format("Count", "NFTs", "💩 per NFT", "💩 Per Wallet", "Total", "Denom"))
-    output.append("{:<6} {:<5} {:<12} {:<15} {:<10} {:<10}".format("Count", "NFTs", "🥖 per NFT", "🥖 Per Wallet", "Total", "Denom"))
+    output.append("{:<6} {:<5} {:<12} {:<15} {:<10} {:<10}".format("Count", "NFTs", "💩 per NFT", "💩 Per Wallet", "Total", "Denom"))
+    #output.append("{:<6} {:<5} {:<12} {:<15} {:<10} {:<10}".format("Count", "NFTs", "🥖 per NFT", "🥖 Per Wallet", "Total", "Denom"))
     output.append("-" * 66)
 
     # Group values by count
