@@ -1,0 +1,5 @@
+Contract Addresses
+
+Minter: stars19xkh6w2tzgjqdtl9j258ajstdjwz64wlzgsq4amc2yfc5547deus4src48
+SG721: stars1z2mxxjct3lmq6yndqx6e7sxuamc7t0k24y9jq3y907vmg2wwt4rs7klax9
+Whitelist: stars1vs9z6me7ujhe3ym95n425wtjcd77dkh67srgwy63uxt9f4nfsdlsxlvkd5

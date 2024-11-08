@@ -52,7 +52,7 @@ Order, Name, Contract, Status
 51, Celestine Sloths, stars10n0m58ztlr9wvwkgjuek2m2k0dn5pgrhfw9eahg9p8e5qtvn964suc995j
 52, Fanky X Shitmos **BoOtL3G**, stars1qq7g7y085j9k7dhjs4e66cpz4xm3tsjaz39ccvkquxhjkjt4ye8qc44cwx
 53, Fanksy X Shitmos: Scope That $hit, stars144n0v2npt5xp0vdrzn0zjkfe8vlk6h382l04zulvdzuy7k2z3u6s2qchgg
-54, Fomo Foxes, stars176tumdcryjhp4dz7znkjev2r60jryc4mayfc2r8vn350jprag2zqqggpqa, Pending
+54, Fomo Foxes, stars176tumdcryjhp4dz7znkjev2r60jryc4mayfc2r8vn350jprag2zqqggpqa
 55, Women of FADA, stars1yag3xh87zc9dcmdt7k726x0ud68yt2dnuch0hsg38n3yfxjfvt5s54u52f, Pending
 56, Expedition, stars16srrs6zyl60n2avmp5hlkrc4k37q8spyzjtza7fhtpjchdjumxpq0rrnqm
 57, Atomic Kids, stars1kq3nx4rpuys575956pdqwkhp5cce9hvd8cy2te77f5ynu7jkcxfqmw9u9s, Pending
