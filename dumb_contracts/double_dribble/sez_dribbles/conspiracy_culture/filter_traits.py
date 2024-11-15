@@ -2,13 +2,12 @@ import json
 import os
 
 # Configuration section
-SNAPSHOT_FILE = "snapshots/snapshot_2024-10-01.json"
+SNAPSHOT_FILE = "snapshots/snapshot_2024-11-15.json"
 METADATA_FOLDER = "metadata"
 OUTPUT_FOLDER = "snapshots"  # Folder to save output files
 
 TRAIT_FILTERS = {
-    "Under Layer": "Bee Kind",
-    "Misc": "Bee Kind"
+    "Head Gear": "Foil Wizard"
 }
 
 # Function to load snapshot data

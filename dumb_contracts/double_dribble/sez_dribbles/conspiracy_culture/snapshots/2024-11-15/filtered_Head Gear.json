@@ -1,0 +1,90 @@
+[
+    {
+        "owner_addr": "stars1442jxc2sdh0rpw20lt0w2gep50kypjy3culxc2",
+        "token_id": "93",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1sfc34ujkys84eeqmegm7lle955y3edyt5gf4x3",
+        "token_id": "750",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars12kct4cfuwh7vevec7c4y9slmee949qrjp5ds2x",
+        "token_id": "1286",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": true,
+        "dao_address": "stars10q3va0lp8npdxf2qwutv8umrxp6h50857neyhk7xvpjqkhucqnsq75yfrt"
+    },
+    {
+        "owner_addr": "stars1p9k8p9zaegef6c50fqs8h2ya2eslcd0qxsq2n6",
+        "token_id": "1287",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1dqsmw3sryd4f8ty8sl455ym6usznmdvlryggtz",
+        "token_id": "1801",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": true,
+        "dao_address": "stars10q3va0lp8npdxf2qwutv8umrxp6h50857neyhk7xvpjqkhucqnsq75yfrt"
+    },
+    {
+        "owner_addr": "stars1urcmv4ge6n64f9xydw2crjjyml8ezzu6ekg69t",
+        "token_id": "2132",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1hasrs4nadnucnw7rr9tx90ztm6m9mtsp627h9k",
+        "token_id": "3675",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1p9k8p9zaegef6c50fqs8h2ya2eslcd0qxsq2n6",
+        "token_id": "3894",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars1yapj782cpsx9u2nd4fv7yvqrumv9jlzrzcd6zp",
+        "token_id": "4227",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars122nsp5l3uuqr36qh29puasqmlrvxpvc8ng3hlc",
+        "token_id": "4251",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    },
+    {
+        "owner_addr": "stars19uf9yk3h3m0ztn0zk60llj5l6mu93xpmdyummk",
+        "token_id": "4300",
+        "is_listed": false,
+        "is_in_pool": false,
+        "is_staked": false,
+        "dao_address": null
+    }
+]

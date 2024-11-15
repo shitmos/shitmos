@@ -2,7 +2,7 @@ import json
 import os
 
 # Configuration section
-SNAPSHOT_FILE = "snapshots/filtered_Under_Layer.json"  # Update with your snapshot file path
+SNAPSHOT_FILE = "snapshots/2024-11-15/filtered_all_traits.json"  # Update with your snapshot file path
 OUTPUT_FILE = "addresses_list.txt"  # Output file to save the list of addresses
 
 # Function to load the snapshot data
