@@ -2,8 +2,8 @@ import json
 import os
 
 # Configuration section
-SNAPSHOT_FILE = "snapshots/2024-11-15/filtered_all_traits.json"  # Update with your snapshot file path
-OUTPUT_FILE = "addresses_list.txt"  # Output file to save the list of addresses
+SNAPSHOT_FILE = "snapshots/2024-11-18/conspiracy2_snapshot_2024-11-18.json"  # Update with your snapshot file path
+OUTPUT_FILE = "conspiracy2_2024-11-18.txt"  # Output file to save the list of addresses
 
 # Function to load the snapshot data
 def load_snapshot(snapshot_file):

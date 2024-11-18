@@ -5,7 +5,7 @@
 
 
 # Snapshot
-SNAPSHOTS_FOLDER = "../../dump/bibby_oe_trilogy/snapshots/2024-10-31"
+SNAPSHOTS_FOLDER = "../sez_dribbles/conspiracy_culture/snapshots"
 INCLUDE_LISTED_NFT_FOR_DISTRIBUTE = True
 
 # Wallet Name
