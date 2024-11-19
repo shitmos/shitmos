@@ -1,0 +1,7 @@
+addresses:
+
+conspiracy main
+stars1qgpva6efdxvra2skje4dar0hhzua2cw0khyfmmn0p2j83pad6x7qw276wx
+
+conspiracy 2.0
+stars1r7v76fsl7x9n5jd2pydpqwpgh4ctvwgp7eex9r9l97r6cp6wlg3qgn40xu
