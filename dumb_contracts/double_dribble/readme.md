@@ -14,11 +14,9 @@ to quick run, if configuration is set up correctly... run the following commands
 from the root directory
 
 ```bash
-cd dumb_contracts/double_dribble/code
+cd ~/repos/shitmos/dumb_contracts/double_dribble/code
 ./double_dribble.sh
 ```
-
-
 
 # steps
 

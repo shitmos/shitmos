@@ -1,7 +1,7 @@
 # shitmos
 Cosmos network's premier self-hatred shitcoin
 
-# CLI tools
+## CLI tools
 This repo has code that utilize the stargaze and osmosis command line interface tools `starsd` and `osmosisd`
 
 In order to use these tools, you will need to run a full node locally or connect to a public RPC.
@@ -16,3 +16,7 @@ If you don't want to write out the public node every time, you can add the node 
 
 and then scroll down and replace whatever is in `laddr =` to:
 `laddr = https://rpc.osmosis.zone:443`
+
+## Virtual Environment
+
+The virtual environment for the shitmos
