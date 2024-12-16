@@ -1,0 +1,70 @@
+[
+  {
+    "id": "1770",
+    "type": "/osmosis.concentratedliquidity.v1beta1.Pool"
+  },
+  {
+    "id": "1798",
+    "type": "/osmosis.gamm.v1beta1.Pool"
+  },
+  {
+    "id": "1799",
+    "type": "/osmosis.gamm.v1beta1.Pool"
+  },
+  {
+    "id": "1836",
+    "type": "/osmosis.gamm.v1beta1.Pool"
+  },
+  {
+    "id": "1840",
+    "type": "/osmosis.gamm.v1beta1.Pool"
+  },
+  {
+    "id": "1841",
+    "type": "/osmosis.gamm.v1beta1.Pool"
+  },
+  {
+    "id": "1858",
+    "type": "/osmosis.concentratedliquidity.v1beta1.Pool"
+  },
+  {
+    "id": "1866",
+    "type": "/osmosis.gamm.v1beta1.Pool"
+  },
+  {
+    "id": "1873",
+    "type": "/osmosis.gamm.v1beta1.Pool"
+  },
+  {
+    "id": "1881",
+    "type": "/osmosis.gamm.v1beta1.Pool"
+  },
+  {
+    "id": "1909",
+    "type": "/osmosis.gamm.v1beta1.Pool"
+  },
+  {
+    "id": "1914",
+    "type": "/osmosis.gamm.poolmodels.stableswap.v1beta1.Pool"
+  },
+  {
+    "id": "1979",
+    "type": "/osmosis.gamm.v1beta1.Pool"
+  },
+  {
+    "id": "2250",
+    "type": "/osmosis.concentratedliquidity.v1beta1.Pool"
+  },
+  {
+    "id": "2388",
+    "type": "/osmosis.gamm.v1beta1.Pool"
+  },
+  {
+    "id": "2389",
+    "type": "/osmosis.gamm.v1beta1.Pool"
+  },
+  {
+    "id": "2391",
+    "type": "/osmosis.gamm.v1beta1.Pool"
+  }
+]
