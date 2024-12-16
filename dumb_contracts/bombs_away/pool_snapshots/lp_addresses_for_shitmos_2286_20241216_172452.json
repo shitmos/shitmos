@@ -1,0 +1,471 @@
+[
+  {
+    "address": "osmo1qnqzdknfvr97uswyvr5qcehmlxhja92zq74dz5",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "6311633971703420"
+    }
+  },
+  {
+    "address": "osmo1q7k2dgn3d7lewv5rr0xl3cq3yp06qervjprpjh",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "1650798722518632852"
+    }
+  },
+  {
+    "address": "osmo1p0uesu8nf4fgh8xxmper5gqthd4wz6xtkyg24c",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "258860269157626657"
+    }
+  },
+  {
+    "address": "osmo1phcmh6rt32n05yfujxfphvv4y2a06nfzuegrm3",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "70059255233317480"
+    }
+  },
+  {
+    "address": "osmo1rqrck8d5u34l8p6zvanh9zn4kkd4v6sh4palze",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "141509822301002057911"
+    }
+  },
+  {
+    "address": "osmo1rwslpg9wrt259jqjwqdf4w8a7pfvw7j3pjrxzz",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "574009863914"
+    }
+  },
+  {
+    "address": "osmo1xqc20kjde8jwzadgzzpykznslkaragqtp43xhg",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "516489639233870162"
+    }
+  },
+  {
+    "address": "osmo1xzj96l4uct68nx5nxkgdycry50f3g2mafhzqpf",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "526055421057105056"
+    }
+  },
+  {
+    "address": "osmo1x3xcevdquv8t23egdp5lnlq3lz9ne5yu9j8st9",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "9312275172580155266"
+    }
+  },
+  {
+    "address": "osmo1xh0emdly8tjyaasrjl5urpfvazqwrkmleazsyv",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "14692975100662314"
+    }
+  },
+  {
+    "address": "osmo1xe2u6s2zjkt6ct8fuv2pd0ma4mhy6jch0afxcc",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "5615012923474158413"
+    }
+  },
+  {
+    "address": "osmo1gyn52enex6ek07svnh4aq5ppg0favc8z6jlhuk",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "41325921476498842440"
+    }
+  },
+  {
+    "address": "osmo1gkfm69ulp493c4srhet0gm8pgpzm7j7umf5hy8",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "104125598433921698"
+    }
+  },
+  {
+    "address": "osmo1gcwpjf7g4facjfj3mnjz93xrmqe2cqreadj99m",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "1564471602813229258"
+    }
+  },
+  {
+    "address": "osmo1g6c0qhpvwtq5cfdhe229a9gu3m3c27lnqgvv0s",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "87846958831998285"
+    }
+  },
+  {
+    "address": "osmo1fxccvvhhy43tvet2ah7jqwq4cwl9k3dx5l5ngt",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "693308933082992863"
+    }
+  },
+  {
+    "address": "osmo1fh9vtq62tc2dwguslstz0gsqutpw8awr3yp7mg",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "7182408355942786196"
+    }
+  },
+  {
+    "address": "osmo12rrdset0462e7hez27tygcr5as6ycmjjywpr4a",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "1451502725518039"
+    }
+  },
+  {
+    "address": "osmo12s7cfwfj3jc8f89cw8ws0jfaux37tyjwwe79za",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "568176566654567578"
+    }
+  },
+  {
+    "address": "osmo1traqj7lc0mer6wf0qpr3nymfl0ngx9fmjt8xtx",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "24311722019444645312"
+    }
+  },
+  {
+    "address": "osmo1thvncfatxukryyceuqxh5fzvxa57sj7qxn4zkj",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "29371408069696799309"
+    }
+  },
+  {
+    "address": "osmo1t6rr3r5gp94cvgmmspq7gx5tjl7tjhq57nerxr",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "27349307198047010"
+    }
+  },
+  {
+    "address": "osmo1vqurd5tsn293d3j55dxynknrd73cc7p2py0l03",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "3512495098430424867"
+    }
+  },
+  {
+    "address": "osmo1v0u9rcqpp65rslucp02enkj93tkhj2f8tpdd8m",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "672681946601796059"
+    }
+  },
+  {
+    "address": "osmo1dqsmw3sryd4f8ty8sl455ym6usznmdvllrv9kp",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "2408318118134716078"
+    }
+  },
+  {
+    "address": "osmo1dpltqq0vx52vkarvy07rjer92thkufgtt7k7rr",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "593484822502548803"
+    }
+  },
+  {
+    "address": "osmo1dr4um0jmyhjtjc0r2p03cfxw0kfssucgpec3q9",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "257914725765465079557"
+    }
+  },
+  {
+    "address": "osmo1dmrntrfqy7u4vzhxayqfu8zg2zdd85ekrnm00j",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "870773185319551934011"
+    }
+  },
+  {
+    "address": "osmo1dmvle9fu8vxz8z8ywkezze6q54la4gqfp8xu62",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "2232001085065285755"
+    }
+  },
+  {
+    "address": "osmo1wryt0g4g7h8eldzankzpx55kraljjepxvzn9pm",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "783918731411130115"
+    }
+  },
+  {
+    "address": "osmo1wygsp6depahahyg8zn0q5w358gceh5syk4rdk7",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "12975215177694887648"
+    }
+  },
+  {
+    "address": "osmo1wd76dcjdadnuzv7wxrgunu2624ak25wpzf9qpp",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "20995443971929312818"
+    }
+  },
+  {
+    "address": "osmo1ww3ta92qm2vlw6cnywc40amem4xx55fjm6qpnd",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "2602185097156343733"
+    }
+  },
+  {
+    "address": "osmo10lqlgfkdeajkyvl96n97655t9cjw6wuyn4hg33",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "645329782045331931"
+    }
+  },
+  {
+    "address": "osmo1sfc34ujkys84eeqmegm7lle955y3edytg0dcmj",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "50731561144598011912"
+    }
+  },
+  {
+    "address": "osmo1smrlapzwyv23cvna6s7jkwnenvcvcwnc62n2n6",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "3023483726489828818"
+    }
+  },
+  {
+    "address": "osmo1n8t4j7nxqz3ngyrygv9zs22gjfkldljgd9w5tk",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "692149729714129346"
+    }
+  },
+  {
+    "address": "osmo1nsk7c9k2wuw5pwzaw7jeljcc625vtx5gnrz39e",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "51654443736809227025"
+    }
+  },
+  {
+    "address": "osmo1n5p6knn4zvxml9lrltp72rajcxxj3a4nzvkf0s",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "235311962412949989"
+    }
+  },
+  {
+    "address": "osmo1n5z0vnxawdwwy2thaausm5udezzegr0jq3url0",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "5900102676356367287"
+    }
+  },
+  {
+    "address": "osmo150jkrlp53fqrj4kmzpk9pzk5geutekm625awv7",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "7635588038135763434"
+    }
+  },
+  {
+    "address": "osmo15e47t2utfx4ryweyxdpj6xlp4dtcvkx4sehnfa",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "112418486771641823423"
+    }
+  },
+  {
+    "address": "osmo15ucydnzg76mlt6kc3j4qmqtxh733k383mdazmp",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "120052140265879274"
+    }
+  },
+  {
+    "address": "osmo15akaj4c9ceds7wc86tfp6zj3xutmr0q63grxeq",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "4504820574160688828"
+    }
+  },
+  {
+    "address": "osmo14qnswsv5vk6ylrl5j43lns8rp8e9th9t5fzgx9",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "62220034634840645092"
+    }
+  },
+  {
+    "address": "osmo14pq92zrvgac2uga3rtttyla32gx7vudvwhzx4u",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "3921905820352780"
+    }
+  },
+  {
+    "address": "osmo147kcrl0urz8dep3sv2znl47tpulnh9xj9ynf4s",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "94557800405502112221"
+    }
+  },
+  {
+    "address": "osmo1kqh9v54k9qvrz5ggplndzlgynflk2n33fylu8m",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "250322694571716094"
+    }
+  },
+  {
+    "address": "osmo1k89tmfrl2cs46tv6n009kd6l4ury8493dv7lqg",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "497971296404960361"
+    }
+  },
+  {
+    "address": "osmo1k0l8vczkgy3av3tn05dvnc87se60gaa9sqaqm5",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "5648702923496122400"
+    }
+  },
+  {
+    "address": "osmo1k5k4c6fc7qcz4l7msd0m9gdp4rd9pzcm8z26y6",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "415742424015149320"
+    }
+  },
+  {
+    "address": "osmo1khfrzy6fgpxu6a7lzj7xs43rsmr4r8tyxpdcjl",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "1163248886906558542"
+    }
+  },
+  {
+    "address": "osmo1kmsteytxueay4s33567yqtk8ra8en84a3u4e0t",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "6079265244815317959"
+    }
+  },
+  {
+    "address": "osmo1ka0nh4qaede8wwnkhd9h0ywxw8jquy7kxsxnhq",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "10213269402525345185"
+    }
+  },
+  {
+    "address": "osmo1hj6yverqfchhvystklt5jvf5wanyjfufg4rvmj",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "395713235557443605"
+    }
+  },
+  {
+    "address": "osmo1hmyz62l08pzy8zghqsasjqsrnqnlpehfsdxqcq",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "3036857744476455674"
+    }
+  },
+  {
+    "address": "osmo1cprpmtj3k9artk40nvm5xd8asqqm0gq5l28lal",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "137499463453101734"
+    }
+  },
+  {
+    "address": "osmo1eszvv9x52xsypdr3h5p7yrsafld68s2092ec30",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "50398626899722859268"
+    }
+  },
+  {
+    "address": "osmo16pfkyl4a3uq239hr5cleje768m4nmnxtfnnzrz",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "1401850207970539285"
+    }
+  },
+  {
+    "address": "osmo16vh6tnpa48nd5stqs9y42vsqs5609kpfqps2h0",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "24066307434812726920"
+    }
+  },
+  {
+    "address": "osmo1mpqnv6mpzky3q3qfxunah7dafp539cmqe3d6ny",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "7435264745218365851"
+    }
+  },
+  {
+    "address": "osmo1mg5lpnxjppqd0lav8ersm89l8k8ynznke8muzu",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "1687613880993290625"
+    }
+  },
+  {
+    "address": "osmo1mvnrqqu7pc2q04y6fwxemzqphhw4z023dx92fd",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "1407303523681827922"
+    }
+  },
+  {
+    "address": "osmo1uxthxgqhmxaqlh5u6990j48x5y0u2udf95krd5",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "611231724283541552"
+    }
+  },
+  {
+    "address": "osmo1uvnk984yhpw48jfu5srvsrqdt03kkvlcjqx8x5",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "249691325496945610"
+    }
+  },
+  {
+    "address": "osmo17yrl86ehlhuzx2legtfuur7x2wnzvdchjgq9fl",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "538059310534477148"
+    }
+  },
+  {
+    "address": "osmo1ds27v089juh8jag0qzjzqx0ayleyhspq0rf3lct26hwtt46229rqqfsz3t",
+    "balance": {
+      "denom": "gamm/pool/2286",
+      "amount": "1897617037442750764"
+    }
+  }
+]

@@ -4,7 +4,7 @@ import base64
 import datetime
 
 # Configuration: Set the token denom you're interested in
-TOKEN_DENOM = "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos"  # Replace this with your desired denom
+TOKEN_DENOM = "factory/osmo1n6asrjy9754q8y9jsxqf557zmsv3s3xa5m9eg5/uspice"  # Replace this with your desired denom
 SNAPSHOT_DIR = "pool_snapshots"
 
 def get_most_recent_snapshot(directory):

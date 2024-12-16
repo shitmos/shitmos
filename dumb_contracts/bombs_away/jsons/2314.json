@@ -1,0 +1,16 @@
+[
+  {
+    "address": "osmo1thvncfatxukryyceuqxh5fzvxa57sj7qxn4zkj",
+    "balance": {
+      "denom": "gamm/pool/2314",
+      "amount": "30135192114314262453"
+    }
+  },
+  {
+    "address": "osmo1sfc34ujkys84eeqmegm7lle955y3edytg0dcmj",
+    "balance": {
+      "denom": "gamm/pool/2314",
+      "amount": "34382781905778446704"
+    }
+  }
+]

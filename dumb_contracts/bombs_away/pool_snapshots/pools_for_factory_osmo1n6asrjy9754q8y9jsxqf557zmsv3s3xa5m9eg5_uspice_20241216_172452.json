@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2275",
+    "type": "/osmosis.concentratedliquidity.v1beta1.Pool"
+  },
+  {
+    "id": "2276",
+    "type": "/osmosis.concentratedliquidity.v1beta1.Pool"
+  },
+  {
+    "id": "2277",
+    "type": "/osmosis.concentratedliquidity.v1beta1.Pool"
+  },
+  {
+    "id": "2286",
+    "type": "/osmosis.gamm.v1beta1.Pool"
+  },
+  {
+    "id": "2314",
+    "type": "/osmosis.gamm.v1beta1.Pool"
+  },
+  {
+    "id": "2348",
+    "type": "/osmosis.concentratedliquidity.v1beta1.Pool"
+  },
+  {
+    "id": "2354",
+    "type": "/osmosis.concentratedliquidity.v1beta1.Pool"
+  },
+  {
+    "id": "2401",
+    "type": "/osmosis.gamm.v1beta1.Pool"
+  },
+  {
+    "id": "2407",
+    "type": "/osmosis.gamm.poolmodels.stableswap.v1beta1.Pool"
+  },
+  {
+    "id": "2409",
+    "type": "/osmosis.concentratedliquidity.v1beta1.Pool"
+  }
+]

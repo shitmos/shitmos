@@ -6,7 +6,7 @@ import datetime
 import time
 
 # Configuration
-TOKEN_DENOM = "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos"  # The token denom you're interested in
+TOKEN_DENOM = "factory/osmo1n6asrjy9754q8y9jsxqf557zmsv3s3xa5m9eg5/uspice"  # The token denom you're interested in
 TOKEN_NAME = "shitmos"  # A human-readable name for the token
 NODE_URL = "https://rpc.osmosis.zone"
 SNAPSHOT_DIR = "pool_snapshots"
