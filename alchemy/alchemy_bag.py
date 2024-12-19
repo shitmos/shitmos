@@ -1,13 +1,13 @@
 import matplotlib.pyplot as plt
 
 # Fixed inputs
-bag_deposit = 0.00890047  # Fixed Bag deposit
-bag_price_usd = 0.01  # BAG price in USD
-shitmos_price_usd = 0.025  # Market price of Shitmos in USD
+bag_deposit = 111111  # Fixed Bag deposit
+bag_price_usd = 0.008698  # BAG price in USD
+shitmos_price_usd = 0.025290  # Market price of Shitmos in USD
 
 # Pool weighting
-weight_bag = 0.40 
-weight_shitmos = 0.60
+weight_bag = 0.60 
+weight_shitmos = 0.40
 
 # Calculate the total pool value in USD
 value_bag_usd = bag_deposit * bag_price_usd

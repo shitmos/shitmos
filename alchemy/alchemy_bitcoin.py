@@ -5,12 +5,12 @@ import matplotlib.pyplot as plt
 
 # Fixed inputs
 bitcoin_deposit = 0.00890047  # Fixed Bitcoin deposit
-btc_price_usd = 92157  # Bitcoin price in USD
-shitmos_price_usd = 0.025  # Market price of Shitmos in USD
+btc_price_usd = 97856.026748  # Bitcoin price in USD
+shitmos_price_usd = 0.025290  # Market price of Shitmos in USD
 
 # Pool weighting
-weight_bitcoin = 0.40  # 30% Bitcoin
-weight_shitmos = 0.60  # 70% Shitmos
+weight_bitcoin = 0.40
+weight_shitmos = 0.60
 
 # Calculate the total pool value in USD
 value_bitcoin_usd = bitcoin_deposit * btc_price_usd
