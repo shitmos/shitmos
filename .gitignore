@@ -2,3 +2,6 @@
 /nfts/shitberus
 *node_modules
 *__pycache__
+/shitmos_economic_zone/json_generation/santas_for_skrilla/metadata
+/shitmos_economic_zone/json_generation/santas_for_skrilla/shuffled_metadata
+
