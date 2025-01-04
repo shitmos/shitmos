@@ -1,0 +1,28 @@
+Running command: /usr/local/bin/osmosisd query bank balances osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj -o json
+
+Osmosis Balances Table:
+                                                Denom         Amount
+0                                               Spice         176.34
+1                                            Baguette           0.00
+2                                          CrazyHorse      45,153.25
+3                                       Crypto Matcha         199.80
+4                                              Catwad       7,000.00
+5                                            Pepenaut         532.80
+6                                             Shitmos     171,819.12
+7   ibc/1480B8FD20AD5FCAE81EA87584D269547DD4D43684...           0.21
+8                                            Cerberus  31,191,332.67
+9   ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE1...           0.31
+10  ibc/987C17B11ABC2B20019178ACE62929FE9840202CE7...          37.28
+11  ibc/FE2CD1E6828EC0FAB8AF39BAC45BC25B965BA67CCB...          72.78
+12                                            Osmosis           8.55
+Running command: /home/flarnrules/go/bin/starsd query bank balances stars1r6f5tfxdx2pw5p94f2v5n96xd4nglz5qdgl4l3 -o json
+
+Stargaze Balances Table:
+                                               Denom        Amount
+0  factory/stars16da2uus9zrsy83h23ur42v3lglg5rmyr...         16.20
+1                                               Pleb  4,293,069.55
+2  ibc/4A1C18CA7F50544760CF306189B810CE4C1CB156C7...          1.67
+3  ibc/8577E98BDDD2758FD5647A53563DAAC89921326F96...          0.11
+4  ibc/9DF365E2C0EF4EA02FA771F638BB9C0C830EFCD354...          0.00
+5  ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE1...          5.88
+6                                              Stars      2,145.20

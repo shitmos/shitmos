@@ -8,7 +8,7 @@ import urllib.parse
 import config
 
 # collection_addr should be declared up here
-# shitmos would be stars1z2mxxjct3lmq6yndqx6e7sxuamc7t0k24y9jq3y907vmg2wwt4rs7klax9
+# shitmos is stars1z2mxxjct3lmq6yndqx6e7sxuamc7t0k24y9jq3y907vmg2wwt4rs7klax9
 # shitzilla is stars1vpc22a2n4cglxwmndm4gf0ksqcwf39232kxwz0m67ntp4eda4ahsfdj9gm
 # expedition is stars16srrs6zyl60n2avmp5hlkrc4k37q8spyzjtza7fhtpjchdjumxpq0rrnqm
 # conspiracy is stars1qgpva6efdxvra2skje4dar0hhzua2cw0khyfmmn0p2j83pad6x7qw276wx

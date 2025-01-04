@@ -6,6 +6,11 @@ stars1c7gsk4eaelpcplg0j5urpwnzqrp6wnytematee - not sure what this address does
 
 so as to not send shitmos from SEZ member collections to nft holders.
 
+The sender if default doubled_dribble:
+KEY_NAME = "shitmos_nft"
+WALLET_NAME = "Shitmos NFT Wallet"
+
+
 # where is all the stuff
 
 you want to go to the `code` folder to run this
@@ -17,6 +22,9 @@ from the root directory
 cd ~/repos/shitmos/dumb_contracts/double_dribble/code
 ./double_dribble.sh
 ```
+# if you need to set up a wallet
+
+`osmosisd keys add <name of new key> --recover`
 
 # steps
 

@@ -1,0 +1,832 @@
+{
+    "blockchain": "osmosis",
+    "transaction": {
+        "msg": [
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1y6603qh08ttze6vaqr3ucmclq4xxj88x6gz5x8",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1fxvjt83z94sny0e9cy23sr43r6whz6c9agd8dg",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1p64d8tal0tc02csp0h9cflxr0lfcaxqxvxh7k9",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo16fzdfzakeahln7kaqewn543arxfpw4gfyvk4pt",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1ax88248nlfclu6tclg7zcxhlhdejldkwvhr2m8",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1ssgz49n7a6uc0xvxwmx59t60mgktnk238m5yf0",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1acx94c2u4kxnfu03jg5xaqppm60yg590pg4yhs",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1yr3ql5g49ffqz4pme5949wv8kw5zetnxyasmn2",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1gkxx7p75yqmhe9t2m3xce90gf9eyntqx2hqd37",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1algjxvnhf9rk8hxmjjc29saae848adhldd97qw",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo19ssvzev7dle2w5gp4g78vu28lvf88kctl4ztyd",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1xut7qsa2snzlmh5tqj7h9z4jazz0yvtydeww49",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1jpfxkmj6ycehtpmu7gc5s7rg3mppwvm5zmd2ge",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1gh99r9rquy4ryhw25mwr5lz8thytkj9a0q4q4j",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1epw58tmxkcu7l0m4facs5pydsylpx3e6587dr2",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1wmz7zx279uuh88rqvy5f4tfdejg3lq6kcwwj2d",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1dz2ergt8w2vpy4wu9luz72z637j7qage08kafk",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1z84x44mz2vye25vxkhlp4malu6ktuk7um9lpwp",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1sfc34ujkys84eeqmegm7lle955y3edytg0dcmj",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo14lu3v993d4w4mcu9uceqyrew2n59gnelsc98u9",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo15zk9ktdnlgjd74ux2g025frk4zrfff8swjtm6g",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1secpmv4xu4c206kx0tw33a86qgls25ha4vvst0",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo14ee37sr25lrrt0vvgyrx8ru4gh6jl0wxrqy2z5",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1shgs0znzax753l3k0agkpnljjxvg2vjmcyd6cy",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1ssjf53wy5gy7n8s43sadfyc7g03g68cn3nupu0",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1n5gp05stkt6kdqznnfahrrrzn8jrxd7gwwvaf2",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1dajav6q74v8ksgz3kq5fjk62vpdchznfdk3kkt",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo19dyz6z8sagukd9kkpkj7g0ctt78kychsrkar0e",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo17k9ask02js28ahprtgrcgvtny5dnarhvkecmca",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1xkpuehylf6rvqlcvk63w0tzz2kykjs3082r43k",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1v7qvt62uvkg82ntl4p5m56mxg4nc26un7072ns",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1f9medymj3m6ccj06ufeyks22j5wzdycfy42e9x",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo18p7s5uydtz6jjdp5m8jh8sjkdxy5z0wm0w829j",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1pd0px3mg76qgp7rxe6pua90z0ucsd7zlha4l43",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo12mezsn02ysnl7s3mqd7c406vyf5fv7wsyp9fks",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1dzxmxc929v5wwl6ch6yu0nvrf5erqecd98r9dx",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1gxw26xjfensexmgn35aummsctqm2klhprfwt06",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1hh5c9gzlwua605x37r0magcp0efyran8rdf8fv",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1l70vj9a43mlx6rch80njne7xzz2fykgaut0t9s",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo16f6r54c584f37q42grm97uktnv9mtzs7jpnqlv",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1wrm8mevp36k9cyer2qxxafjga3za0mqapndmc8",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1edhvwuumd4a7426e3xu5w7f4twdumnj2r5hp9l",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1h4f9ee38mgwr4zm6re9w2up3esw6h30cc2w2tp",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1kwuwr5tp5j3tjv9wyxpwyk0z8ntctmak96huv4",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo14exvl768pree88sthmp9cp3za7z2cha2fup9dx",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1hchpqnczqy4enuyjqjvhksrhk2nvtlrdfcglpz",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo13regmuuf8e9w3gxyvzpcx0g7ql0wyeglxs5lhf",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1ja86k72hx88v93pryjesh7g4572z5pwg7nc4jn",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1qlq35af2dpamjtglvgxwpj56xhmqr9scch8r2x",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1dmnqtkwg47kzh46nm2agy02gfnjpjze56ssp26",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1pt45hh0mxgge4uttwr9skm0v5gtqxxpy7spyfu",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1qukc3f7ceahtzpm8r2h5mcljzn5xpvv48098e4",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1z9gyyg2uc3323memzdrmff3a5tl4x44fnaxldh",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1jf44zlfdtffnrpynyl0t24uj0f3y45fle7zzk3",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo12vkxygu788zgvma05udyl97c4lcqecx0sgrxa9",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1urtkpz2adymkvm9dw3yg6sw8lmucjnxtsu6e03",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo12kvu5ez3ptpz9sfqk0f9uzulnmc5udtw8g0r69",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1jkzcz8ql2ffekpzspergcrcnllq5ag22jm8s23",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1ctgq9smyl9turpn39v9m0p5ywp5hudx3qzukc6",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1kqzstk2p8zslvpe3gnghdvr75r8u0ldjg5f36v",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1lq0tsncye0rm0jydq6cmcy54vlscma5pdza7re",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo149dd9ynts3tda9fdu08y8u6q3wx88apg7esthx",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1pvn0r5p6kdpyx0jvxke2lggjrsvhdkt8wpdrs6",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1elclpa4cpu3tshp9sd2r5v5gjnm6sn585zgtnx",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1pc0s42dwd9a9jt2xjkjedkgz42lljktn5f85x4",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1cgekxjacxnnv0lc0ddk8cduprm4wzejdppce6q",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1ddw9rusdptk3lsy6e0peajpuvmc7tya5zvqdh4",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1rne40npkyad3rvhzxg9q7xp9yg0qn76lyu8j66",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1szqp2xghxzl4yeh7vs2pcsx2lau9vcq0fuxtq9",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1rtwqzfp7rd9ex99yyq0fzl7nmlzwpsrthnlr5u",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1p0yrw4lawfafed3gpsr3andz8mc0skcducluyf",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1p5da8ghnlv8tgc2yagpv9mrzvkne5fv8ake6pv",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            },
+            {
+                "@type": "/cosmos.bank.v1beta1.MsgSend",
+                "from_address": "osmo1r6f5tfxdx2pw5p94f2v5n96xd4nglz5q30mczj",
+                "to_address": "osmo1e3y2en66vxqj5lxs4k0tsl034kvcxjhrlyar4e",
+                "amount": [
+                    {
+                        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+                        "amount": "1000000"
+                    }
+                ]
+            }
+        ],
+        "fee": {
+            "amount": [
+                {
+                    "denom": "uosmo",
+                    "amount": "45000"
+                }
+            ],
+            "gas": "15000000"
+        },
+        "signatures": null,
+        "memo": ""
+    }
+}

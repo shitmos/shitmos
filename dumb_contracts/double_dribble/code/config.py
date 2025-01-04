@@ -2,19 +2,20 @@
 # wallet KEY_NAMES:
 # shitmos_nft = Shitmos NFT Wallet
 # sez = Shitmos Economic Zone Wallet
-
+# shitmos_for_skrilla = Shitmos For Skrilla Wallet
+# shitmos = Shitmos Hot Wallet
 
 # Snapshot
-SNAPSHOTS_FOLDER = "../data/snapshots"
+SNAPSHOTS_FOLDER = "../sez_dribbles/plebdrop/"
 INCLUDE_LISTED_NFT_FOR_DISTRIBUTE = True
 
 # Wallet Name
-KEY_NAME = "shitmos_nft"
-WALLET_NAME = "Shitmos Economic Zone Wallet"
+KEY_NAME = "shitmos"
+WALLET_NAME = "Shitmos Hot Wallet"
 
 # Denomination and amount configuration
 DENOM = "SHITMOS"
-UNIT_AMOUNT = 2.22
+UNIT_AMOUNT = 2.2
 
 # Define conversion rate (1 unit = 1,000,000 micro units)
 CONVERSION_RATE = 1_000_000

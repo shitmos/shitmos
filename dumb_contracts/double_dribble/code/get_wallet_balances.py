@@ -13,13 +13,22 @@ def get_balances(wallet_name, keyring_backend):
     try:
         address = subprocess.check_output(
             ["osmosisd", "keys", "show", wallet_name, "-a", "--keyring-backend", keyring_backend]
-        ).decode("utf-8").strip()
+        ).decode("utf-8").strip()     
+        print(f"DEBUG: Fetched address for {wallet_name}: {address}")
 
         balances_raw = subprocess.check_output(
             ["osmosisd", "query", "bank", "balances", address, "-o", "json"]
         ).decode("utf-8")
+        print(f"DEBUG: Raw balances output: {balances_raw}")
 
-        balances_json = json.loads(balances_raw)
+        try:
+            balances_json = json.loads(balances_raw)
+        
+        except json.JSONDecodeError as e:
+            print(f"Error decoding JSON: {e}")
+            print(f"Raw output: {balances_raw}")
+            return []
+
         balances = balances_json.get("balances", [])
 
         standard_balances = {}

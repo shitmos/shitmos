@@ -1,0 +1,15 @@
+{
+    "name": "Frosty #23",
+    "description": "Collect all 55 cards in this Hooded holiday set! Each card showcases an enchanting Christmas character! Merry Christmas from The Fortunate Few and happy holidays!",
+    "attributes": [
+        {
+            "trait_type": "Character",
+            "value": "Frosty"
+        },
+        {
+            "trait_type": "Special",
+            "value": "1st Edition "
+        }
+    ],
+    "image": "ipfs://bafybeietp35ecvr3jjgcixmhx2zvzmi77jwa5jfypskknyatmhhjviwc3m/23.png"
+}
