@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# Set the keyring backend
-export STARSD_KEYRING_BACKEND=file
+set -e  # Exit on any error
 
 # Define the Python interpreter (update this path to your Python 3.11 interpreter)
 PYTHON_INTERPRETER=/home/linuxbrew/.linuxbrew/opt/python@3.11/bin/python3.11
@@ -14,10 +13,14 @@ DENOM=$($PYTHON_INTERPRETER -c "import config; print(config.DENOM)")
 KEY_NAME=$($PYTHON_INTERPRETER -c "import config; print(config.KEY_NAME)")
 CSV_FILE=$($PYTHON_INTERPRETER -c "import config; print(config.DISTRIBUTION_CSV_FILE)")
 
+# Hardcoded sender address
+FROM_ADDRESS="stars1r6f5tfxdx2pw5p94f2v5n96xd4nglz5qdgl4l3"
+
 # Debug: Print config values
 echo "DENOM (common name): $DENOM"
 echo "KEY_NAME: $KEY_NAME"
 echo "CSV_FILE: $CSV_FILE"
+echo "FROM_ADDRESS: $FROM_ADDRESS"
 
 # Directories for transactions and balances
 TRANSACTIONS_DIR="$SCRIPT_DIR/../data/transactions"
@@ -34,15 +37,11 @@ FINAL_BALANCES_FILE="${BALANCES_DIR}/final_balances_${TIMESTAMP}.json"
 
 # Run get_wallet_balances.py first and store the initial balances
 echo "Fetching initial wallet balances..."
-$PYTHON_INTERPRETER get_wallet_balances.py "$KEY_NAME" --keyring-backend file --output "$INITIAL_BALANCES_FILE"
+$PYTHON_INTERPRETER get_wallet_balances.py --output "$INITIAL_BALANCES_FILE"
 
 # Transaction generation using CSV file
 echo "Generating transaction data from CSV..."
 PYTHON_SCRIPT_PATH="$SCRIPT_DIR/generate_transactions_from_csv.py"
-FROM_ADDRESS=$(/home/flarnrules/go/bin/starsd keys show "$KEY_NAME" -a --keyring-backend file)
-
-# Debug: Print from address
-echo "FROM_ADDRESS: $FROM_ADDRESS"
 
 # Run the Python script and capture the output
 OUTPUT=$($PYTHON_INTERPRETER "$PYTHON_SCRIPT_PATH" --csv "$CSV_FILE" --from-address "$FROM_ADDRESS" --denom "$DENOM")
@@ -65,7 +64,7 @@ echo "$TRANSACTION_FILES"
 
 # Print the distribution summary
 echo "Printing distribution summary..."
-$PYTHON_INTERPRETER "$SCRIPT_DIR/print_spice_drop.py" --csv-file "$CSV_FILE" --denom "$DENOM" --transaction-count "$(echo "$TRANSACTION_FILES" | wc -l)"
+$PYTHON_INTERPRETER "$SCRIPT_DIR/print_plebdrop.py" --csv-file "$CSV_FILE" --denom "$DENOM" --transaction-count "$(echo "$TRANSACTION_FILES" | wc -l)"
 
 # Ask the user if they want to proceed with signing and broadcasting
 echo "Do you want to proceed with signing and broadcasting the transactions? (yes/no)"
@@ -82,18 +81,20 @@ CHAIN_ID="stargaze-1"
 for TX_FILE in $TRANSACTION_FILES; do
     echo "Processing transaction file: $TX_FILE"
 
-    # Confirm if want to sign, and then sign
     read -p "Are you sure you want to sign the transaction? (y/n) " confirm_sign
     if [[ "$confirm_sign" == "y" || "$confirm_sign" == "Y" ]]; then
         TX_SIGNED_FILE="${TX_FILE%.json}_signed.json"
         echo "Signing the transaction using file: $TX_FILE"
 
         # Sign the transaction
-        /home/flarnrules/go/bin/starsd tx sign "$TX_FILE" --from "$KEY_NAME" --chain-id "$CHAIN_ID" --keyring-backend file --output-document "$TX_SIGNED_FILE"
+        /home/flarnrules/go/bin/starsd tx sign "$TX_FILE" \
+            --from "$KEY_NAME" \
+            --chain-id "$CHAIN_ID" \
+            --output-document "$TX_SIGNED_FILE"
 
         # Check if the signing was successful
         if [ $? -ne 0 ]; then
-            echo "Error signing the transaction"
+            echo "Error signing the transaction. Ensure the key '$KEY_NAME' exists."
             exit 1
         fi
     else
@@ -101,30 +102,22 @@ for TX_FILE in $TRANSACTION_FILES; do
         exit 0
     fi
 
-    # Confirm if want to broadcast, and then broadcast
     read -p "You will broadcast this transaction, are you sure you want to proceed? (y/n) " confirm_broadcast
     if [[ "$confirm_broadcast" == "y" || "$confirm_broadcast" == "Y" ]]; then
 
         echo "Broadcasting the signed transaction..."
-        BROADCAST_OUTPUT=$(/home/flarnrules/go/bin/starsd tx broadcast "$TX_SIGNED_FILE" --node https://rpc.stargaze.zone:443 --output json)
+        BROADCAST_OUTPUT=$(/home/flarnrules/go/bin/starsd tx broadcast "$TX_SIGNED_FILE" --node https://rpc.stargaze-apis.com:443 --output json)
 
-        # Print the broadcast output
         echo "Broadcast output:"
         echo "$BROADCAST_OUTPUT"
 
-        # Parse the 'code' field from the output
         BROADCAST_CODE=$(echo "$BROADCAST_OUTPUT" | jq -r '.code')
-
-        # Check if the transaction was successful
         if [ "$BROADCAST_CODE" = "0" ] || [ -z "$BROADCAST_CODE" ]; then
             echo "Transaction broadcasted successfully."
         else
             echo "Transaction failed to broadcast."
-            # Optionally, exit or continue based on preference
-            # exit 1
         fi
 
-        # Small delay between transactions
         echo "Waiting for 5 seconds before processing the next transaction..."
         sleep 5
     else
@@ -135,7 +128,7 @@ done
 
 # Fetch final wallet balances
 echo "Fetching final wallet balances..."
-$PYTHON_INTERPRETER get_wallet_balances.py "$KEY_NAME" --keyring-backend file --output "$FINAL_BALANCES_FILE"
+$PYTHON_INTERPRETER get_wallet_balances.py --output "$FINAL_BALANCES_FILE"
 
 # Calculate balance differences
 echo "Calculating balance differences..."

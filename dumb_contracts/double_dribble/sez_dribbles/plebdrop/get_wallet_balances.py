@@ -10,21 +10,18 @@ def convert_micro_to_unit(micro_amount):
 def format_balance(amount):
     return f"{amount:,.2f}"
 
-def get_balances(wallet_name, keyring_backend):
+def get_balances(address):
+    """Retrieve balances for the given hardcoded address."""
     try:
-        # Get the wallet address
-        address = subprocess.check_output(
-            ["/home/flarnrules/go/bin/starsd", "keys", "show", wallet_name, "-a", "--keyring-backend", keyring_backend]
-        ).decode("utf-8").strip()
-
-        # Query the balances
+        # Query balances
         balances_raw = subprocess.check_output(
-            ["/home/flarnrules/go/bin/starsd", "query", "bank", "balances", address, "-o", "json"]
+            ["starsd", "query", "bank", "balances", address, "-o", "json"],
+            stderr=subprocess.STDOUT
         ).decode("utf-8")
-
         balances_json = json.loads(balances_raw)
         balances = balances_json.get("balances", [])
 
+        # Convert balances to standard units
         standard_balances = {}
         for balance in balances:
             denom = balance.get("denom")
@@ -36,46 +33,45 @@ def get_balances(wallet_name, keyring_backend):
 
         return standard_balances
     except subprocess.CalledProcessError as e:
-        print(f"Error: {e}")
+        print(f"Error retrieving balances: {e.output.decode('utf-8')}")
+        return {}
+    except Exception as e:
+        print(f"Unexpected error: {e}")
         return {}
 
 def print_balances(standard_balances):
+    """Print balances in a formatted table."""
     if standard_balances:
-        # Determine the longest token name for formatting
         max_denom_length = max(len(denom) for denom in standard_balances)
-
-        # Print header
-        print(f"\n{config.WALLET_NAME} balances:\n")
-
-        # Print balances in standard units
+        print("\nWallet Balances:\n")
+        print(f"{'Token':<{max_denom_length}} {'Amount':>15}")
         for denom, amount in standard_balances.items():
-            formatted_amount = format_balance(amount)
-            print(f" {denom:<{max_denom_length}} : {formatted_amount:>15} {denom}")
-
+            print(f"{denom:<{max_denom_length}} {format_balance(amount):>15}")
         print("\n" + "=" * 40 + "\n")
     else:
         print("No balances found or an error occurred.")
 
 def save_balances(standard_balances, file_path):
-    with open(file_path, 'w') as file:
-        json.dump(standard_balances, file, indent=2)
+    """Save balances to a JSON file."""
+    try:
+        with open(file_path, 'w') as file:
+            json.dump(standard_balances, file, indent=2)
+        print(f"Balances saved to {file_path}")
+    except Exception as e:
+        print(f"Error saving balances: {e}")
 
 def main():
-    # Default values
-    default_wallet_name = config.KEY_NAME  # Use KEY_NAME from config.py
-    default_keyring_backend = "file"
-
-    parser = argparse.ArgumentParser(description="Get wallet balances.")
-    parser.add_argument("wallet_name", nargs='?', default=default_wallet_name, type=str,
-                        help="The name of the wallet (default: from config.py).")
-    parser.add_argument("--keyring-backend", type=str, default=default_keyring_backend,
-                        help="The keyring backend to use (default: file).")
+    parser = argparse.ArgumentParser(description="Retrieve wallet balances.")
     parser.add_argument("--output", type=str,
-                        help="The file path to save balances as JSON.")
+                        help="File path to save balances as JSON.")
 
     args = parser.parse_args()
 
-    standard_balances = get_balances(args.wallet_name, args.keyring_backend)
+    # Hardcoded wallet address
+    address = "stars1r6f5tfxdx2pw5p94f2v5n96xd4nglz5qdgl4l3"
+
+    print(f"Fetching balances for address: {address}")
+    standard_balances = get_balances(address)
     print_balances(standard_balances)
 
     if args.output:

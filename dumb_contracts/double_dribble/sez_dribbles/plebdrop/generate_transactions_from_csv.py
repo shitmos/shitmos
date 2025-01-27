@@ -11,8 +11,9 @@ import config
 # Constants
 MAX_MESSAGES_PER_TX = 333  # Based on maximum gas limit
 FEE_DENOM = "ustars"       # Fee denomination for Stargaze
-FEE_AMOUNT = "200000"      # Fee amount in ustars
-GAS_LIMIT = "15000000"     # Gas limit per transaction
+FEE_AMOUNT = "50000000"      # Fee amount in ustars
+GAS_LIMIT = "50000000"     # Gas limit per transaction
+FIXED_AMOUNT = 222
 
 # Get the absolute path of the script directory
 SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
@@ -21,25 +22,23 @@ SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
 def resolve_path(path):
     return os.path.abspath(os.path.join(SCRIPT_DIR, path))
 
-def main():
-    parser = argparse.ArgumentParser(description='Generate transactions from CSV.')
-    parser.add_argument('--csv', type=str, default=config.DISTRIBUTION_CSV_FILE,
-                        help='Path to the CSV file with wallet addresses and amounts.')
-    parser.add_argument('--from-address', type=str, required=False,
-                        help='Sender\'s wallet address.')
-    parser.add_argument('--denom', type=str, default=config.get_full_denom(config.DENOM),
-                        help='Denomination of the token.')
-    args = parser.parse_args()
+def convert_to_micro_units(amount):
+    """Convert standard units to micro units."""
+    return int(amount * config.CONVERSION_RATE)
 
-    # Get from_address if not provided
-    if not args.from_address:
-        args.from_address = subprocess.check_output(
-            ["/home/flarnrules/go/bin/starsd", "keys", "show", config.KEY_NAME, "-a", "--keyring-backend", "file"]
-        ).decode("utf-8").strip()
+def main():
+    parser = argparse.ArgumentParser(description="Generate transactions from CSV.")
+    parser.add_argument("--csv", type=str, required=True,
+                        help="Path to the CSV file with wallet addresses.")
+    parser.add_argument("--from-address", type=str, required=True,
+                        help="Sender's wallet address.")
+    parser.add_argument("--denom", type=str, default=config.get_full_denom(config.DENOM),
+                        help="Denomination of the token.")
+    args = parser.parse_args()
 
     # Resolve paths
     csv_file_path = resolve_path(args.csv)
-    transactions_dir = resolve_path("../data/transactions")
+    transactions_dir = resolve_path("transactions")
 
     # Ensure the transactions directory exists
     os.makedirs(transactions_dir, exist_ok=True)
@@ -50,69 +49,60 @@ def main():
         sys.exit(1)
 
     # Read the CSV file with 'utf-8-sig' encoding to handle BOM
-    with open(csv_file_path, 'r', newline='', encoding='utf-8-sig') as csvfile:
-        reader = csv.DictReader(csvfile)
-        print(f"CSV headers detected: {reader.fieldnames}")  # Debug statement
+    with open(csv_file_path, 'r', encoding='utf-8-sig') as csvfile:
+        lines = csvfile.read().splitlines()
 
-        # Verify that the required columns are present
-        if config.CSV_WALLET_COLUMN not in reader.fieldnames or config.CSV_AMOUNT_COLUMN not in reader.fieldnames:
-            print(f"Error: CSV file does not contain required columns '{config.CSV_WALLET_COLUMN}' and '{config.CSV_AMOUNT_COLUMN}'.")
+        # Extract addresses from the CSV (skip the header)
+        header = lines[0].strip().lower()
+        if header != "address":
+            print("Error: CSV file must contain a single column with the header 'address'.")
             sys.exit(1)
+        addresses = [line.strip() for line in lines[1:]]
 
-        messages = []
-        transaction_counter = 0
-        all_transactions = []
+    # Convert the fixed amount to micro units
+    micro_amount = convert_to_micro_units(FIXED_AMOUNT)
 
-        for idx, row in enumerate(reader):
-            stargaze_address = row.get(config.CSV_WALLET_COLUMN, '').strip()
-            amount_str = row.get(config.CSV_AMOUNT_COLUMN, '').strip()
+    messages = []
+    transaction_counter = 0
+    all_transactions = []
 
-            if not stargaze_address:
-                print(f"Missing wallet address in row {idx}.")
-                continue
-            if not amount_str:
-                print(f"Missing amount in row {idx} for wallet '{stargaze_address}'.")
-                continue
+    for idx, address in enumerate(addresses):
+        if not address:
+            print(f"Skipping empty address at line {idx + 2}.")
+            continue
 
-            try:
-                # Convert amount to micro units using CONVERSION_RATE
-                amount = int(float(amount_str) * config.CONVERSION_RATE)
-            except ValueError:
-                print(f"Invalid amount '{amount_str}' for wallet '{stargaze_address}' in row {idx}.")
-                continue
+        # Create the message for Stargaze
+        msg = {
+            "@type": "/cosmos.bank.v1beta1.MsgSend",
+            "from_address": args.from_address,
+            "to_address": address,
+            "amount": [
+                {
+                    "denom": args.denom,
+                    "amount": str(micro_amount)
+                }
+            ]
+        }
+        messages.append(msg)
 
-            # Create the message for Stargaze
-            msg = {
-                "@type": "/cosmos.bank.v1beta1.MsgSend",
-                "from_address": args.from_address,
-                "to_address": stargaze_address,
-                "amount": [
-                    {
-                        "denom": args.denom,
-                        "amount": str(amount)
-                    }
-                ]
-            }
-            messages.append(msg)
-
-            # When the number of messages reaches the max, create a new transaction
-            if len(messages) >= MAX_MESSAGES_PER_TX:
-                transaction = create_transaction(messages)
-                all_transactions.append(transaction)
-                print(f"Transaction {transaction_counter} created with {len(messages)} messages.")
-                save_transaction(transaction, transaction_counter, transactions_dir)
-                messages = []
-                transaction_counter += 1
-
-        # Add remaining messages as the last transaction
-        if messages:
+        # When the number of messages reaches the max, create a new transaction
+        if len(messages) >= MAX_MESSAGES_PER_TX:
             transaction = create_transaction(messages)
             all_transactions.append(transaction)
             print(f"Transaction {transaction_counter} created with {len(messages)} messages.")
             save_transaction(transaction, transaction_counter, transactions_dir)
+            messages = []
             transaction_counter += 1
 
-        print(f"Total transactions created: {transaction_counter}")
+    # Add remaining messages as the last transaction
+    if messages:
+        transaction = create_transaction(messages)
+        all_transactions.append(transaction)
+        print(f"Transaction {transaction_counter} created with {len(messages)} messages.")
+        save_transaction(transaction, transaction_counter, transactions_dir)
+        transaction_counter += 1
+
+    print(f"Total transactions created: {transaction_counter}")
 
 def create_transaction(messages):
     tx = {
