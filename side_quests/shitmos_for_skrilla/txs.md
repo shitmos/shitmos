@@ -44,7 +44,16 @@ claim 59.08 STARS
 stake 1 LP -> star dollar vault = $54.39
 
 buys
-23.63 stars -> 
+23.63 stars -> 15.26 shitmos
+
+rewards
+claim 501 stars
+reinvest 250.5 stars
+
+buys
+200.4 stars -> 127 shitmos
+
+
 
 ### Info
 50% of rewards -> reinvest
