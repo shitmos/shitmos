@@ -3,7 +3,7 @@ import os
 from collections import defaultdict
 
 # Folder path where JSON files are stored
-folder_path = "snapshots/2024-10-31"  # Adjust this to your actual folder path
+folder_path = "bibby_oe_trilogy/snapshots/2025-02-22"  # Adjust this to your actual folder path
 
 # Store each file's data separately, indexed by filename
 file_data = {}

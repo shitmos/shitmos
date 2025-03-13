@@ -3,7 +3,7 @@ import os
 from collections import defaultdict
 
 # Folder path where the JSON snapshot files are stored
-folder_path = "snapshots/2024-10-31"  # Replace this with your folder path
+folder_path = "bibby_oe_trilogy/snapshots/2025-02-22"  # Replace this with your folder path
 
 # Load dump.json to analyze full matches
 with open("dump.json", "r") as file:
@@ -11,7 +11,7 @@ with open("dump.json", "r") as file:
 
 # Load collections.txt to get names and addresses
 collections = []
-with open("collections.txt", "r") as file:
+with open("bibby_oe_trilogy/collections.txt", "r") as file:
     next(file)  # Skip the header row
     for line in file:
         name, address = line.strip().split(", ")

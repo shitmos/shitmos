@@ -53,6 +53,19 @@ reinvest 250.5 stars
 buys
 200.4 stars -> 127 shitmos
 
+rewards
+claim 149 stars
+reinvest 74.5 stars
+
+buys
+59.6 stars -> 40.9 shitmos
+
+rewards
+claim 251.95 stars
+
+buys
+100.78 stars -> 61 shitmos
+
 
 
 ### Info

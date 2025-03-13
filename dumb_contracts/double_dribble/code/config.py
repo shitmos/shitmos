@@ -6,7 +6,7 @@
 # shitmos = Shitmos Hot Wallet
 
 # Snapshot
-SNAPSHOTS_FOLDER = "../sez_dribbles/plebdrop/"
+SNAPSHOTS_FOLDER = "../../dump/bibby_oe_trilogy/snapshots/2025-02-22"
 INCLUDE_LISTED_NFT_FOR_DISTRIBUTE = True
 
 # Wallet Name
@@ -15,7 +15,7 @@ WALLET_NAME = "Shitmos Hot Wallet"
 
 # Denomination and amount configuration
 DENOM = "SHITMOS"
-UNIT_AMOUNT = 2.2
+UNIT_AMOUNT = 22.2
 
 # Define conversion rate (1 unit = 1,000,000 micro units)
 CONVERSION_RATE = 1_000_000

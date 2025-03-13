@@ -2,3 +2,11 @@
 CACAOE001
 CACAOE002
 CACAOE003
+
+### Splits Contracts
+admin: stars1r6f5tfxdx2pw5p94f2v5n96xd4nglz5qdgl4l3
+
+stars1gwmx3jlu99pdz7z76yqxvp9n36sxk88ysrztdt234hjzzt03cg2qvjrxam - bonanza - stars1c7gsk4eaelpcplg0j5urpwnzqrp6wnytematee
+stars19cqm38vt9g76a642v5yxqqdnuc8v2sprf88swza9929w28skrwdqh8xgae - shitpocolypse
+stars19cqm38vt9g76a642v5yxqqdnuc8v2sprf88swza9929w28skrwdqh8xgae - shitzilla
+
