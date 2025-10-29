@@ -1,0 +1,24 @@
+{
+  "timestamp_iso": "2025-10-28T20:43:06.924485Z",
+  "input_file": "addresses.txt",
+  "from_key": "flydrop",
+  "amount": 1,
+  "denom": "uosmo",
+  "chain_id": "osmosis-1",
+  "node": "https://rpc.osmosis.zone:443",
+  "gas_prices": "0.025uosmo",
+  "gas_adjustment": "1.2",
+  "broadcast_mode": "sync",
+  "keyring_backend": null,
+  "memo": "flydrop",
+  "sleep": 0.3,
+  "max": 5,
+  "dedupe": false,
+  "dry_run": true,
+  "yes": false,
+  "counts": {
+    "loaded": 71,
+    "convertible": 5,
+    "errors": 0
+  }
+}

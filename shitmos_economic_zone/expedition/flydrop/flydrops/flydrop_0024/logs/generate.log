@@ -1,0 +1,15 @@
+══════════════════════════════════════════════════════════════════
+📋 Inputs
+  raw lines:      71
+  non-empty:      71
+  convertible:    71
+  unique outputs: 71
+══════════════════════════════════════════════════════════════════
+   ▶ chunk 1: generate-only cmd:
+     osmosisd tx bank send flydrop osmo1kjvkkyharafy6rxwu9sy9sas2kr5zl3m5nqe8f 100uosmo --chain-id osmosis-1 --node https://rpc.osmosis.zone:443 --gas auto --gas-prices 0.025uosmo --gas-adjustment 1.2 --keyring-backend file --generate-only --output json
+     stdout → /tmp/flydrop_base_57383_1.json
+saved: /home/flarnrules/repos/shitmos/shitmos_economic_zone/expedition/flydrop/flydrops/flydrop_0024/transactions/flydrop_tx_20251029_031945_0001.json
+══════════════════════════════════════════════════════════════════
+✅ Generation complete
+  tx files dir: /home/flarnrules/repos/shitmos/shitmos_economic_zone/expedition/flydrop/flydrops/flydrop_0024/transactions
+══════════════════════════════════════════════════════════════════

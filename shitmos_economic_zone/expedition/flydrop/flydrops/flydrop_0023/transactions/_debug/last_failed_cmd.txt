@@ -1,0 +1,1 @@
+osmosisd tx bank send --from flydrop osmo1kjvkkyharafy6rxwu9sy9sas2kr5zl3m5nqe8f 100uosmo --chain-id osmosis-1 --node https://rpc.osmosis.zone:443 --gas auto --gas-prices 0.025uosmo --gas-adjustment 1.2 --keyring-backend file --generate-only --output json

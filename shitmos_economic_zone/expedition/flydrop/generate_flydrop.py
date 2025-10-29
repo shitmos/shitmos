@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 # generate_flydrop.py — chunked unsigned tx generator
 #
-# ONE `osmosisd tx bank send --generate-only` per chunk using --from <KEY NAME>
-# (prompts once), then append remaining MsgSend in-memory.
+# ONE `osmosisd tx bank send --generate-only` per chunk using positional FROM
+# (your key NAME), then append remaining MsgSend in-memory.
 #
-# Use --verbose to print exact generate-only command and temp file used.
+# Use --verbose to print the exact generate-only command and temp file used.
 
 import argparse, json, subprocess, sys, re, math, shutil, tempfile, os
 from pathlib import Path
@@ -60,7 +60,7 @@ def main():
     ap.add_argument("--input", default="addresses.txt")
     ap.add_argument("--denom", required=True)
     ap.add_argument("--amount", required=True, type=int)
-    ap.add_argument("--from-key", required=True)        # key NAME used in --from
+    ap.add_argument("--from-key", required=True)        # key NAME used as positional FROM
     ap.add_argument("--from-address", required=True)    # address for message bodies
     ap.add_argument("--chunk", type=int, default=200)
     ap.add_argument("--memo", default="flydrop")
@@ -122,11 +122,11 @@ def main():
         first_to = group[0]
         amtdenom = f"{args.amount}{args.denom}"
 
-        # 1) base generate-only with KEY NAME (prompts once)
+        # 1) base generate-only with positional FROM (key NAME) → prompts once
         tmp_base = Path(tempfile.gettempdir()) / f"flydrop_base_{os.getpid()}_{idx}.json"
         gen_cmd = [
             "osmosisd","tx","bank","send",
-            "--from", args.from_key, first_to, amtdenom,
+            args.from_key, first_to, amtdenom,          # <-- POSITONAL: FROM TO AMOUNT
             "--chain-id", args.chain_id,
             "--node", args.node,
             "--gas","auto",

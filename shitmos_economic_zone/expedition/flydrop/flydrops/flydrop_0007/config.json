@@ -1,0 +1,18 @@
+{
+  "input": "addresses.txt",
+  "from_key": "flydrop",
+  "amount": 164280,
+  "denom": "upleb",
+  "chain_id": "osmosis-1",
+  "node": "https://rpc.osmosis.zone:443",
+  "gas_prices": "0.025uosmo",
+  "gas_adjustment": "1.2",
+  "keyring_backend": "os",
+  "memo": "flydrop",
+  "yes": true,
+  "dry_run": false,
+  "timestamp_utc": "2025-10-28T22:36:10.474917Z",
+  "loaded": 71,
+  "convertible": 71,
+  "errors": 0
+}
