@@ -1,0 +1,7 @@
+── keys (file backend)
+- address: osmo1q0tks0n67fthhu2pyw9xjfm9qk36hhky3xh9w0
+  name: flydrop
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A+S5rUksBAf3GIarWGopMUCeluWon438Gm3PiL7e5n9o"}'
+  type: local
+
+── keys (os backend)

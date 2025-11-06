@@ -1,0 +1,13 @@
+code: 0
+codespace: ""
+data: ""
+events: []
+gas_used: "0"
+gas_wanted: "0"
+height: "0"
+info: ""
+logs: []
+raw_log: ""
+timestamp: ""
+tx: null
+txhash: DAF96BA058C0BA2B825E01F4CC1D58E8558B17EDCD1591D750B8AE6F314E01A0

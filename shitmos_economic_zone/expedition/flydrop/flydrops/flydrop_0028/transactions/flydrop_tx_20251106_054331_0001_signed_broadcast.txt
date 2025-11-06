@@ -1,0 +1,14 @@
+code: 13
+codespace: sdk
+data: ""
+events: []
+gas_used: "0"
+gas_wanted: "0"
+height: "0"
+info: ""
+logs: []
+raw_log: 'insufficient fees; got: 252639uosmo which converts to 252639uosmo. required:
+  303168uosmo: insufficient fee'
+timestamp: ""
+tx: null
+txhash: E537EEFD2E2237415D3CA12E8BAFF1FA79EF82576DDAD19868DC3254606DA5C5

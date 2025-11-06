@@ -10,11 +10,24 @@ KEY_NAME="flydrop"                          # key name in osmosisd keyring
 KEYRING="file"                              # file|os|test
 CHAIN_ID="osmosis-1"
 NODE="https://rpc.osmosis.zone:443"
-GAS_PRICES="0.025uosmo"
+GAS_PRICES="0.037uosmo"
 GAS_ADJUSTMENT="1.2"
 
-DENOM="factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse"                               # token you’re sending
-AMOUNT_PER_ADDRESS="100"                    # e.g., 100 uosmo per recipient
+
+DENOM="factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos"                               # token you’re sending
+
+# denoms:
+# factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos
+# factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse
+
+AMOUNT_PER_ADDRESS="1000000000"                    # e.g., 100 uosmo per recipient
+# 72000000000
+# 72,000,000,000
+# 1000000 = 1
+# 10000000 = 10
+# 100000000 = 100
+# 1000000000 = 1,000 
+
 CHUNK=200                                   # recipients per tx (one prompt per chunk)
 MEMO="flydrop"
 

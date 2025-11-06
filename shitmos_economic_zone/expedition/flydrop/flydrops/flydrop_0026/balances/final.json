@@ -1,0 +1,15 @@
+{
+  "balances": [
+    {
+      "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/crazyhorse",
+      "amount": "9999992900"
+    },
+    {
+      "denom": "uosmo",
+      "amount": "4485740"
+    }
+  ],
+  "pagination": {
+    "total": "2"
+  }
+}
