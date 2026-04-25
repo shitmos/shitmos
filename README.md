@@ -1,6 +1,9 @@
 # shitmos
 Cosmos network's premier self-hatred shitcoin
 
+denom:
+factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos
+
 ## CLI tools
 This repo has code that utilize the stargaze and osmosis command line interface tools `starsd` and `osmosisd`
 
